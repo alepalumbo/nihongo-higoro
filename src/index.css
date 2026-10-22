@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---- theme tokens ---- */
+:root {
+  --bg: #faf9f6; /* washi */
+  --surface: #ffffff;
+  --elevated: #ffffff;
+  --line: #ececef;
+  --text: #2b2b2b; /* sumi */
+  --muted: #6b7280; /* gray-500 */
+  --card-dark: #4f46e5; /* light: flip back stays accent indigo */
+  --accent-soft: #eef2ff; /* accent-50 */
+  --accent-soft-text: #3730a3; /* accent-800 */
+  /* tables */
+  --th-bg: #eef2ff;
+  --th-text: #3730a3;
+  --tbl-border: #e5e7eb;
+  --row-odd: #ffffff;
+  --row-even: #fafafa;
+  --rt-color: #6366f1; /* furigana */
+}
+
+[data-theme='dark'] {
+  --bg: #0f0f13;
+  --surface: #1a1a24;
+  --elevated: #22222f;
+  --line: #2e2e3e;
+  --text: #e8e8f0;
+  --muted: #9090a8;
+  --card-dark: #16161f;
+  --accent-soft: #232338;
+  --accent-soft-text: #a5b4fc;
+  /* tables (dark refinement) */
+  --th-bg: #1e1e2e;
+  --th-text: #c7d2fe;
+  --tbl-border: #2e2e3e;
+  --row-odd: #16161f;
+  --row-even: #1a1a24;
+  --rt-color: #9090a8;
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-bg text-txt font-sans antialiased;
+    line-height: 1.7;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  /* Japanese glyphs render slightly larger for readability. */
+  .font-jp {
+    font-feature-settings: 'palt' 1;
+  }
+}
+
+/* ---- 3D flip card ---- */
+@layer utilities {
+  .perspective {
+    perspective: 1400px;
+  }
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  .backface-hidden {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+  /* Minimum accessible tap target. */
+  .tap {
+    min-width: 44px;
+    min-height: 44px;
+  }
+}
+
+/* Subtle haptic-style bounce on flip (slight overshoot). */
+.flip-inner {
+  transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.5, 1);
+  transform-style: preserve-3d;
+}
+.flip-inner.is-flipped {
+  transform: rotateY(180deg);
+}
+
+/* ---- tab fade ---- */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/* 'backwards' (not 'both'): no transform lingers after the animation, which
+   would otherwise trap position:fixed overlays inside the tab content. */
+.tab-enter {
+  animation: fadeUp 0.28s ease backwards;
+}
+
+/* ---- toast ---- */
+@keyframes toastIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+.toast-in {
+  animation: toastIn 0.3s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+/* ---- furigana / ruby ---- */
+ruby {
+  ruby-position: over;
+  transition: font-size 0.25s ease;
+}
+ruby rt {
+  font-size: 0.65em;
+  color: var(--rt-color);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  transition: font-size 0.25s ease, opacity 0.25s ease;
+}
+
+/* Lesson body furigana modes (cards handle this in JS). */
+.md-fur-furigana rt {
+  opacity: 1;
+}
+.md-fur-romaji ruby rt {
+  font-size: 0;
+  opacity: 0;
+}
+.md-fur-kana ruby {
+  font-size: 0;
+}
+.md-fur-kana ruby rt {
+  font-size: 1rem;
+  display: inline;
+  color: inherit;
+  font-weight: inherit;
+}
+
+/* ---- markdown prose ---- */
+.md-body {
+  line-height: 1.7;
+}
+.md-body ruby {
+  font-size: 1.1em; /* JP a touch larger for readability */
+}
+
+/* Horizontal-scroll wrapper so wide tables never overflow the page. */
+.md-body .table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+}
+/* Auto layout: columns size to content (works for any column count/order).
+   Cells have a sane min/max so text never collapses to one char per line and
+   long sentences wrap instead of stretching forever. The scroll wrapper takes
+   any remaining overflow. */
+.md-body table {
+  min-width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.md-body th,
+.md-body td {
+  border: 1px solid var(--tbl-border);
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+  min-width: 96px;
+  max-width: 300px;
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: auto;
+}
+.md-body th {
+  background: var(--th-bg);
+  color: var(--th-text);
+  font-weight: 600;
+}
+.md-body tr:nth-child(odd) td {
+  background: var(--row-odd);
+}
+.md-body tr:nth-child(even) td {
+  background: var(--row-even);
+}
+@media (max-width: 640px) {
+  .md-body table {
+    font-size: 13px;
+  }
+}
+
+.md-body h1,
+.md-body h2,
+.md-body h3 {
+  @apply font-semibold mt-5 mb-2 text-txt;
+  scroll-margin-top: 5rem; /* anchor lands below sticky headers */
+}
+.md-body h1 {
+  @apply text-xl;
+}
+/* Section headings get a subtle accent left border. */
+.md-body h2,
+.md-body h3 {
+  border-left: 3px solid #6366f1;
+  padding-left: 0.6rem;
+}
+.md-body h2 {
+  @apply text-lg;
+}
+.md-body h3 {
+  @apply text-base;
+}
+.md-body p {
+  @apply my-2;
+}
+.md-body ul {
+  @apply list-disc pl-6 my-2 space-y-1;
+}
+.md-body ol {
+  @apply list-decimal pl-6 my-2 space-y-1;
+}
+.md-body code {
+  background: var(--accent-soft);
+  color: var(--accent-soft-text);
+  @apply px-1.5 py-0.5 rounded text-sm font-jp;
+}
+.md-body strong {
+  @apply font-semibold text-txt;
+}
+.md-body blockquote {
+  @apply border-l-4 border-accent-300 pl-4 italic text-muted my-3;
+}
+.md-body mark {
+  background: #fde68a;
+  color: #1f2937;
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+/* ---- dark-mode contrast for accent text ----
+   Indigo 500/600 text is too dim on the near-black surfaces; lift it to the
+   lighter tints (buttons with bg-accent-600 + white text are unaffected). */
+[data-theme='dark'] .text-accent-600 {
+  color: #a5b4fc;
+}
+[data-theme='dark'] .text-accent-500 {
+  color: #818cf8;
+}

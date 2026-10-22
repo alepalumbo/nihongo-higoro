@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Full-bleed background (no rounded corners) for maskable safe zone -->
+  <rect width="512" height="512" fill="#3730a3"/>
+  <!-- Torii scaled into the central ~60% safe zone -->
+  <g fill="#ffffff" transform="translate(256,256) scale(0.42) translate(-512,-512)">
+    <rect x="228" y="296" width="568" height="78" rx="16"/>
+    <rect x="214" y="278" width="46" height="46" rx="12"/>
+    <rect x="764" y="278" width="46" height="46" rx="12"/>
+    <rect x="304" y="420" width="416" height="58" rx="14"/>
+    <rect x="340" y="374" width="70" height="378" rx="16"/>
+    <rect x="614" y="374" width="70" height="378" rx="16"/>
+  </g>
+</svg>
