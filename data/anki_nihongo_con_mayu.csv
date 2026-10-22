@@ -1,0 +1,1173 @@
+saluto;ohayou gozaimasu;おはようございます;buongiorno (formale);おはようございます
+saluto;ohayou;おはよう;buongiorno (informale);おはよう
+saluto;konnichiwa;こんにちは;buongiorno / buon pomeriggio;こんにちは
+saluto;yahho;やっほー;ciao! (informale giovanile);やっほー
+saluto;konbanwa;こんばんは;buonasera;こんばんは
+saluto;oyasumi;おやすみ;buonanotte (informale);おやすみ
+saluto;oyasumi nasai;おやすみなさい;buonanotte (formale);おやすみなさい
+saluto;moshi moshi;もしもし;pronto! (solo al telefono);もしもし
+saluto;sayounara;さようなら;arrivederci;さようなら
+saluto;mata ashita;また明日;a domani;またあした
+saluto;mata ne;またね;a presto (informale);またね
+espressione;genki desu ka;お元気ですか;come stai?;おげんきですか
+espressione;genki desu;元気です;sto bene;げんきです
+espressione;genki janai desu;元気じゃないです;non sto bene;げんきじゃないです
+espressione;maa maa desu;まあまあです;così così;まあまあです
+espressione;onaka ga suite imasu;お腹が空いています;ho fame;おなかがすいています
+aggettivo;nemui;眠い;assonnato / ho sonno;ねむい
+espressione;tsukarete imasu;疲れています;sono stanco/a;つかれています
+espressione;hai;はい;sì (formale);はい
+espressione;iie;いいえ;no (formale);いいえ
+espressione;un;うん;sì (informale);うん
+espressione;uun;ううん;no (informale);ううん
+espressione;dou itashimashite;どういたしまして;prego (risposta a grazie);どういたしまして
+espressione;ie ie;いえいえ;ma no / prego (informale);いえいえ
+espressione;douzo;どうぞ;prego / accomodarsi;どうぞ
+espressione;kudasai;ください;per favore (dopo richiesta);ください
+espressione;onegaishimasu;お願いします;per favore (formale);おねがいします
+espressione;yoroshiku onegaishimasu;よろしくお願いします;piacere / grazie per la tua guida;よろしくおねがいします
+aggettivo;daisuki;大好き;adoro;だいすき
+aggettivo;suki;好き;mi piace;すき
+aggettivo;kirai;嫌い;detesto;きらい
+aggettivo;daikirai;大嫌い;odio;だいきらい
+frase;nani ga suki desu ka;何が好きですか;cosa ti piace?;なにがすきですか
+frase;inu ga suki desu;犬が好きです;mi piacciono i cani;いぬがすきです
+frase;guruten ga kirai desu;グルテンが嫌いです;non mi piace il glutine;グルテンがきらいです
+frase;doko kara kimashita ka;どこから来ましたか;da dove vieni?;どこからきましたか
+frase;napori kara kimashita;ナポリから来ました;vengo da napoli;ナポリからきました
+frase;shusshin wa doko desu ka;出身はどこですか;di dove sei originario/a?;しゅっしんはどこですか
+frase;napori shusshin desu;ナポリ出身です;sono originario/a di napoli;ナポリしゅっしんです
+sostantivo;watashi;私;io;わたし
+sostantivo;kimi;君;tu (informale, poco usato);きみ
+sostantivo;anata;あなた;tu / lei (formale);あなた
+sostantivo;kare;彼;lui;かれ
+sostantivo;kanojo;彼女;lei / ragazza (fidanzata);かのじょ
+sostantivo;watashitachi;私たち;noi;わたしたち
+sostantivo;kimitachi;君たち;voi (informale);きみたち
+sostantivo;anatatachi;あなたたち;voi (formale);あなたたち
+sostantivo;karera;彼ら;loro (maschile/misto);かれら
+sostantivo;kanojora;彼女ら;loro (femminile);かのじょら
+sostantivo;kazoku;家族;famiglia;かぞく
+sostantivo;haha;母;mia madre;はは
+sostantivo;chichi;父;mio padre;ちち
+sostantivo;tomodachi;友達;amico/a;ともだち
+sostantivo;itoko;従兄弟;cugino/a;いとこ
+sostantivo;otouto;弟;fratello minore;おとうと
+sostantivo;kareshi;彼氏;ragazzo (fidanzato);かれし
+sostantivo;kore;これ;questo (vicino a me);これ
+sostantivo;sore;それ;quello (vicino a te);それ
+sostantivo;are;あれ;quello là (lontano);あれ
+sostantivo;kono hito;この人;questa persona;このひと
+sostantivo;dore;どれ;quale? (tra tutti);どれ
+sostantivo;dochira;どちら;quale? (tra due);どちら
+sostantivo;tenki;天気;tempo atmosferico;てんき
+sostantivo;kion;気温;temperatura;きおん
+aggettivo;warui;悪い;cattivo / brutto;わるい
+sostantivo;hare;晴れ;sereno / sole;はれ
+sostantivo;ame;雨;pioggia;あめ
+sostantivo;kaze;風;vento;かぜ
+sostantivo;kaminari;雷;tuono / temporale;かみなり
+sostantivo;yuki;雪;neve;ゆき
+sostantivo;kumori;曇り;nuvoloso;くもり
+frase;kyou no tenki wa hare desu;今日の天気は晴れです;oggi il tempo è sereno;きょうのてんきははれです
+sostantivo;kisetsu;季節;stagione;きせつ
+sostantivo;haru;春;primavera;はる
+sostantivo;natsu;夏;estate;なつ
+sostantivo;aki;秋;autunno;あき
+sostantivo;fuyu;冬;inverno;ふゆ
+aggettivo;atsui;暑い;fa caldo;あつい
+aggettivo;samui;寒い;fa freddo;さむい
+aggettivo;suzushii;涼しい;fresco;すずしい
+espressione;nazenara;なぜなら;perché / poiché;なぜなら
+colore;kiiro;黄色;giallo;きいろ
+colore;shiro;白;bianco;しろ
+colore;kuro;黒;nero;くろ
+colore;ao;青;blu / azzurro;あお
+colore;momoiro;桃色;rosa;ももいろ
+colore;murasaki;紫;viola;むらさき
+colore;aka;赤;rosso;あか
+colore;midori;緑;verde;みどり
+colore;kin;金;oro;きん
+colore;gin;銀;argento;ぎん
+numero;ichi;一;1;いち
+numero;ni;二;2;に
+numero;san;三;3;さん
+numero;shi / yon;四;4;し / よん
+numero;go;五;5;ご
+numero;roku;六;6;ろく
+numero;shichi / nana;七;7;しち / なな
+numero;hachi;八;8;はち
+numero;ku / kyuu;九;9;く / きゅう
+numero;juu;十;10;じゅう
+numero;juu ichi;十一;11;じゅういち
+numero;juu ni;十二;12;じゅうに
+numero;ni juu;二十;20;にじゅう
+numero;san juu;三十;30;さんじゅう
+numero;hyaku;百;100;ひゃく
+giorno;tsuitachi;一日;1 del mese;ついたち
+giorno;futsuka;二日;2 del mese;ふつか
+giorno;mikka;三日;3 del mese;みっか
+giorno;yokka;四日;4 del mese;よっか
+giorno;itsuka;五日;5 del mese;いつか
+giorno;muika;六日;6 del mese;むいか
+giorno;nanoka;七日;7 del mese;なのか
+giorno;youka;八日;8 del mese;ようか
+giorno;kokonoka;九日;9 del mese;ここのか
+giorno;tooka;十日;10 del mese;とおか
+giorno;hatsuka;二十日;20 del mese;はつか
+mese;ichi gatsu;一月;gennaio;いちがつ
+mese;ni gatsu;二月;febbraio;にがつ
+mese;san gatsu;三月;marzo;さんがつ
+mese;shi gatsu;四月;aprile;しがつ
+mese;go gatsu;五月;maggio;ごがつ
+mese;roku gatsu;六月;giugno;ろくがつ
+mese;shichi gatsu;七月;luglio;しちがつ
+mese;hachi gatsu;八月;agosto;はちがつ
+mese;ku gatsu;九月;settembre;くがつ
+mese;juu gatsu;十月;ottobre;じゅうがつ
+mese;juuichi gatsu;十一月;novembre;じゅういちがつ
+mese;juuni gatsu;十二月;dicembre;じゅうにがつ
+giorno;getsuyoubi;月曜日;lunedì;げつようび
+giorno;kayoubi;火曜日;martedì;かようび
+giorno;suiyoubi;水曜日;mercoledì;すいようび
+giorno;mokuyoubi;木曜日;giovedì;もくようび
+giorno;kin'youbi;金曜日;venerdì;きんようび
+giorno;doyoubi;土曜日;sabato;どようび
+giorno;nichiyoubi;日曜日;domenica;にちようび
+frase;kyou wa nan nichi desu ka;今日は何日ですか;che giorno è oggi?;きょうはなんにちですか
+frase;anata no tanjoubi wa itsu desu ka;あなたの誕生日はいつですか;quando è il tuo compleanno?;あなたのたんじょうびはいつですか
+sostantivo;kaisha;会社;azienda;かいしゃ
+sostantivo;shigoto;仕事;lavoro;しごと
+verbo;hatarakimasu;働きます;lavorare;はたらきます
+frase;jouhoukei no shigoto desu;情報系の仕事です;lavoro nel settore informatico;じょうほうけいのしごとです
+espressione;kouun wo;幸運を;in bocca al lupo!;こううんを
+sostantivo;tabemono;食べもの;cibo;たべもの
+sostantivo;nomimono;飲みもの;bevanda;のみもの
+espressione;hontou desu ka;本当ですか;davvero? (formale);ほんとうですか
+espressione;hontou ni;本当に;davvero? (informale);ほんとうに
+espressione;sou desu ka;そうですか;ah sì? / capisco;そうですか
+espressione;daijoubu desu;大丈夫です;va bene / non c'è problema;だいじょうぶです
+frase;kyou no tenki wa nan desu ka;今日の天気は何ですか;com'è il tempo oggi?;きょうのてんきはなんですか
+sostantivo;dochira;どちら;quale? (tra due opzioni);どちら
+frase;yama to umi dochira ga suki desu ka;山と海どちらが好きですか;preferisci la montagna o il mare?;やまとうみどちらがすきですか
+espressione;naze desu ka;なぜですか;perché?;なぜですか
+frase;nazenara kawaii kara desu;なぜなら可愛いから です;perché è carino/a;なぜならかわいいからです
+frase;nazenara kirei dakara desu;なぜなら綺麗だから です;perché è bello/a;なぜならきれいだからです
+aggettivo;kawaii;可愛い;carino/a / dolce;かわいい
+aggettivo;tanoshii;楽しい;divertente;たのしい
+aggettivo;omoshiroi;面白い;interessante;おもしろい
+aggettivo;tsumaranai;つまらない;noioso/a;つまらない
+aggettivo;kanashii;悲しい;triste;かなしい
+aggettivo;kibishii;厳しい;severo/a;きびしい
+aggettivo;yasashii;優しい;gentile / dolce;やさしい
+aggettivo;uzai;うざい;fastidioso/a (colloquiale);うざい
+aggettivo;kirei;綺麗;bello/a / pulito/a;きれい
+aggettivo;shizuka;静か;tranquillo/a / silenzioso/a;しずか
+aggettivo;yuumei;有名;famoso/a;ゆうめい
+aggettivo;shinsetsu;親切;gentile (formale);しんせつ
+aggettivo;odayaka;穏やか;calmo/a / sereno/a;おだやか
+aggettivo;kakkoi;かっこいい;figo/a / bello/a;かっこいい
+aggettivo;genki;元気;energico/a / in forma;げんき
+sostantivo;benkyouka;勉強家;studioso/a;べんきょうか
+sostantivo;ganbariya;頑張り屋;persona che si impegna;がんばりや
+sostantivo;namakemono;怠け者;pigro/a;なまけもの
+sostantivo;tensai;天才;genio;てんさい
+espressione;gyaku ni;逆に;al contrario / invece;ぎゃくに
+sostantivo;imouto;妹;sorella minore;いもうと
+sostantivo;sofu;祖父;nonno;そふ
+sostantivo;sobo;祖母;nonna;そぼ
+sostantivo;douryou;同僚;collega;どうりょう
+sostantivo;shumi;趣味;hobby / interesse;しゅみ
+frase;anata no shumi wa nan desu ka;あなたの趣味は何ですか;qual è il tuo hobby?;あなたのしゅみはなんですか
+sostantivo;ongaku;音楽;musica;おんがく
+frase;ongaku wo hiku koto;音楽を弾くこと;suonare musica;おんがくをひくこと
+sostantivo;bijutsu;美術;arte;びじゅつ
+sostantivo;eiga;映画;cinema / film;えいが
+sostantivo;ryokou;旅行;viaggiare / viaggio;りょこう
+sostantivo;dokusho;読書;leggere;どくしょ
+sostantivo;undou;運動;fare sport / esercizio;うんどう
+sostantivo;sanpo;散歩;passeggiare;さんぽ
+sostantivo;gengo;言語;lingua / linguaggio;げんご
+sostantivo;televi kanshou;テレビ鑑賞;guardare la tv;テレビかんしょう
+sostantivo;video game;ビデオゲーム;videogiochi;ビデオゲーム
+sostantivo;turi;釣り;pesca;つり
+sostantivo;sake;お酒;alcol / sake;おさけ
+sostantivo;nuimono;縫い物;cucito;ぬいもの
+sostantivo;keshou;化粧;truccarsi;けしょう
+frase;ensou shi ni ikimasu;演奏しに行きます;vado a suonare;えんそうしにいきます
+sostantivo;ie;家;casa;いえ
+sostantivo;eki;駅;stazione;えき
+sostantivo;kouen;公園;parco;こうえん
+sostantivo;tatemono;建物;edificio;たてもの
+sostantivo;daigaku;大学;università;だいがく
+sostantivo;kyoukai;教会;chiesa;きょうかい
+sostantivo;daiseidou;大聖堂;cattedrale;だいせいどう
+sostantivo;suupaa;スーパー;supermercato;スーパー
+sostantivo;basu tei;バス停;fermata dell'autobus;バスてい
+sostantivo;gekijou;劇場;teatro;げきじょう
+frase;natsu yasumi doko ni ikimasu ka;夏休みどこに行きますか;dove vai per le vacanze estive?;なつやすみどこにいきますか
+frase;nihon ni ikimasu;日本に行きます;vado in giappone;にほんにいきます
+frase;kuruma de ryokou shimasu;車で旅行します;viaggio in macchina;くるまでりょこうします
+frase;dare ga unten shimasu ka;誰が運転しますか;chi guida?;だれがうんてんしますか
+frase;umi ni ikimasu;海に行きます;vado al mare;うみにいきます
+frase;dare to ikimasu ka;誰と行きますか;con chi vai?;だれといきますか
+espressione;tabun;多分;forse;たぶん
+sostantivo;konshuumatsu;今週末;questo fine settimana;こんしゅうまつ
+sostantivo;shuumatsu;週末;fine settimana;しゅうまつ
+sostantivo;asatte;明後日;dopodomani;あさって
+sostantivo;konya;今夜;stanotte / stasera;こんや
+sostantivo;asagohan;朝ごはん;colazione;あさごはん
+verbo;nomimasu;飲みます;bere (educato);のみます
+frase;konya nani wo tabemasu ka;今夜何を食べますか;cosa mangi stasera?;こんやなにをたべますか
+frase;asagohan ni nani wo tabemasu ka;朝ごはんに何を食べますか;cosa mangi a colazione?;あさごはんになにをたべますか
+frase;itsumo wa nanika tabemasu;いつもは何か食べます;di solito mangio qualcosa;いつもはなにかたべます
+espressione;shikashi;しかし;però / ma (formale);しかし
+frase;nani wo benkyou shimasu ka;何を勉強しますか;cosa studi?;なにをべんきょうしますか
+sostantivo;bungaku;文学;letteratura;ぶんがく
+sostantivo;jouhou;情報;informatica / informazione;じょうほう
+frase;ie ni imasu;家にいます;sono a casa;いえにいます
+espressione;dekaketai;出かけたい;voglio uscire;でかけたい
+frase;gakkou de benkyou shimasu;学校で勉強します;studio a scuola;がっこうでべんきょうします
+frase;kouen de undou shimasu;公園で運動します;faccio sport al parco;こうえんでうんどうします
+frase;doko ni ikimasu ka;どこに行きますか;dove vai?;どこにいきますか
+verbo;iku;行く;andare (forma base);いく
+verbo;ikimasu;行きます;andare (educato);いきます
+frase;daigaku ni ikimasu;大学に行きます;vado all'università;だいがくにいきます
+frase;shigoto ni ikimasu;仕事に行きます;vado al lavoro;しごとにいきます
+frase;jikka ni ikimasu;実家に行きます;vado a casa dei miei;じっかにいきます
+frase;kaimono ni ikimasu;買い物に行きます;vado a fare spese;かいものにいきます
+frase;machi ni ikimasu;町に行きます;vado in città;まちにいきます
+frase;chuushingai ni ikimasu;中心街に行きます;vado in centro;ちゅうしんがいにいきます
+frase;konsaato ni ikimasu;コンサートに行きます;vado a un concerto;コンサートにいきます
+frase;kawa ni ikimasu;川に行きます;vado al fiume;かわにいきます
+frase;toshokan ni ikimasu;図書館に行きます;vado in biblioteca;としょかんにいきます
+verbo;dekakeru;出かける;uscire / andare fuori (base);でかける
+verbo;dekakemasu;出かけます;uscire / andare fuori (educato);でかけます
+frase;tomodachi ni aimasu;友達に会います;incontro un amico;ともだちにあいます
+frase;biiru wo nomimasu;ビールを飲みます;bevo una birra;ビールをのみます
+verbo;nomu;飲む;bere (base);のむ
+espressione;hoka ni wa;他には;cos'altro / oltre a questo;ほかには
+verbo;oyogu;泳ぐ;nuotare (base);およぐ
+verbo;oyogimasu;泳ぎます;nuotare (educato);およぎます
+sostantivo;hirugohan;昼ごはん;pranzo;ひるごはん
+sostantivo;yorugohan;夜ごはん;cena;よるごはん
+espressione;mada wakaranai;まだわからない;non lo so ancora;まだわからない
+sostantivo;niku;肉;carne;にく
+sostantivo;yasai;野菜;verdura;やさい
+frase;osusume na tabemono wa nan desu ka;おすすめな食べ物は何ですか;qual è il cibo che consigli?;おすすめなたべものはなんですか
+frase;nan no pizza ga suki desu ka;何のピザが好きですか;che tipo di pizza ti piace?;なんのピザがすきですか
+frase;donna okashi desu ka;どんなお菓子ですか;com'è il dolce?;どんなおかしですか
+espressione;ippai;いっぱい;pieno / tanto;いっぱい
+espressione;takusan;たくさん;molto / tanti;たくさん
+frase;yoku suupaa de nani wo kaimasu ka;よくスーパーで何を買いますか;cosa compri spesso al supermercato?;よくスーパーでなにをかいますか
+verbo;kau;買う;comprare (base);かう
+verbo;kaimasu;買います;comprare (educato);かいます
+verbo;miru;見る;vedere / guardare (base);みる
+verbo;mimasu;見ます;vedere / guardare (educato);みます
+verbo;kaku;書く;scrivere (base);かく
+verbo;kakimasu;書きます;scrivere (educato);かきます
+verbo;omou;思う;pensare (base);おもう
+verbo;omoimasu;思います;pensare (educato);おもいます
+verbo;matsu;待つ;aspettare (base);まつ
+verbo;machimasu;待ちます;aspettare (educato);まちます
+verbo;warau;笑う;ridere (base);わらう
+verbo;waraimasu;笑います;ridere (educato);わらいます
+verbo;taberu;食べる;mangiare (base);たべる
+verbo;tabemasu;食べます;mangiare (educato);たべます
+verbo;okiru;起きる;svegliarsi (base);おきる
+verbo;okimasu;起きます;svegliarsi (educato);おきます
+verbo;kiru;着る;indossare (base);きる
+verbo;kimasu;着ます;indossare (educato);きます
+verbo;neru;寝る;dormire (base);ねる
+verbo;nemasu;寝ます;dormire (educato);ねます
+verbo;suru;する;fare (base);する
+verbo;shimasu;します;fare (educato);します
+verbo;kuru;来る;venire (base);くる
+verbo;kimasu;来ます;venire (educato);きます
+verbo;hanasu;話す;parlare (base);はなす
+verbo;hanashimasu;話します;parlare (educato);はなします
+verbo;au;会う;incontrare (base);あう
+verbo;aimasu;会います;incontrare (educato);あいます
+verbo;aru;ある;esserci - cose (base);ある
+verbo;arimasu;あります;esserci - cose (educato);あります
+verbo;iru;いる;esserci - persone/animali (base);いる
+verbo;imasu;います;esserci - persone/animali (educato);います
+verbo;sumu;住む;abitare (base);すむ
+verbo;sumimasu;住みます;abitare (educato);すみます
+verbo;oshieru;教える;insegnare (base);おしえる
+verbo;oshiemasu;教えます;insegnare (educato);おしえます
+verbo;wasureru;忘れる;dimenticare (base);わすれる
+verbo;wasuremashita;忘れました;ho dimenticato;わすれました
+sostantivo;ji;時;ora;じ
+ora;ichi ji;一時;l'una;いちじ
+ora;ni ji;二時;le due;にじ
+ora;san ji;三時;le tre;さんじ
+ora;yo ji;四時;le quattro;よじ
+ora;go ji;五時;le cinque;ごじ
+ora;roku ji;六時;le sei;ろくじ
+ora;shichi ji;七時;le sette;しちじ
+ora;hachi ji;八時;le otto;はちじ
+ora;ku ji;九時;le nove;くじ
+ora;juu ji;十時;le dieci;じゅうじ
+ora;juuichi ji;十一時;le undici;じゅういちじ
+ora;juuni ji;十二時;le dodici;じゅうにじ
+frase;asa nan ji ni okimasu ka;朝何時に起きますか;a che ora ti svegli la mattina?;あさなんじにおきますか
+frase;nan ji ni nemasu ka;何時に寝ますか;a che ora vai a dormire?;なんじにねますか
+aggettivo;osoi;遅い;tardi / in ritardo;おそい
+sostantivo;natsufuku;夏服;vestiti estivi;なつふく
+frase;nan gatsu kara natsufuku wo kimasu ka;何月から夏服を着ますか;da che mese indossi i vestiti estivi?;なんがつからなつふくをきますか
+sostantivo;kankokyaku;観光客;turista;かんこうきゃく
+frase;napori de kankokyaku wa nani wo mimasu ka;ナポリで観光客は何を見ますか;cosa guardano i turisti a napoli?;ナポリでかんこうきゃくはなにをみますか
+sostantivo;rekishichiku;歴史地区;quartiere storico;れきしちく
+sostantivo;kaigan;海岸;costa / lungomare;かいがん
+sostantivo;hashi;橋;ponte;はし
+sostantivo;shiro;城;castello;しろ
+sostantivo;kankou;観光;turismo;かんこう
+verbo;oyogimasu;泳ぎます;nuoto (educato);およぎます
+sostantivo;petto;ペット;animale domestico;ペット
+frase;petto ga imasu ka;ペットがいますか;hai un animale domestico?;ペットがいますか
+espressione;imasen;いません;non c'è / non ho (persone/animali);いません
+frase;nan no doubutsu desu ka;何の動物ですか;che animale è?;なんのどうぶつですか
+sostantivo;doubutsu;動物;animale;どうぶつ
+frase;ashita shigoto ga arimasu ka;明日仕事がありますか;domani hai lavoro?;あしたしごとがありますか
+frase;kuruma ga arimasu ka;車がありますか;hai una macchina?;くるまがありますか
+frase;nani iro desu ka;何色ですか;di che colore è?;なにいろですか
+frase;fuyuyasumi ga arimasu ka;冬休みがありますか;hai le vacanze invernali?;ふゆやすみがありますか
+frase;sonkei shiteru hito wa imasu ka;尊敬している人はいますか;c'è una persona che ammiri?;そんけいしているひとはいますか
+frase;takusan oshiete kuremashita;たくさん教えてくれました;mi ha insegnato tanto;たくさんおしえてくれました
+sostantivo;kyoudai;兄弟;fratelli / sorelle;きょうだい
+frase;kyoudai ga imasu ka;兄弟がいますか;hai fratelli/sorelle?;きょうだいがいますか
+sostantivo;shinseki;親戚;parenti;しんせき
+sostantivo;senzo;先祖;antenati;せんぞ
+espressione;daremo inai;誰もいない;non c'è nessuno;だれもいない
+frase;anata no shinseki wa doko ni sumimasu ka;あなたの親戚はどこに住みますか;dove abitano i tuoi parenti?;あなたのしんせきはどこにすみますか
+frase;yoku aimasu ka;よく会いますか;vi vedete spesso?;よくあいますか
+sostantivo;ken;県;prefettura;けん
+sostantivo;chiba-ken;千葉県;prefettura di chiba;ちばけん
+sostantivo;hiroshima-ken;広島県;prefettura di hiroshima;ひろしまけん
+sostantivo;tokyo-to;東京都;metropoli di tokyo;とうきょうと
+sostantivo;osaka-fu;大阪府;prefettura urbana di osaka;おおさかふ
+frase;nihon no dono ken ni ikimasu ka;日本のどの県に行きますか;in quale prefettura del giappone vai?;にほんのどのけんにいきますか
+frase;itta koto ga nai;行ったことがない;non ci sono mai stato/a;いったことがない
+frase;tabun rainen ikimasu;多分来年行きます;forse ci vado l'anno prossimo;たぶんらいねんいきます
+sostantivo;rainen;来年;l'anno prossimo;らいねん
+frase;donokurai;どのくらい;quanto tempo / quanto;どのくらい
+sostantivo;ni shuukan;二週間;due settimane;にしゅうかん
+espressione;naruhodo;なるほど;capisco / interessante;なるほど
+espressione;wakarimashita;わかりました;ho capito;わかりました
+espressione;ii desu ne;いいですね;che bello! / ottimo!;いいですね
+espressione;kesa;今朝;stamattina;けさ
+espressione;guuzen;偶然;per caso / coincidenza;ぐうぜん
+sostantivo;jikka;実家;casa dei genitori;じっか
+sostantivo;toshokan;図書館;biblioteca;としょかん
+sostantivo;kawa;川;fiume;かわ
+saluto;osu;おす;ciao! (maschile informale);おす
+saluto;you;よう;ehi / ciao (maschile informale);よう
+saluto;atashi;あたし;io (femminile);あたし
+sostantivo;boku;僕;io (maschile informale);ぼく
+sostantivo;ore;俺;io (maschile forte/informale);おれ
+verbo;nomimashita;飲みました;ho bevuto;のみました
+verbo;kakimashita;書きました;ho scritto;かきました
+verbo;hanashimashita;話しました;ho parlato;はなしました
+verbo;machimashita;待ちました;ho aspettato;まちました
+verbo;kaimashita;買いました;ho comprato;かいました
+verbo;ikimashita;行きました;sono andato;いきました
+verbo;waraimashita;笑いました;ho riso;わらいました
+verbo;tabemashita;食べました;ho mangiato;たべました
+verbo;okimashita;起きました;mi sono svegliato;おきました
+verbo;nemashita;寝ました;ho dormito;ねました
+verbo;mimashita;見ました;ho visto;みました
+verbo;kimashita;着ました;ho indossato;きました
+verbo;oshiemashita;教えました;ho insegnato;おしえました
+verbo;wasuremashita;忘れました;ho dimenticato;わすれました
+verbo;shimashita;しました;ho fatto;しました
+verbo;kimashita;来ました;sono venuto;きました
+espressione;deshita;でした;era / fu (passato di desu);でした
+frase;hare deshita;晴れでした;era sereno;はれでした
+frase;genki deshita ka;元気でしたか;come stavi?;げんきでしたか
+frase;tesuto wa dou deshita ka;テストはどうでしたか;com'è andato il test?;テストはどうでしたか
+aggettivo;muzukashikatta desu;難しかったです;era difficile;むずかしかったです
+aggettivo;tanoshikatta desu;楽しかったです;era divertente;たのしかったです
+aggettivo;samukatta desu;寒かったです;faceva freddo;さむかったです
+aggettivo;atsukatta desu;暑かったです;faceva caldo;あつかったです
+espressione;yokatta desu;良かったです;meno male! / che bello!;よかったです
+giorno;ototoi;一昨日;l'altro ieri;おととい
+giorno;kinou;昨日;ieri;きのう
+giorno;kyou;今日;oggi;きょう
+giorno;ashita;明日;domani;あした
+giorno;asatte;明後日;dopodomani;あさって
+frase;kinou no tenki wa dou deshita ka;昨日の天気はどうでしたか;com'era il tempo ieri?;きのうのてんきはどうでしたか
+frase;ototoi wa ame deshita;一昨日は雨でした;l'altro ieri pioveva;おとといはあめでした
+ora;issai;一歳;1 anno;いっさい
+ora;nisai;二歳;2 anni;にさい
+ora;sansai;三歳;3 anni;さんさい
+ora;yonsai;四歳;4 anni;よんさい
+ora;gosai;五歳;5 anni;ごさい
+ora;rokusai;六歳;6 anni;ろくさい
+ora;nanasai;七歳;7 anni;ななさい
+ora;hassai;八歳;8 anni;はっさい
+ora;kyuusai;九歳;9 anni;きゅうさい
+ora;jussai;十歳;10 anni;じゅっさい
+ora;hatachi;二十歳;20 anni (irregolare);はたち
+ora;sanjuuissai;三十一歳;31 anni;さんじゅういっさい
+frase;nan sai desu ka;何歳ですか;quanti anni hai?;なんさいですか
+frase;oikutsu desu ka;おいくつですか;quanti anni ha? (formale);おいくつですか
+frase;watashi wa sanjuuissai desu;私は三十一歳です;ho 31 anni;わたしはさんじゅういっさいです
+frase;konya doko ni ikimasu ka;今夜どこに行きますか;dove vai stasera?;こんやどこにいきますか
+frase;kyou no tenki wa dou desu ka;今日の天気はどうですか;com'è il tempo oggi?;きょうのてんきはどうですか
+frase;sumimasen ima nan ji desu ka;すみません今何時ですか;scusi che ore sono?;すみませんいまなんじですか
+frase;juuhachi ji desu;十八時です;sono le 18;じゅうはちじです
+frase;gogo roku ji desu;午後六時です;sono le 6 di sera;ごごろくじです
+frase;kyou wa nani wo tabemashita ka;今日は何を食べましたか;cosa hai mangiato oggi?;きょうはなにをたべましたか
+frase;asagohan ni nani wo tabemashita ka;朝ごはんに何を食べましたか;cosa hai mangiato a colazione?;あさごはんになにをたべましたか
+frase;koohii dake nomimashita;コーヒーだけ飲みました;ho bevuto solo un caffè;コーヒーだけのみました
+frase;kinou wa doko ni ikimashita ka;昨日どこに行きましたか;dove sei andato ieri?;きのうはどこにいきましたか
+frase;ototoi doko ni ikimashita ka;一昨日どこに行きましたか;dove sei andato l'altro ieri?;おとといどこにいきましたか
+frase;nan ji ni ikimashita ka;何時に行きましたか;a che ora sei andato?;なんじにいきましたか
+frase;milano de nani wo mimashita ka;ミラノで何を見ましたか;cosa hai visto a milano?;ミラノでなにをみましたか
+frase;saikin nani wo kaimashita ka;最近何を買いましたか;cosa hai comprato di recente?;さいきんなにをかいましたか
+frase;dare to ikimashita ka;誰と行きましたか;con chi sei andato?;だれといきましたか
+frase;hitori de ikimashita;一人で行きました;sono andato da solo;ひとりでいきました
+sostantivo;dare;誰;chi;だれ
+sostantivo;yuugata;夕方;tardo pomeriggio / sera;ゆうがた
+sostantivo;saikin;最近;di recente / ultimamente;さいきん
+espressione;ima wa;今は;adesso / ora;いまは
+espressione;mou;もう;già / ormai / non più;もう
+sostantivo;koohii;コーヒー;caffè;コーヒー
+espressione;dake;だけ;solo / soltanto;だけ
+sostantivo;hon;本;libro;ほん
+sostantivo;tetsugaku;哲学;filosofia;てつがく
+sostantivo;shigotoba;仕事場;posto di lavoro;しごとば
+verbo;ryouri suru;料理する;cucinare;りょうりする
+frase;kaze wo hiku;風邪を引く;prendere un raffreddore;かぜをひく
+sostantivo;mushi;虫;insetto;むし
+sostantivo;kyabetsu;キャベツ;cavolo;キャベツ
+sostantivo;okashi;お菓子;dolci / caramelle;おかし
+sostantivo;karaimono;辛いもの;cibo piccante;からいもの
+sostantivo;amaimono;甘いもの;cibo dolce;あまいもの
+sostantivo;sakkaa;サッカー;calcio;サッカー
+verbo;asobu;遊ぶ;giocare / divertirsi;あそぶ
+verbo;hashiru;走る;correre;はしる
+sostantivo;konomi;好み;preferenza / gusto;このみ
+sostantivo;kokunai ryokou;国内旅行;viaggio nazionale;こくないりょこう
+sostantivo;kaigai ryokou;海外旅行;viaggio all'estero;かいがいりょこう
+espressione;choo;ちょう;super / troppo (informale);ちょう
+espressione;hontou ni;本当に;davvero / veramente;ほんとうに
+espressione;majime ni;まじめに;seriamente;まじめに
+espressione;hayaku;早く;presto / velocemente;はやく
+espressione;osoku;遅く;tardi / lentamente;おそく
+espressione;amari;あまり;non molto (con negativa);あまり
+espressione;sono tame;そのため;per questo / quindi;そのため
+espressione;tashika ni;確かに;certamente / è vero;たしかに
+espressione;tatoeba;例えば;per esempio;たとえば
+espressione;tokuni;特に;in particolare;とくに
+aggettivo;kawaikatta desu;可愛かったです;era carino/a;かわいかったです
+aggettivo;omoshirokatta desu;面白かったです;era interessante;おもしろかったです
+aggettivo;tsumaranakatta desu;つまらなかったです;era noioso;つまらなかったです
+aggettivo;kowakatta desu;怖かったです;faceva paura;こわかったです
+aggettivo;tanoshikatta desu;楽しかったです;era divertente;たのしかったです
+aggettivo;kirei datta desu;綺麗だったです;era bello/a;きれいだったです
+aggettivo;shizuka datta desu;静かだったです;era tranquillo/a;しずかだったです
+aggettivo;hen datta desu;変だったです;era strano/a;へんだったです
+aggettivo;kowai;怖い;spaventoso / fa paura;こわい
+aggettivo;hen;変;strano/a;へん
+frase;kodomo no toki nani ga suki deshita ka;子供の頃何が好きでしたか;cosa ti piaceva da bambino?;こどものときなにがすきでしたか
+frase;asobu no ga suki deshita;遊ぶのが好きでした;mi piaceva giocare;あそぶのがすきでした
+frase;mushi ga kowakatta desu;虫が怖かったです;gli insetti mi facevano paura;むしがこわかったです
+frase;anata wa donna kodomo deshita ka;あなたはどんな子供でしたか;che tipo di bambino eri?;あなたはどんなこどもでしたか
+frase;genki na kodomo deshita;元気な子供でした;ero un bambino vivace;げんきなこどもでした
+frase;mukashi nani ga kirai deshita ka;昔何が嫌いでしたか;cosa non ti piaceva un tempo?;むかしなにがきらいでしたか
+sostantivo;kodomo no koro;子供の頃;quando ero bambino;こどものころ
+sostantivo;mukashi;昔;un tempo / in passato;むかし
+sostantivo;obaachan;おばあちゃん;nonna (affettuoso);おばあちゃん
+espressione;kawaisou ni;かわいそうに;che peccato / povero/a;かわいそうに
+sostantivo;hantai;反対;contrario / opposto;はんたい
+frase;yama to umi dochira ga suki desu ka;山と海どちらが好きですか;preferisci la montagna o il mare?;やまとうみどちらがすきですか
+frase;kokunai ryokou to kaigai ryokou dochira ga suki desu ka;国内旅行と海外旅行どちらが好きですか;preferisci viaggiare in italia o all'estero?;こくないりょこうとかいがいりょこうどちらがすきですか
+frase;nazenara mou italia wo takusan mimashita;なぜならもうイタリアをたくさん見ました;perché ho già visto tanto dell'italia;なぜならもうイタリアをたくさんみました
+sostantivo;ichiban;一番;il più ~ / numero uno;いちばん
+frase;dono machi ga ichiban kirei deshita ka;どの町が一番綺麗でしたか;quale città era la più bella?;どのまちがいちばんきれいでしたか
+frase;nani ga ichiban yuumei desu ka;何が一番有名ですか;cosa è il più famoso?;なにがいちばんゆうめいですか
+frase;watashi mo suki desu;私も好きです;piace anche a me;わたしもすきです
+frase;dou deshita ka;どうでしたか;com'è stato?;どうでしたか
+espressione;anata ni totte;あなたにとって;per te / dal tuo punto di vista;あなたにとって
+espressione;ni tsuite;について;riguardo a ~ / su ~;について
+espressione;oishisugiru;美味しすぎる;troppo buono!;おいしすぎる
+espressione;subete;全て;tutto / tutti;すべて
+verbo;kakisugiru;書きすぎる;scrivere troppo;かきすぎる
+verbo;tabesugiru;食べすぎる;mangiare troppo;たべすぎる
+verbo;hatarakisugiru;働きすぎる;lavorare troppo;はたらきすぎる
+verbo;arukisugiru;歩きすぎる;camminare troppo;あるきすぎる
+verbo;kikusugiru;聞きすぎる;ascoltare troppo;きくすぎる
+verbo;misugiru;見すぎる;guardare troppo;みすぎる
+verbo;nesugiru;寝すぎる;dormire troppo;ねすぎる
+verbo;shisugiru;しすぎる;fare troppo;しすぎる
+verbo;kisugiru;来すぎる;venire troppo;きすぎる
+verbo;hatarakisugita;働きすぎた;ho lavorato troppo;はたらきすぎた
+aggettivo;atsuisugiru;暑すぎる;troppo caldo;あつすぎる
+espressione;kara;から;da / a partire da;から
+espressione;made;まで;fino a;まで
+frase;nan ji kara hatarakimashita ka;何時から働きましたか;da che ora hai lavorato?;なんじからはたらきましたか
+frase;nan ji made hatarakimashita ka;何時まで働きましたか;fino a che ora hai lavorato?;なんじまではたらきましたか
+frase;tokyo kara meguro made onegaishimasu;東京から目黒までお願いします;da tokyo a meguro per favore;とうきょうからめぐろまでおねがいします
+espressione;ppoi;っぽい;sembra / ha l'aria di;っぽい
+frase;kono inu wa nekoppoi;この犬は猫っぽい;questo cane sembra un gatto;このいぬはねこっぽい
+verbo;ikitai;行きたい;voglio andare;いきたい
+verbo;machitai;待ちたい;voglio aspettare;まちたい
+verbo;nomitai;飲みたい;voglio bere;のみたい
+verbo;hashiritai;走りたい;voglio correre;はしりたい
+verbo;araitai;洗いたい;voglio lavare;あらいたい
+verbo;kaitai;買いたい;voglio comprare;かいたい
+verbo;okitai;起きたい;voglio alzarmi;おきたい
+verbo;shimetai;閉めたい;voglio chiudere;しめたい
+verbo;aketai;開けたい;voglio aprire;あけたい
+verbo;tabetai;食べたい;voglio mangiare;たべたい
+verbo;shitai;したい;voglio fare;したい
+verbo;kitai;来たい;voglio venire;きたい
+verbo;aitai;会いたい;voglio incontrare;あいたい
+verbo;hatarakitai;働きたい;voglio lavorare;はたらきたい
+frase;konya nani wo tabetai desu ka;今夜何を食べたいですか;cosa vuoi mangiare stasera?;こんやなにをたべたいですか
+frase;kono natsu doko ni ikitai desu ka;この夏どこに行きたいですか;dove vuoi andare questa estate?;このなつどこにいきたいですか
+frase;umi e ikitai desu;海へ行きたいです;voglio andare al mare;うみへいきたいです
+frase;kaisuiyoku ga shitai desu;海水浴がしたいです;voglio fare il bagno al mare;かいすいよくがしたいです
+frase;shizen no naka wo arukitai desu;自然の中を歩きたいです;voglio camminare nella natura;しぜんのなかをあるきたいです
+frase;hayaku yorugohan wo tabetai;早く夜ご飯を食べたい;voglio mangiare presto la cena;はやくよるごはんをたべたい
+verbo;ikitakunai;行きたくない;non voglio andare;いきたくない
+verbo;kakitakunai;書きたくない;non voglio scrivere;かきたくない
+verbo;shitakunai;したくない;non voglio fare;したくない
+verbo;kitakunai;来たくない;non voglio venire;きたくない
+verbo;hatarakitakunai;働きたくない;non voglio lavorare;はたらきたくない
+verbo;itakunai;いたくない;non voglio stare;いたくない
+frase;ashita ie ni itakunai;明日家にいたくない;domani non voglio stare a casa;あしたいえにいたくない
+frase;hayaku okitakunai;早く起きたくない;non voglio alzarmi presto;はやくおきたくない
+verbo;motta;持った;ho tenuto (plain past);もった
+verbo;matta;待った;ho aspettato (plain past);まった
+verbo;itta;行った;sono andato (plain past);いった
+verbo;sawatta;触った;ho toccato (plain past);さわった
+verbo;okotta;怒った;mi sono arrabbiato (plain past);おこった
+verbo;nobotta;登った;sono salito (plain past);のぼった
+verbo;haita;掃いた;ho spazzato (plain past);はいた
+verbo;kaita;書いた;ho scritto (plain past);かいた
+verbo;toita;解いた;ho risolto (plain past);といた
+verbo;aruita;歩いた;ho camminato (plain past);あるいた
+verbo;hashitta;走った;ho corso (plain past);はしった
+verbo;katta;買った;ho comprato (plain past);かった
+verbo;utatta;歌った;ho cantato (plain past);うたった
+verbo;kiita;聞いた;ho ascoltato (plain past);きいた
+verbo;dekaketa;出かけた;sono uscito (plain past);でかけた
+verbo;tabeta;食べた;ho mangiato (plain past);たべた
+verbo;aketa;開けた;ho aperto (plain past);あけた
+verbo;shimeta;閉めた;ho chiuso (plain past);しめた
+verbo;mita;見た;ho visto (plain past);みた
+verbo;neta;寝た;ho dormito (plain past);ねた
+verbo;okita;起きた;mi sono svegliato (plain past);おきた
+verbo;shita;した;ho fatto (plain past);した
+verbo;kita;来た;sono venuto (plain past);きた
+sostantivo;kippu;切符;biglietto;きっぷ
+sostantivo;gakkou;学校;scuola;がっこう
+sostantivo;kyoushitsu;教室;aula;きょうしつ
+sostantivo;shiyakusho;市役所;municipio / comune;しやくしょ
+sostantivo;hiroba;広場;piazza;ひろば
+sostantivo;mise;店;negozio;みせ
+sostantivo;michi;道;strada;みち
+sostantivo;nikuya;肉屋;macelleria;にくや
+sostantivo;byouin;病院;ospedale;びょういん
+sostantivo;oisha-san;お医者さん;medico / dottore;おいしゃさん
+sostantivo;basho;場所;posto / luogo;ばしょ
+sostantivo;shizen;自然;natura;しぜん
+sostantivo;okome;お米;riso (alimento);おこめ
+sostantivo;ase;汗;sudore;あせ
+sostantivo;meguro;目黒;meguro (quartiere tokyo);めぐろ
+sostantivo;kaisuiyoku;海水浴;bagno al mare;かいすいよく
+frase;eki de kippu wo kau;駅で切符を買う;comprare il biglietto in stazione;えきできっぷをかう
+frase;toshokan de hon wo yomu;図書館で本を読む;leggere un libro in biblioteca;としょかんでほんをよむ
+frase;kinou kyoukai ni itta;昨日教会に行った;ieri sono andato in chiesa;きのうきょうかいにいった
+frase;shiyakusho wa watashi no ie kara tooi;市役所は私の家から遠い;il comune è lontano da casa mia;しやくしょはわたしのいえからとおい
+frase;watashi wa hiroba de tomodachi ni atta;私は広場で友達に会った;ho incontrato un amico in piazza;わたしはひろばでともだちにあった
+frase;hashi de neko wo mita;橋で猫を見た;ho visto un gatto sul ponte;はしでねこをみた
+frase;watashitachi wa michi wo aruita;私たちは道を歩いた;abbiamo camminato per la strada;わたしたちはみちをあるいた
+espressione;chinamini;ちなみに;a proposito / tra l'altro;ちなみに
+espressione;osokuni;遅くに;tardi / a tarda ora;おそくに
+espressione;yori;より;più di / rispetto a;より
+aggettivo;nagai;長い;lungo/a;ながい
+aggettivo;ookina;大きな;grande (davanti a nome);おおきな
+aggettivo;tooi;遠い;lontano;とおい
+verbo;hatarakitsuzukeru;働き続ける;continuare a lavorare;はたらきつづける
+frase;ase wo kaku;汗をかく;sudare;あせをかく
+verbo;sawaru;触る;toccare;さわる
+verbo;okoru;怒る;arrabbiarsi;おこる
+verbo;noboru;登る;salire;のぼる
+verbo;haku;掃く;spazzare;はく
+verbo;toku;解く;risolvere;とく
+verbo;utau;歌う;cantare;うたう
+verbo;aruku;歩く;camminare;あるく
+verbo;motsu;持つ;tenere / portare;もつ
+espressione;mou;もう;già / ormai;もう
+espressione;mada;まだ;ancora / non ancora;まだ
+espressione;sakki;さっき;poco fa;さっき
+espressione;sugu;すぐ;subito;すぐ
+espressione;mousugu;もうすぐ;presto / tra poco;もうすぐ
+espressione;itsumo;いつも;sempre;いつも
+espressione;yoku;よく;spesso;よく
+espressione;tokidoki;ときどき;a volte;ときどき
+espressione;taitei;たいてい;di solito;たいてい
+espressione;mata;また;di nuovo / ancora;また
+espressione;mou ichido;もう一度;un'altra volta / ancora una volta;もういちど
+espressione;hajimete;はじめて;per la prima volta;はじめて
+espressione;amari;あまり;non molto (con negativa);あまり
+espressione;zenzen;ぜんぜん;per niente (con negativa);ぜんぜん
+espressione;kanari;かなり;abbastanza / parecchio;かなり
+espressione;sukoshi;少し;un po';すこし
+espressione;chotto;ちょっと;un po' (informale);ちょっと
+espressione;motto;もっと;di più;もっと
+espressione;yukkuri;ゆっくり;lentamente / con calma;ゆっくり
+espressione;hayaku;はやく;presto / velocemente;はやく
+espressione;issho ni;いっしょに;insieme;いっしょに
+espressione;betsubetsu ni;べつべつに;separatamente;べつべつに
+espressione;chanto;ちゃんと;bene / correttamente;ちゃんと
+espressione;shikkari;しっかり;bene / saldamente;しっかり
+espressione;zehi;ぜひ;assolutamente / di certo;ぜひ
+frase;itsumo shigoto no ato tsukareru;いつも仕事の後疲れる;mi stanco sempre dopo il lavoro;いつもしごとのあとつかれる
+frase;yoku nemuranai;よく眠らない;spesso non dormo bene;よくねむらない
+frase;atsui no wa zenzen suki janai;暑いのはぜんぜん好きじゃない;il caldo non mi piace per niente;あついのはぜんぜんすきじゃない
+frase;kyou wa totemo hataraita;今日はとても働いた;oggi ho lavorato molto;きょうはとてもはたらいた
+frase;kono mise wa kanari yuumei;この店はかなり有名;questo negozio è abbastanza famoso;このみせはかなりゆうめい
+frase;kono heya wa kanari samui;この部屋はかなり寒い;questa stanza è parecchio fredda;このへやはかなりさむい
+frase;shio wo sukoshi tasu;塩を少し足す;aggiungere un po' di sale;しおをすこしたす
+frase;chotto dake ajimi suru;ちょっとだけ味見する;assaggiare solo un pochino;ちょっとだけあじみする
+frase;piano ga motto umaku naritai;ピアノがもっとうまくなりたい;voglio diventare più bravo al pianoforte;ピアノがもっとうまくなりたい
+frase;doubutsu no naka de inu ga ichiban suki;動物の中で犬が一番好き;tra gli animali preferisco i cani;どうぶつのなかでいぬがいちばんすき
+frase;kare ga ichiban shinsetsu;彼が一番親切;lui è il più gentile;かれがいちばんしんせつ
+frase;yukkuri hanashite kudasai;ゆっくり話してください;parli lentamente per favore;ゆっくりはなしてください
+frase;tomodachi to issho ni gohan wo taberu;友達と一緒にご飯を食べる;mangio con gli amici insieme;ともだちといっしょにごはんをたべる
+frase;betsubetsu ni haraimasu;別々に払います;paghiamo separatamente;べつべつにはらいます
+frase;zairyou wo betsubetsu ni yaku;材料を別々に焼く;cuocere gli ingredienti separatamente;ざいりょうをべつべつにやく
+frase;chanto nihongo wo hanasu;ちゃんと日本語を話す;parlare giapponese correttamente;ちゃんとにほんごをはなす
+frase;shikkari benkyou shimasu;しっかり勉強します;studio seriamente;しっかりべんきょうします
+frase;zehi watashi no ie ni kite kudasai;ぜひ私の家に来てください;vieni assolutamente a casa mia;ぜひわたしのいえにきてください
+frase;mata aimashou;また会いましょう;ci vediamo di nuovo / arrivederci;またあいましょう
+frase;mou ichido itte kudasai;もう一度言ってください;lo dica un'altra volta per favore;もういちどいってください
+frase;hajimete nihon ni kimashita;初めて日本に来ました;sono venuto in giappone per la prima volta;はじめてにほんにきました
+frase;tokuni oniku ga oishii desu;特にお肉が美味しいです;soprattutto la carne è buona;とくにおにくがおいしいです
+verbo;konomu;好む;preferire;このむ
+verbo;nemuru;眠る;dormire (formale);ねむる
+verbo;tasu;足す;aggiungere;たす
+verbo;ajimi suru;味見する;assaggiare;あじみする
+verbo;unten suru;運転する;guidare;うんてんする
+verbo;junbi suru;準備する;prepararsi;じゅんびする
+verbo;harau;払う;pagare;はらう
+verbo;yaku;焼く;cuocere / grigliare;やく
+sostantivo;saidai;最大;massimo;さいだい
+sostantivo;jikan;時間;tempo / ore;じかん
+sostantivo;shio;塩;sale;しお
+sostantivo;zairyou;材料;ingredienti;ざいりょう
+sostantivo;oniku;お肉;carne (forma educata);おにく
+sostantivo;heya;部屋;stanza / camera;へや
+espressione;umaku;うまく;bene / con abilità;うまく
+espressione;inai;いない;non c'è (persone/animali - informale);いない
+espressione;nai;ない;non c'è (cose - informale);ない
+numero;hitori;ひとり;1 persona;ひとり
+numero;futari;ふたり;2 persone;ふたり
+numero;sannin;さんにん;3 persone;さんにん
+numero;yonin;よにん;4 persone;よにん
+numero;gonin;ごにん;5 persone;ごにん
+numero;rokunin;ろくにん;6 persone;ろくにん
+numero;nananin;ななにん;7 persone;ななにん
+numero;hachinin;はちにん;8 persone;はちにん
+numero;kyuunin;きゅうにん;9 persone;きゅうにん
+numero;juunin;じゅうにん;10 persone;じゅうにん
+numero;ikko;いっこ;1 oggetto;いっこ
+numero;niko;にこ;2 oggetti;にこ
+numero;sanko;さんこ;3 oggetti;さんこ
+numero;yonko;よんこ;4 oggetti;よんこ
+numero;goko;ごこ;5 oggetti;ごこ
+numero;rokko;ろっこ;6 oggetti;ろっこ
+numero;nanako;ななこ;7 oggetti;ななこ
+numero;hakko;はっこ;8 oggetti;はっこ
+numero;kyuuko;きゅうこ;9 oggetti;きゅうこ
+numero;jukko;じゅっこ;10 oggetti;じゅっこ
+numero;issatsu;いっさつ;1 libro;いっさつ
+numero;nisatsu;にさつ;2 libri;にさつ
+numero;sansatsu;さんさつ;3 libri;さんさつ
+numero;yonsatsu;よんさつ;4 libri;よんさつ
+numero;gosatsu;ごさつ;5 libri;ごさつ
+numero;rokusatsu;ろくさつ;6 libri;ろくさつ
+numero;nanasatsu;ななさつ;7 libri;ななさつ
+numero;hassatsu;はっさつ;8 libri;はっさつ
+numero;kyuusatsu;きゅうさつ;9 libri;きゅうさつ
+numero;jussatsu;じゅっさつ;10 libri;じゅっさつ
+numero;ippiki;いっぴき;1 animale;いっぴき
+numero;nihiki;にひき;2 animali;にひき
+numero;sanbiki;さんびき;3 animali;さんびき
+numero;yonhiki;よんひき;4 animali;よんひき
+numero;gohiki;ごひき;5 animali;ごひき
+numero;roppiki;ろっぴき;6 animali;ろっぴき
+numero;nanahiki;ななひき;7 animali;ななひき
+numero;happiki;はっぴき;8 animali;はっぴき
+numero;kyuuhiki;きゅうひき;9 animali;きゅうひき
+numero;juppiki;じゅっぴき;10 animali;じゅっぴき
+numero;ichidai;いちだい;1 veicolo/macchinario;いちだい
+numero;nidai;にだい;2 veicoli/macchinari;にだい
+numero;sandai;さんだい;3 veicoli/macchinari;さんだい
+numero;yondai;よんだい;4 veicoli/macchinari;よんだい
+numero;godai;ごだい;5 veicoli/macchinari;ごだい
+numero;ippon;いっぽん;1 oggetto lungo;いっぽん
+numero;nihon;にほん;2 oggetti lunghi;にほん
+numero;sanbon;さんぼん;3 oggetti lunghi;さんぼん
+numero;yonhon;よんほん;4 oggetti lunghi;よんほん
+numero;gohon;ごほん;5 oggetti lunghi;ごほん
+numero;roppon;ろっぽん;6 oggetti lunghi;ろっぽん
+numero;nanahon;ななほん;7 oggetti lunghi;ななほん
+numero;happon;はっぽん;8 oggetti lunghi;はっぽん
+numero;kyuuhon;きゅうほん;9 oggetti lunghi;きゅうほん
+numero;juppon;じゅっぽん;10 oggetti lunghi;じゅっぽん
+frase;ie ni nannin imasu ka;家に何人いますか;quante persone ci sono in casa?;いえになんにんいますか
+frase;kagi ga nanko arimasu ka;鍵が何個ありますか;quante chiavi hai?;かぎがなんこありますか
+frase;megane ga nanko arimasu ka;眼鏡が何個ありますか;quanti occhiali hai?;めがねがなんこありますか
+frase;hon wo nansatsu motte imasu ka;本を何冊持っていますか;quanti libri hai?;ほんをなんさつもっていますか
+frase;anata wa nanbiki doubutsu ga imasu ka;あなたは何匹動物がいますか;quanti animali hai?;あなたはなんびきどうぶつがいますか
+frase;anata no ie ni nandai kuruma ga arimasu ka;あなたの家に何台車がありますか;quante macchine hai a casa?;あなたのいえになんだいくるまがありますか
+frase;anata wa isshuukan ni nanbon wain wo nomimasu ka;あなたは一週間に何本ワインを飲みますか;quante bottiglie di vino bevi a settimana?;あなたはいっしゅうかんになんぼんワインをのみますか
+frase;anata no tsukue ni nanbon pen ga arimasu ka;あなたの机に何本ペンがありますか;quante penne hai sulla scrivania?;あなたのつくえになんぼんペンがありますか
+sostantivo;shuukan;週間;settimana (periodo);しゅうかん
+sostantivo;isshuukan;一週間;una settimana;いっしゅうかん
+sostantivo;tetsudou;鉄道;ferrovia;てつどう
+sostantivo;kagi;鍵;chiave;かぎ
+sostantivo;megane;眼鏡;occhiali;めがね
+sostantivo;kyoukasho;教科書;libro di testo;きょうかしょ
+aggettivo;hoshii;欲しい;volere / desiderare (oggetti);ほしい
+sostantivo;tsukue;机;scrivania;つくえ
+sostantivo;chikaku;近く;vicino;ちかく
+espressione;soshite;そして;e poi / inoltre;そして
+sostantivo;mizu;水;acqua;みず
+sostantivo;koohii meekaa;コーヒーメーカー;macchinetta del caffè;コーヒーメーカー
+frase;watashi wa asa kao wo aratte gohan wo tabete gakkou ni ikimasu;私は朝顔を洗ってご飯を食べて学校に行きます;la mattina mi lavo la faccia mangio e vado a scuola;わたしはあさかおをあらってごはんをたべてがっこうにいきます
+frase;asa goji ni okite kao wo aratte gohan wo taberu;朝5時に起きて顔を洗ってご飯を食べる;mi sveglio alle 5 mi lavo la faccia e mangio;あさごじにおきてかおをあらってごはんをたべる
+frase;yoru ofuro ni haitte kami wo kawakashite gohan wo tabemasu;夜お風呂に入って髪を乾かしてご飯を食べます;la sera faccio il bagno asciugo i capelli e mangio;よるおふろにはいってかみをかわかしてごはんをたべます
+frase;shigoto no ato relakkusu shite;仕事の後リラックスして;dopo il lavoro mi rilasso;しごとのあとリラックスして
+verbo;sawatte;触って;toccando (forma -te);さわって
+verbo;haitte;入って;entrando (forma -te);はいって
+verbo;tonde;飛んで;volando (forma -te);とんで
+verbo;kaite;書いて;scrivendo (forma -te);かいて
+verbo;aratte;洗って;lavando (forma -te);あらって
+verbo;okite;起きて;svegliandosi (forma -te);おきて
+verbo;kawakashite;乾かして;asciugando (forma -te);かわかして
+verbo;tabetakunakatta desu;食べたくなかったです;non volevo mangiare;たべたくなかったです
+verbo;kaitakunakatta desu;買いたくなかったです;non volevo comprare;かいたくなかったです
+verbo;kikitakunakatta;聞きたくなかった;non volevo ascoltare;ききたくなかった
+verbo;tsukau;使う;usare;つかう
+verbo;tsukaimasu;使います;usare (educato);つかいます
+verbo;tanomu;頼む;chiedere / ordinare;たのむ
+verbo;tanomimasu;頼みます;chiedere / ordinare (educato);たのみます
+verbo;hairu;入る;entrare;はいる
+verbo;hairimasu;入ります;entrare (educato);はいります
+verbo;kawakasu;乾かす;asciugare;かわかす
+verbo;kawakashimasu;乾かします;asciugare (educato);かわかします
+verbo;kaeru;帰る;tornare a casa;かえる
+verbo;kaerimasu;帰ります;tornare a casa (educato);かえります
+verbo;tsukuru;作る;fare / cucinare / creare;つくる
+verbo;tsukurimasu;作ります;fare / cucinare / creare (educato);つくります
+verbo;rikai suru;理解する;capire / comprendere;りかいする
+verbo;rikai shimasu;理解します;capire / comprendere (educato);りかいします
+frase;kyuujitsu wa doko ni ikitai desu ka;休日はどこに行きたいですか;nel giorno libero dove vuoi andare?;きゅうじつはどこにいきたいですか
+frase;natsu to fuyu dochira ga suki desu ka;夏と冬どちらが好きですか;preferisci l'estate o l'inverno?;なつとふゆどちらがすきですか
+frase;dono amaimono ga tabetai desu ka;どの甘いものが食べたいですか;quale dolce vuoi mangiare?;どのあまいものがたべたいですか
+frase;dare to eiga ni ikimasu ka;誰と映画に行きますか;con chi vai al cinema?;だれとえいがにいきますか
+frase;itsu ryokou ni ikimasu ka;いつ旅行に行きますか;quando vai in viaggio?;いつりょこうにいきますか
+frase;nazenara daigaku ni hairu tame desu;なぜなら大学に入るためです;perché voglio entrare all'università;なぜならだいがくにはいるためです
+frase;yori yoku rikai shite hanasu tame;より良く理解して話すため;per capire e parlare meglio;よりよくりかいしてはなすため
+espressione;tame;ため;per / al fine di;ため
+espressione;fudan;普段;di solito / normalmente;ふだん
+sostantivo;nama kuriimu;生クリーム;panna fresca;なまクリーム
+sostantivo;karuimono;軽いもの;qualcosa di leggero;かるいもの
+sostantivo;ofuro;お風呂;bagno / vasca;おふろ
+sostantivo;kami;髪;capelli;かみ
+sostantivo;rikai;理解;comprensione;りかい
+sostantivo;kao;顔;faccia / viso;かお
+sostantivo;gohan;ご飯;pasto / riso cotto;ごはん
+aggettivo;shoppai;しょっぱい;salato;しょっぱい
+aggettivo;amai;甘い;dolce;あまい
+colore;chairo;茶色;marrone;ちゃいろ
+aggettivo;mijikai;短い;corto / breve;みじかい
+aggettivo;mijikakatta;短かった;era corto / breve;みじかかった
+aggettivo;tanoshikatta;楽しかった;era divertente;たのしかった
+aggettivo;oishikatta;美味しかった;era buono;おいしかった
+verbo;mijikasugiru;短すぎる;troppo corto / breve;みじかすぎる
+verbo;tanoshisugiru;楽しすぎる;troppo divertente;たのしすぎる
+frase;nannichikan ikimashita ka;何日間行きましたか;per quanti giorni ci sei andato?;なんにちかんいきましたか
+frase;nangatsu nannichi ni shuppatsu shimashita ka;何月何日に出発しましたか;in che data sei partito?;なんがつなんにちにしゅっぱつしましたか
+frase;tooka ni shuppatsu shimashita;十日に出発しました;sono partito il 10;とおかにしゅっぱつしました
+frase;tsukimashita ka;着きましたか;sei arrivato?;つきましたか
+frase;sore wa donna tabemono desu ka;それはどんな食べ物ですか;che tipo di cibo è?;それはどんなたべものですか
+frase;dore ga ichiban oishikatta desu ka;どれが一番美味しかったですか;qual era il più buono?;どれがいちばんおいしかったですか
+frase;kiji no naka ni kuriimu ga haitte imasu;生地の中にクリームが入っています;dentro la pasta c'è la crema;きじのなかにクリームがはいっています
+sostantivo;shuppatsu;出発;partenza;しゅっぱつ
+verbo;shuppatsu suru;出発する;partire;しゅっぱつする
+verbo;tsuku;着く;arrivare;つく
+verbo;tsukimasu;着きます;arrivo (educato);つきます
+sostantivo;kiji;生地;pasta / impasto / tessuto;きじ
+sostantivo;hachimitsu;はちみつ;miele;はちみつ
+sostantivo;shinyuu;親友;migliore amico;しんゆう
+sostantivo;daitai;だいたい;più o meno / circa;だいたい
+sostantivo;jiki;時期;periodo / momento;じき
+sostantivo;dainishuu;第二週;seconda settimana;だいにしゅう
+sostantivo;daisanshuu;第三週;terza settimana;だいさんしゅう
+verbo;iwau;祝う;festeggiare / celebrare;いわう
+verbo;iwaimasu;祝います;festeggio (educato);いわいます
+sostantivo;oshougatsu;お正月;capodanno giapponese;おしょうがつ
+verbo;hiku;弾く;suonare (strumento);ひく
+verbo;hikimasu;弾きます;suono (educato);ひきます
+verbo;hikimashita;弾きました;ho suonato (educato);ひきました
+verbo;hiita;弾いた;ho suonato (plain past);ひいた
+verbo;hiite;弾いて;suonando (forma -te);ひいて
+verbo;hikitai;弾きたい;voglio suonare;ひきたい
+frase;katte imasen;買っていません;non ho comprato ancora;かっていません
+frase;kattenai;買ってない;non ho comprato (informale);かってない
+aggettivo;hayaku;早く;velocemente / presto (avverbio);はやく
+aggettivo;osoku;遅く;tardi / lentamente (avverbio);おそく
+aggettivo;yoku;良く;bene / spesso (avverbio);よく
+aggettivo;ooku;多く;tanto / molto (avverbio);おおく
+frase;nihon wa atsukunai desu;日本は暑くないです;il giappone non è caldo;にほんはあつくないです
+frase;michi wo aruku;道を歩く;camminare per la strada;みちをあるく
+frase;sora wo tobu;空を飛ぶ;volare nel cielo;そらをとぶ
+frase;hon ga aru;本がある;c'è un libro;ほんがある
+frase;neko ga iru;猫がいる;c'è un gatto;ねこがいる
+frase;kinou wa ie ni imashita;昨日は家にいました;ieri ero a casa;きのうはいえにいました
+frase;hachi ji ni daigaku ni ikimasu;八時に大学に行きます;alle 8 vado all'università;はちじにだいがくにいきます
+sostantivo;donokurai;どのくらい;quanto / quanto tempo / quanto distante;どのくらい
+frase;tokyo kara chiba wa donokurai no kyori ga arimasu ka;東京から千葉はどのくらいの距離がありますか;quanto è distante da tokyo a chiba?;とうきょうからちばはどのくらいのきょりがありますか
+frase;donokurai italia ni sunde imasu ka;どのくらいイタリアに住んでいますか;da quanto tempo vivi in italia?;どのくらいイタリアにすんでいますか
+frase;hikouji kan wa donokurai desu ka;飛行時間はどのくらいですか;quanto dura il volo?;ひこうじかんはどのくらいですか
+verbo;kakaru;かかる;volerci tempo/denaro;かかる
+verbo;kakarimasu;かかります;ci vuole (educato);かかります
+frase;donokurai kakarimasu ka;どのくらいかかりますか;quanto ci vuole?;どのくらいかかりますか
+frase;nijikan kakarimasu;二時間かかります;ci vogliono 2 ore;にじかんかかります
+espressione;jaa;じゃあ;allora / beh (informale);じゃあ
+espressione;deshou;でしょう;vero? / probabilmente (educato);でしょう
+espressione;dayone;だよね;è così vero? (informale);だよね
+espressione;zannen nagara;残念ながら;purtroppo / sfortunatamente;ざんねんながら
+espressione;koko suunichi;ここ数日;questi ultimi giorni;ここすうにち
+espressione;sugu ni;すぐに;subito / immediatamente;すぐに
+verbo;ikanai;行かない;non vado (informale);いかない
+verbo;kawanai;買わない;non compro (informale);かわない
+verbo;hanasanai;話さない;non parlo (informale);はなさない
+verbo;tabenai;食べない;non mangio (informale);たべない
+verbo;konai;来ない;non vengo (informale) ⚠️irregolare;こない
+verbo;kawanakatta;買わなかった;non ho comprato (informale);かわなかった
+verbo;hanasanakatta;話さなかった;non ho parlato (informale);はなさなかった
+sostantivo;kyori;距離;distanza;きょり
+sostantivo;hikouji kan;飛行時間;durata del volo;ひこうじかん
+verbo;houmon suru;訪問する;fare una visita;ほうもんする
+sostantivo;gokiburi;ゴキブリ;scarafaggio;ゴキブリ
+espressione;tsuitara;着いたら;appena arrivato;ついたら
+verbo;toru;撮る;fotografare / prendere;とる
+verbo;torimasu;撮ります;fotografo (educato);とります
+frase;raishuu ichinichi shigoto ni ikimasen;来週一日仕事に行きません;la prossima settimana non vado a lavoro un giorno;らいしゅういちにちしごとにいきません
+frase;nani mo shimasen;何もしません;non faccio niente;なにもしません
+sostantivo;suteki;素敵;meraviglioso / magnifico;すてき
+sostantivo;tanjoubikai;誕生日会;festa di compleanno;たんじょうびかい
+sostantivo;nomimono;飲み物;bevanda;のみもの
+verbo;modoru;戻る;tornare / ritornare;もどる
+verbo;oku;置く;mettere / posare;おく
+verbo;okanai;置かない;non metto (informale);おかない
+verbo;kesu;消す;spegnere / cancellare;けす
+verbo;kesanai;消さない;non spengo (informale);けさない
+aggettivo;shiawase;幸せ;felice / felicità;しあわせ
+aggettivo;kurushii;苦しい;doloroso / difficile;くるしい
+aggettivo;kurushikatta;苦しかった;era doloroso;くるしかった
+aggettivo;mazui;まずい;cattivo (sapore);まずい
+aggettivo;mazukatta;まずかった;era cattivo (sapore);まずかった
+verbo;shiranakatta;知らなかった;non sapevo (informale);しらなかった
+verbo;ikanakatta;行かなかった;non sono andato (informale);いかなかった
+verbo;suwaranakatta;座らなかった;non mi sono seduto (informale);すわらなかった
+verbo;tabenakatta;食べなかった;non ho mangiato (informale);たべなかった
+verbo;shinakatta;しなかった;non ho fatto (informale);しなかった
+aggettivo;kawaikunai;可愛くない;non è carino;かわいくない
+aggettivo;kawaikatta;可愛かった;era carino;かわいかった
+aggettivo;kakkoiyokunai;かっこよくない;non è figo (irregolare);かっこよくない
+aggettivo;kakkoiyokatta;かっこよかった;era figo (irregolare);かっこよかった
+aggettivo;kowakunai;怖くない;non fa paura;こわくない
+aggettivo;kowakatta;怖かった;faceva paura;こわかった
+aggettivo;tsuyokunai;強くない;non è forte;つよくない
+aggettivo;tsuyokatta;強かった;era forte;つよかった
+aggettivo;yowakunai;弱くない;non è debole;よわくない
+aggettivo;yowakatta;弱かった;era debole;よわかった
+aggettivo;takakunai;高くない;non è caro / alto;たかくない
+aggettivo;takakatta;高かった;era caro / alto;たかかった
+aggettivo;yasukunai;安くない;non è economico;やすくない
+aggettivo;yasukatta;安かった;era economico;やすかった
+aggettivo;ureshikunai;嬉しくない;non sono felice;うれしくない
+aggettivo;ureshikatta;嬉しかった;ero felice;うれしかった
+aggettivo;tanoshikunai;楽しくない;non è divertente;たのしくない
+aggettivo;tsumaranakatta;つまらなかった;era noioso;つまらなかった
+aggettivo;kanashikunai;悲しくない;non è triste;かなしくない
+aggettivo;kanashikatta;悲しかった;era triste;かなしかった
+aggettivo;oishikunai;美味しくない;non è buono;おいしくない
+aggettivo;omoshirokatta;面白かった;era interessante;おもしろかった
+aggettivo;yasashikunai;優しくない;non è gentile;やさしくない
+aggettivo;yasashikatta;優しかった;era gentile;やさしかった
+aggettivo;hen janai;変じゃない;non è strano;へんじゃない
+aggettivo;hen datta;変だった;era strano;へんだった
+aggettivo;yuumei janai;有名じゃない;non è famoso;ゆうめいじゃない
+aggettivo;yuumei datta;有名だった;era famoso;ゆうめいだった
+aggettivo;suteki janai;素敵じゃない;non è meraviglioso;すてきじゃない
+aggettivo;suteki deshita;素敵でした;era meraviglioso;すてきでした
+aggettivo;kirei janai;きれいじゃない;non è bello;きれいじゃない
+aggettivo;kirei datta;きれいだった;era bello;きれいだった
+aggettivo;shiawase janai;幸せじゃない;non è felice;しあわせじゃない
+aggettivo;shiawase deshita;幸せでした;era felice;しあわせでした
+espressione;meccha;めっちゃ;moltissimo (informale kansai);めっちゃ
+espressione;tama ni;たまに;ogni tanto;たまに
+espressione;tsuyoku;強く;fortemente (avverbio);つよく
+espressione;yowaku;弱く;debolmente (avverbio);よわく
+espressione;nandomo;何度も;tante volte;なんども
+aggettivo;rekishiteki;歴史的;storico;れきしてき
+verbo;manabu;学ぶ;imparare / studiare;まなぶ
+verbo;oboeru;覚える;ricordare / memorizzare;おぼえる
+sostantivo;chigai;違い;differenza;ちがい
+sostantivo;shaberikata;しゃべり方;modo di parlare;しゃべりかた
+sostantivo;furumai;振る舞い;comportamento;ふるまい
+sostantivo;kita;北;nord;きた
+sostantivo;minami;南;sud;みなみ
+sostantivo;higashi;東;est;ひがし
+sostantivo;nishi;西;ovest;にし
+frase;itsu chigai wo kanjimasu ka;いつ違いを感じますか;quando senti le differenze?;いつちがいをかんじますか
+frase;kuruma de sanjuppun;車で三十分;30 minuti in macchina;くるまでさんじゅっぷん
+frase;nihon ni ikitakatta;日本に行きたかった;volevo andare in giappone;にほんにいきたかった
+frase;rekishiteki na basho wo otozuretakatta;歴史的な場所を訪れたかった;volevo visitare luoghi storici;れきしてきなばしょをおとずれたかった
+frase;dekaketakatta;出かけたかった;volevo uscire;でかけたかった
+frase;nan ji ni okitakatta desu ka;何時に起きたかったですか;a che ora avresti voluto svegliarti?;なんじにおきたかったですか
+frase;demo motto manabi tai desu;でももっと学びたいです;ma voglio imparare di più;でももっとまなびたいです
+frase;tashikani oboeteru;確かに覚えてる;me lo ricordo bene;たしかにおぼえてる
+frase;aruite iku to nanfun kakarimasu ka;歩いて行くと何分かかりますか;andando a piedi quanti minuti ci vogliono?;あるいていくとなんふんかかりますか
+frase;daigaku made nanfun kakarimasu ka;大学まで何分かかりますか;quanto ci metti per andare all'università?;だいがくまでなんふんかかりますか
+frase;tomodachi no ie ni iku niwa nanfun kakarimasu ka;友達の家に行くには何分かかりますか;per andare a casa di un amico quanti minuti ci vogliono?;ともだちのいえにいくにはなんふんかかりますか
+frase;ichijikan han kakarimasu;一時間半かかります;ci vuole un'ora e mezza;いちじかんはんかかります
+frase;kaze wo hiita;風邪を引いた;ho preso il raffreddore;かぜをひいた
+frase;atama ga itai;頭が痛い;ho mal di testa;あたまがいたい
+frase;onaka ga itai;お腹が痛い;ho mal di pancia;おなかがいたい
+frase;nodo ga itai;喉が痛い;ho mal di gola;のどがいたい
+frase;ha ga itai;歯が痛い;ho mal di denti;はがいたい
+frase;mimi ga itai;耳が痛い;ho mal di orecchie;みみがいたい
+aggettivo;kimochiwarui;気持ち悪い;mi sento male / ho la nausea;きもちわるい
+frase;hakike ga suru;吐き気がする;ho la nausea;はきけがする
+frase;zutuu ga suru;頭痛がする;ho il mal di testa;ずつうがする
+sostantivo;kusuri;薬;medicina;くすり
+sostantivo;yakkyoku;薬局;farmacia;やっきょく
+aggettivo;benri;便利;comodo / utile;べんり
+aggettivo;fuben;不便;scomodo;ふべん
+espressione;tuiteru;ついてる;fortunato;ついてる
+espressione;tuitenai;ついてない;sfortunato;ついてない
+sostantivo;riyuu;理由;motivo / ragione;りゆう
+espressione;docchi;どっち;quale (informale);どっち
+espressione;dakedo;だけど;ma / però (informale);だけど
+sostantivo;aji;味;sapore / gusto;あじ
+espressione;ironna;いろんな;vari / diversi;いろんな
+sostantivo;shurui;種類;tipo / varietà;しゅるい
+verbo;tamesu;試す;provare / assaggiare;ためす
+aggettivo;tokuchouteki;特徴的;caratteristico;とくちょうてき
+sostantivo;chousen;挑戦;sfida / tentativo;ちょうせん
+sostantivo;kinoko;きのこ;fungo;きのこ
+sostantivo;doitsu;ドイツ;germania;ドイツ
+sostantivo;chikatetsu;地下鉄;metropolitana;ちかてつ
+sostantivo;han;半;metà / e mezza;はん
+sostantivo;kuni;国;paese / nazione;くに
+sostantivo;jugyou;授業;lezione / classe;じゅぎょう
+frase;juugatsu ni rooma ni ikimasu;十月にローマに行きます;ad ottobre vado a roma;じゅうがつにローマにいきます
+frase;donna aji;どんな味;che sapore?;どんなあじ
+frase;takusan no shurui ga arimasu;たくさんの種類があります;ci sono tanti tipi;たくさんのしゅるいがあります
+frase;hajimete itta kuni wa doko desu ka;初めて行った国はどこですか;qual è il primo paese dove sei andato?;はじめていったくにはどこですか
+frase;hajimete no jugyou wa dou deshita ka;初めての授業はどうでしたか;com'era la prima lezione?;はじめてのじゅぎょうはどうでしたか
+frase;hajimete itta umi wa doko desu ka;初めて行った海はどこですか;qual è il primo mare dove sei andato?;はじめていったうみはどこですか
+frase;hajimete dekita tomodachi wa dare desu ka;初めてできた友達は誰ですか;chi è il primo amico che hai fatto?;はじめてできたともだちはだれですか
+frase;hajimete nonda osake wa nan desu ka;初めて飲んだお酒は何ですか;qual è la prima bevanda alcolica che hai bevuto?;はじめてのんだおさけはなんですか
+espressione;dato omou;だと思う;penso che sia / credo che sia;だとおもう
+aggettivo;itai;痛い;doloroso / fa male;いたい
+sostantivo;hakike;吐き気;nausea;はきけ
+sostantivo;zutuu;頭痛;mal di testa;ずつう
+frase;hajimete tabeta italia no amaimono wa tiramisu desu;初めて食べたイタリアの甘いものはティラミスです;la prima cosa dolce italiana che ho mangiato è il tiramisù;はじめてたべたイタリアのあまいものはティラミスです
+frase;hajimete benkyou shita gengo wa eigo desu;初めて勉強した言語は英語です;la prima lingua che ho studiato è l'inglese;はじめてべんきょうしたげんごはえいごです
+frase;hajimete benkyou shita gakki wa piano desu;初めて勉強した楽器はピアノです;il primo strumento che ho studiato è il pianoforte;はじめてべんきょうしたがっきはピアノです
+frase;saigo ni tabeta piza wa nan desu ka;最後に食べたピザは何ですか;qual è l'ultima pizza che hai mangiato?;さいごにたべたピザはなんですか
+frase;saigo ni dekaketa hito wa dare desu ka;最後に出かけた人は誰ですか;chi è l'ultima persona con cui sei uscito?;さいごにでかけたひとはだれですか
+frase;saigo ni nonda osake wa nan desu ka;最後に飲んだお酒は何ですか;qual è l'ultima bevanda alcolica che hai bevuto?;さいごにのんだおさけはなんですか
+frase;saigo ni itta nihon wa itsu desu ka;最後に行った日本はいつですか;quando è stata l'ultima volta che sei andato in giappone?;さいごにいったにほんはいつですか
+frase;anata to koukou de benkyou shita hito wa dare desu ka;あなたと高校で勉強した人は誰ですか;chi ha studiato con te al liceo?;あなたとこうこうでべんきょうしたひとはだれですか
+frase;anata ga katta doubutsu wa nan desu ka;あなたが買った動物は何ですか;quale animale hai comprato?;あなたがかったどうぶつはなんですか
+frase;donna doubutsu ga hoshikatta;どんな動物が欲しかった;che animale volevi?;どんなどうぶつがほしかった
+frase;pompei ni itta no wa itsu desu ka;ポンペイに行ったのはいつですか;quando sei andato a pompei?;ポンペイにいったのはいつですか
+frase;anata ga umareta basho wa doko desu ka;あなたが生まれた場所はどこですか;dove sei nato?;あなたがうまれたばしょはどこですか
+verbo;arukeru;歩ける;saper camminare (potenziale);あるける
+verbo;kakeru;書ける;saper scrivere (potenziale);かける
+verbo;sagaseru;探せる;saper cercare (potenziale);さがせる
+verbo;kaeru;買える;saper comprare (potenziale);かえる
+verbo;materu;待てる;saper aspettare (potenziale);まてる
+verbo;ikeru;行ける;poter andare (potenziale);いける
+verbo;hashireru;走れる;saper correre (potenziale);はしれる
+verbo;taberareru;食べられる;saper mangiare (potenziale);たべられる
+verbo;nerareru;寝られる;saper dormire (potenziale);ねられる
+verbo;akerareru;開けられる;saper aprire (potenziale);あけられる
+verbo;shimerareru;閉められる;saper chiudere (potenziale);しめられる
+verbo;mirareru;見られる;saper vedere (potenziale);みられる
+verbo;dekiru;できる;poter fare / riuscire (potenziale di suru);できる
+verbo;korareru;来られる;poter venire (potenziale di kuru);こられる
+frase;anata wa hayaku okireru;あなたは早く起きれる;riesci a svegliarti presto?;あなたははやくおきれる
+frase;takusan benkyou dekiru;たくさん勉強できる;riesci a studiare molto?;たくさんべんきょうできる
+frase;hiragana ga kakeru;ひらがなが書ける;sai scrivere gli hiragana?;ひらがながかける
+frase;nihongo ga hanasemasu;日本語が話せます;so parlare giapponese;にほんごがはなせます
+espressione;shuu ni yoru;週による;dipende dalla settimana;しゅうによる
+espressione;saigo ni;最後に;per ultimo / l'ultima volta;さいごに
+sostantivo;owaru;終わる;finire / terminare;おわる
+espressione;tsui ni;ついに;finalmente (evento atteso);ついに
+sostantivo;gengo;言語;lingua / linguaggio;げんご
+sostantivo;gakki;楽器;strumento musicale;がっき
+sostantivo;kyonen;去年;l'anno scorso;きょねん
+sostantivo;koukou;高校;liceo;こうこう
+verbo;umareru;生まれる;nascere;うまれる
+sostantivo;byouin;病院;ospedale;びょういん
+sostantivo;ejiputo;エジプト;egitto;エジプト
+sostantivo;puraha;プラハ;praga;プラハ
+sostantivo;cheko;チェコ;repubblica ceca;チェコ
+sostantivo;kotoshi;今年;quest'anno;ことし
+verbo;sagasu;探す;cercare;さがす
+verbo;hashiru;走る;correre;はしる
+frase;natsu to fuyu dochira ga suki desu ka;夏と冬どちらが好きですか;estate o inverno quale preferisci?;なつとふゆどちらがすきですか
+frase;nazenara jiyuu jikan ga takusan aru kara;なぜなら自由時間がたくさんあるから;perché ho tanto tempo libero;なぜならじゆうじかんがたくさんあるから
+frase;anata ga kirai na tabemono wa nan desu ka;あなたが嫌いな食べ物は何ですか;quale cibo non ti piace?;あなたがきらいなたべものはなんですか
+frase;hoka no gengo mo benkyou shimasu ka;他の言語も勉強しますか;studi anche altre lingue?;ほかのげんごもべんきょうしますか
+frase;pan to tamago wo tabemasu;パンと卵を食べます;mangio pane e uova;パンとたまごをたべます
+frase;pan ya tamago wo tabemasu;パンや卵を食べます;mangio pane uova e altro;パンやたまごをたべます
+frase;doyoubi ka nichiyoubi ni ikimasu;土曜日か日曜日に行きます;vado sabato o domenica;どようびかにちようびにいきます
+frase;watashi wa hawai de oyogitai;わたしはハワイでおよぎたい;voglio nuotare alle hawaii;わたしはハワイでおよぎたい
+frase;gyaku ni rekishi no jugyou wa okiniiri deshita;逆に歴史の授業はお気に入りでした;al contrario le lezioni di storia erano le preferite;ぎゃくにれきしのじゅぎょうはおきにいりでした
+frase;kyuushoku wa minna de junbi shimasu;給食はみんなで準備します;il pranzo scolastico lo preparano tutti insieme;きゅうしょくはみんなでじゅんびします
+frase;gakkou zentai wo souji shimasu;学校全体を掃除します;puliscono tutta la scuola;がっこうぜんたいをそうじします
+frase;ie made aruite kaerimashita;家まで歩いて帰りました;sono tornato a casa a piedi;いえまであるいてかえりました
+frase;sono ato tomodachi to asobimashita;その後友達と遊びました;dopo ho giocato con gli amici;そのあとともだちとあそびました
+frase;kore wa watashi ga hassai no toki no ichinichi desu;これは私が八歳の時の一日です;questo è un giorno della mia vita quando avevo 8 anni;これはわたしがはっさいのときのいちにちです
+frase;pavia wa shizuka de kirei na machi desu;パヴィアは静かできれいな町です;pavia è una città tranquilla e bella;パヴィアはしずかできれいなまちです
+sostantivo;jiyuu jikan;自由時間;tempo libero;じゆうじかん
+espressione;sakki;さっき;poco fa / prima;さっき
+sostantivo;hoka;他;altro / altri;ほか
+espressione;gyaku ni;逆に;al contrario;ぎゃくに
+sostantivo;okiniiri;お気に入り;preferito / favorito;おきにいり
+sostantivo;zentai;全体;tutto / intero;ぜんたい
+espressione;sono ato;その後;dopo / dopodiché;そのあと
+verbo;oyogu;泳ぐ;nuotare;およぐ
+sostantivo;hawai;ハワイ;hawaii;ハワイ
+sostantivo;kyoumi;興味;interesse;きょうみ
+aggettivo;shizuka;静か;tranquillo / silenzioso;しずか
+verbo;omotte;思って;pensando (forma -te);おもって
+verbo;waratte;笑って;ridendo (forma -te);わらって
+verbo;yonde;呼んで;chiamando (forma -te);よんで
+verbo;yonde;読んで;leggendo (forma -te);よんで
+verbo;utte;売って;vendendo (forma -te);うって
+verbo;suwatte;座って;sedendosi (forma -te);すわって
+verbo;uru;売る;vendere;うる
+verbo;urimasu;売ります;vendo (educato);うります
+verbo;utta;売った;ho venduto (plain past);うった
+verbo;uranai;売らない;non vendo (informale);うらない
+frase;nani wo shite imasu ka;何をしていますか;cosa stai facendo?;なにをしていますか
+frase;ima pasuta wo tabete imasu;今パスタを食べています;adesso sto mangiando la pasta;いまパスタをたべています
+frase;doko wo aruite imasu ka;どこを歩いていますか;dove stai camminando?;どこをあるいていますか
+frase;iie aruite imasen;いいえ歩いていません;no non sto camminando;いいえあるいていません
+frase;eki no mae wo hashitte imasu;駅の前を走っています;sto correndo davanti alla stazione;えきのまえをはしっています
+frase;watashi wa itariajin desu;私はイタリア人です;sono italiano/a;わたしはイタリアじんです
+frase;ima mirano ni sunde imasu;今ミラノに住んでいます;adesso vivo a milano;いまミラノにすんでいます
+frase;asagohan wo tabete koohii wo nomimasu;朝ごはんを食べてコーヒーを飲みます;faccio colazione e bevo un caffè;あさごはんをたべてコーヒーをのみます
+frase;nihongo wa muzukashii desu ga omoshiroi desu;日本語は難しいですが面白いです;il giapponese è difficile ma interessante;にほんごはむずかしいですがおもしろいです
+frase;watashi wa itaria ryouri ga daisuki desu;私はイタリア料理が大好きです;adoro la cucina italiana;わたしはイタリアりょうりがだいすきです
+frase;gogo goji ni gakkou ga owarimasu;午後5時に学校が終わります;la scuola finisce alle 5 del pomeriggio;ごごごじにがっこうがおわります
+frase;ongaku wo kiitari eiga wo mitari shimasu;音楽を聞いたり映画を見たりします;ascolto musica guardo film e altro;おんがくをきいたりえいがをみたりします
+frase;tenki ga ii toki wa kouen e ikimasu;天気がいい時は公園へ行きます;quando il tempo è bello vado al parco;てんきがいいときはこうえんへいきます
+frase;ame no hi wa ie ni imasu;雨の日は家にいます;nei giorni di pioggia sto a casa;あめのひはいえにいます
+frase;itsuka nihon e ikitai desu;いつか日本へ行きたいです;un giorno voglio andare in giappone;いつかにほんへいきたいです
+frase;tokyo ya osaka wo mitai desu;東京や大阪を見たいです;voglio vedere tokyo e osaka e altro;とうきょうやおおさかをみたいです
+frase;nihongo wo motto jouzu ni hanashitai desu;日本語をもっと上手に話したいです;voglio parlare il giapponese più fluentemente;にほんごをもっとじょうずにはなしたいです
+sostantivo;daisuki;大好き;adorare / amare tantissimo;だいすき
+sostantivo;itariajin;イタリア人;italiano (persona);イタリアじん
+aggettivo;shinsetsu;親切;gentile;しんせつ
+espressione;jouzu ni;上手に;bene / abilmente (avverbio);じょうずに
+sostantivo;saru;猿;scimmia;さる
+sostantivo;kouen;公園;parco;こうえん
+sostantivo;bangohan;晩ご飯;cena;ばんごはん
+sostantivo;ame no hi;雨の日;giorno di pioggia;あめのひ
+kanji;山;yama / san;montagna;やま・さん — 富士山(ふじさん)・山にのぼる
+kanji;海;umi / kai;mare;うみ・かい — 日本海(にほんかい)
+kanji;木;ki / moku / boku;albero / legno;き・もく・ぼく — 木曜日(もくようび)
+kanji;花;hana / ka;fiore;はな・か — 花火(はなび)・花びん(かびん)
+kanji;火;hi / ka;fuoco;ひ・か — 火曜日(かようび)
+kanji;月;tsuki / getsu / gatsu;luna / mese;つき・げつ・がつ — 月曜日(げつようび)
+kanji;水;mizu / sui;acqua;みず・すい — 水曜日(すいようび)
+kanji;日;hi / ka / nichi / jitsu;sole / giorno;ひ・か・にち・じつ — 日曜日(にちようび)・日本(にほん)
+kanji;土;tsuchi / do;terra / suolo;つち・ど — 土曜日(どようび)
+kanji;人;hito / jin / nin;persona;ひと・じん・にん — イタリア人・日本人
+kanji;父;chichi / fu;padre (mio);ちち・ふ — お父さん(おとうさん)
+kanji;彼;kare / kano / hi;lui;かれ・かの・ひ — 彼ら(かれら)
+kanji;本;hon / pon;libro / origine;ほん・ぽん — 日本(にほん)
+kanji;国;kuni / koku;paese;くに・こく — 中国(ちゅうごく)・国語(こくご)
+kanji;島;shima / tou;isola;しま・とう — シチリア島(シチリアとう)
+kanji;明;a / mei / myou;luminoso / domani;あ・めい・みょう — 明日(あした)・明るい(あかるい)
+kanji;学;mana / gaku;studio / imparare;まな・がく — 学校(がっこう)・数学(すうがく)
+kanji;今;ima / kon;adesso;いま・こん — 今度(こんど)
+kanji;時;toki / ji;tempo / ora;とき・じ — 時間(じかん)
+kanji;食;ta / shoku;mangiare / cibo;た・しょく — 食べる・食事(しょくじ)
+kanji;見;mi / ken;vedere;み・けん — 見る・見学(けんがく)
+kanji;行;i / kou / gyou;andare;い・こう・ぎょう — 行く・行列(ぎょうれつ)
+kanji;来;ku / ko / rai;venire;く・こ・らい — 来る・来年(らいねん)・来ない
+kanji;起;o / ki;alzarsi;お・き — 起きる・起床(きしょう)
+kanji;聞;ki / bun / mon;ascoltare / chiedere;き・ぶん・もん — 聞く・新聞(しんぶん)
+kanji;目;me / moku;occhio;め・もく — 目が痛い
+kanji;頭;atama / tou;testa;あたま・とう — 頭が痛い
+kanji;口;kuchi / kou;bocca;くち・こう
+kanji;鼻;hana / bi;naso;はな・び — 鼻水(はなみず)
+kanji;耳;mimi / ji;orecchio;みみ・じ — 耳が痛い
+kanji;首;kubi / shu;collo;くび・しゅ
+kanji;手;te / shu;mano;て・しゅ — 手話(しゅわ)
+kanji;足;ashi / soku;piede / gamba;あし・そく
+frase;yama ni noborimasu;山にのぼります;salgo in montagna;やまにのぼります
+frase;umi de oyogimasu;海でおよぎます;nuoto nel mare;うみでおよぎます
+frase;hana ni mizu wo yarimasu;花に水をやります;annaffio i fiori;はなにみずをやります
+frase;chichi wa nihonjin desu;父は日本人です;mio padre è giapponese;ちちはにほんじんです
+frase;ashita wa gakkou desu;明日は学校です;domani c'è scuola;あしたはがっこうです
+verbo;tatsu;立つ;alzarsi / stare in piedi;たつ
+verbo;tachimasu;立ちます;mi alzo (educato);たちます
+verbo;tatta;立った;mi sono alzato (informale);たった
+verbo;tatanai;立たない;non mi alzo (informale);たたない
+verbo;kowasu;壊す;rompere;こわす
+verbo;kowashimasu;壊します;rompo (educato);こわします
+verbo;kowashita;壊した;ho rotto (informale);こわした
+verbo;kowasanai;壊さない;non rompo (informale);こわさない
+verbo;deru;出る;uscire / partire;でる
+verbo;demasu;出ます;esco (educato);でます
+verbo;deta;出た;sono uscito (informale);でた
+verbo;denai;出ない;non esco (informale);でない
+verbo;dete;出て;uscendo (forma -te);でて
+verbo;denakute;出なくて;senza uscire (forma -te neg.);でなくて
+verbo;wakaru;分かる;capire;わかる
+verbo;wakarimasu;分かります;capisco (educato);わかります
+verbo;wakatta;分かった;ho capito (informale);わかった
+verbo;wakaranai;分からない;non capisco (informale);わからない
+verbo;wakatte;分かって;capendo (forma -te);わかって
+verbo;noboru;上る;salire / scalare;のぼる
+verbo;noborimasu;上ります;salgo (educato);のぼります
+verbo;nobotta;上った;sono salito (informale);のぼった
+verbo;noboranai;上らない;non salgo (informale);のぼらない
+verbo;au;会う;incontrare;あう
+verbo;aimasu;会います;incontro (educato);あいます
+verbo;atta;会った;ho incontrato (informale);あった
+verbo;awanai;会わない;non incontro (informale);あわない
+verbo;atte;会って;incontrando (forma -te);あって
+verbo;haratta;払った;ho pagato (informale);はらった
+verbo;harawanai;払わない;non pago (informale);はらわない
+verbo;aratta;洗った;ho lavato (informale);あらった
+verbo;arawanai;洗わない;non lavo (informale);あらわない
+verbo;arukanakute;歩かなくて;senza camminare (forma -te neg.);あるかなくて
+verbo;yomanakute;読まなくて;senza leggere (forma -te neg.);よまなくて
+verbo;nomanakute;飲まなくて;senza bere (forma -te neg.);のまなくて
+verbo;tabenakute;食べなくて;senza mangiare (forma -te neg.);たべなくて
+verbo;nenakute;寝なくて;senza dormire (forma -te neg.);ねなくて
+verbo;okinakute;起きなくて;senza svegliarsi (forma -te neg.);おきなくて
+verbo;shinakute;しなくて;senza fare (forma -te neg.);しなくて
+verbo;konakute;来なくて;senza venire (forma -te neg.) ⚠️;こなくて
+sostantivo;oame;大雨;pioggia forte / temporale;おおあめ
