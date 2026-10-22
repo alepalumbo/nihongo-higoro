@@ -263,3 +263,17 @@ ruby rt {
 [data-theme='dark'] .text-accent-500 {
   color: #818cf8;
 }
+
+/* ---- kanji grid: text that fits its square card ----
+   --fit is set per card from the string length (KanjiTab fitSize). cqw scales
+   with the card width; the vw line is a fallback for engines without
+   container queries. */
+.kanji-cell {
+  container-type: inline-size;
+}
+.fit-text {
+  font-size: clamp(0.8rem, calc(var(--fit) * 0.28vw), 3.4rem);
+  font-size: calc(var(--fit) * 1cqw);
+  line-height: 1.1;
+  overflow-wrap: anywhere;
+}

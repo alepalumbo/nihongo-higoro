@@ -5,6 +5,9 @@ import { parseMarkdown } from './lib/parseMarkdown.js'
 import { mergeLessons } from './lib/merge.js'
 import { assignLessons } from './lib/lessons.js'
 import { EMPTY_STATS, recordStudy } from './lib/stats.js'
+import { BUNDLED_VERBS, isValidVerbs } from './lib/verbs.js'
+import { fetchRemoteData, SyncError } from './lib/sync.js'
+import { useOnline } from './hooks/useOnline.js'
 import { useLocalStorage } from './hooks/useLocalStorage.js'
 import { useToast } from './hooks/useToast.js'
 import { nextFuriganaMode, FURIGANA_LABELS } from './lib/japanese.js'
@@ -21,6 +24,7 @@ import StatsPanel from './components/stats/StatsPanel.jsx'
 import VerbsTab from './components/verbs/VerbsTab.jsx'
 import KanjiTab from './components/kanji/KanjiTab.jsx'
 import DailyBanner from './components/DailyBanner.jsx'
+import SyncButton from './components/SyncButton.jsx'
 
 const CLOSED_CONFIRM = { open: false }
 
@@ -60,7 +64,13 @@ export default function App() {
   const [furigana, setFurigana] = useState('furigana')
   const [confirm, setConfirm] = useState(CLOSED_CONFIRM)
   const [uploadSheet, setUploadSheet] = useState(false)
+  const [syncedVerbs, setSyncedVerbs] = useLocalStorage(KEYS.verbs, null)
+  const [syncing, setSyncing] = useState(false)
+  const online = useOnline()
   const { toasts, show } = useToast()
+
+  // Verbs: last synced verbi_studiati.json, else the copy bundled in the build.
+  const verbs = useMemo(() => (isValidVerbs(syncedVerbs) ? syncedVerbs : BUNDLED_VERBS), [syncedVerbs])
 
   // Deck = stored cards + inferred lesson + stable uid. Recomputed only when
   // the cards or the lessons change.
@@ -149,6 +159,29 @@ export default function App() {
     })
   }
 
+  // Download CSV + verbs JSON + notes MD from GitHub. Local data is replaced
+  // only after all three files arrived and parsed (fetchRemoteData validates).
+  async function handleSync() {
+    if (syncing) return
+    setUploadSheet(false)
+    if (!navigator.onLine) {
+      show('Sei offline: usa l’upload manuale dei file.', 'error')
+      return
+    }
+    setSyncing(true)
+    try {
+      const remote = await fetchRemoteData()
+      setCards(remote.cards)
+      setLessons((prev) => mergeLessons(prev, remote.lessons).merged)
+      setSyncedVerbs(remote.verbs)
+      show(`Sincronizzato: ${remote.cards.length} carte, ${remote.lessons.length} lezioni, ${remote.verbs.length} verbi`)
+    } catch (e) {
+      show(e instanceof SyncError ? e.message : 'Sincronizzazione non riuscita.', 'error')
+    } finally {
+      setSyncing(false)
+    }
+  }
+
   // Every answer (flashcards, verbs, kanji) goes through here.
   function handleStudy(event) {
     setStats((s) => recordStudy(s, event))
@@ -177,8 +210,12 @@ export default function App() {
             </button>
             {/* Upload buttons live in the header on tablet/desktop; on phones
                 the bottom-nav Upload button opens the same actions in a sheet. */}
-            <div className="hidden sm:flex">
+            <div className="hidden gap-2 sm:flex">
+              <SyncButton onSync={handleSync} syncing={syncing} online={online} />
               <UploadButton onCsv={handleCsv} onMd={handleMd} />
+            </div>
+            <div className="sm:hidden">
+              <SyncButton onSync={handleSync} syncing={syncing} online={online} compact />
             </div>
             <button
               onClick={() => setUploadSheet(true)}
@@ -203,8 +240,8 @@ export default function App() {
         <main key={tab}>
           {tab === 'lessons' && <LessonsTab lessons={lessons} furigana={furigana} />}
           {tab === 'flashcards' && <FlashcardTab cards={deck} furigana={furigana} onStudy={handleStudy} />}
-          {tab === 'verbs' && <VerbsTab furigana={furigana} onStudy={handleStudy} />}
-          {tab === 'kanji' && <KanjiTab deck={deck} furigana={furigana} onStudy={handleStudy} />}
+          {tab === 'verbs' && <VerbsTab verbs={verbs} furigana={furigana} onStudy={handleStudy} />}
+          {tab === 'kanji' && <KanjiTab deck={deck} furigana={furigana} onFurigana={setFurigana} onStudy={handleStudy} />}
           {tab === 'stats' && <StatsPanel cards={deck} stats={stats} />}
         </main>
       </div>
@@ -223,8 +260,12 @@ export default function App() {
             onClick={(e) => e.stopPropagation()}
           >
             <div className="mx-auto mb-4 h-1 w-10 rounded-full bg-line" />
-            <p className="mb-3 text-center text-sm font-semibold text-txt">Carica un file</p>
-            <div className="flex justify-center">
+            <p className="mb-3 text-center text-sm font-semibold text-txt">Aggiorna i dati</p>
+            <div className="flex flex-col items-center gap-3">
+              <SyncButton onSync={handleSync} syncing={syncing} online={online} />
+              {!online && (
+                <p className="text-center text-xs text-muted">Sei offline: puoi comunque caricare i file a mano.</p>
+              )}
               <UploadButton onCsv={handleCsv} onMd={handleMd} />
             </div>
           </div>

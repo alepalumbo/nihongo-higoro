@@ -6,6 +6,7 @@ import Segmented from '../ui/Segmented.jsx'
 import Empty from '../ui/Empty.jsx'
 import { topicStyle } from '../../lib/topics.js'
 import { lessonNumber } from '../../lib/merge.js'
+import { NO_LESSON } from '../../lib/lessons.js'
 
 function shuffleArr(arr) {
   const a = [...arr]
@@ -134,6 +135,13 @@ export default function FlashcardTab({ cards, furigana, onStudy }) {
           allLabel="Tutti i topic"
         />
       </div>
+
+      {lessonNames.length === 1 && lessonNames[0] === NO_LESSON && (
+        <p className="rounded-xl bg-accent-soft px-4 py-2.5 text-xs text-txt">
+          Le carte non sono ancora abbinate alle lezioni: carica gli appunti (.md) o premi{' '}
+          <strong>Sincronizza</strong> per poter filtrare per lezione.
+        </p>
+      )}
 
       {/* Mode + shuffle + count */}
       <div className="flex flex-wrap items-center justify-between gap-3">

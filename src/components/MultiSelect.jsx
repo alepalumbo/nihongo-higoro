@@ -1,6 +1,9 @@
 import { useEffect, useRef, useState } from 'react'
 
 // Generic multi-select dropdown with select-all / deselect-all.
+// Filter semantics: while everything is selected ("all"), tapping an option
+// filters to ONLY that option; after that taps toggle options, and removing
+// the last selected one goes back to "all".
 //  options:  [{ value, label, dotClass? }]
 //  selected: array of selected values
 //  onChange: (nextArray) => void
@@ -14,8 +17,13 @@ export default function MultiSelect({ label, options, selected, onChange, allLab
     const onDoc = (e) => {
       if (ref.current && !ref.current.contains(e.target)) setOpen(false)
     }
+    const onKey = (e) => e.key === 'Escape' && setOpen(false)
     document.addEventListener('mousedown', onDoc)
-    return () => document.removeEventListener('mousedown', onDoc)
+    document.addEventListener('keydown', onKey)
+    return () => {
+      document.removeEventListener('mousedown', onDoc)
+      document.removeEventListener('keydown', onKey)
+    }
   }, [open])
 
   const allValues = options.map((o) => o.value)
@@ -23,17 +31,21 @@ export default function MultiSelect({ label, options, selected, onChange, allLab
   const noneSelected = selected.length === 0
 
   const toggle = (value) => {
-    onChange(
-      selected.includes(value)
-        ? selected.filter((v) => v !== value)
-        : [...selected, value],
-    )
+    if (allSelected) return onChange([value])
+    if (selected.includes(value)) {
+      const rest = selected.filter((v) => v !== value)
+      return onChange(rest.length ? rest : allValues)
+    }
+    onChange([...selected, value])
   }
 
+  const single = selected.length === 1 ? options.find((o) => o.value === selected[0]) : null
   const summary = allSelected
     ? allLabel
     : noneSelected
     ? 'Nessuna selezione'
+    : single
+    ? single.label
     : `${selected.length} selezionate`
 
   const active = !allSelected // filtering is "on" when not everything is selected
@@ -43,13 +55,15 @@ export default function MultiSelect({ label, options, selected, onChange, allLab
       <span className="mb-1 block text-xs font-medium text-muted">{label}</span>
       <button
         onClick={() => setOpen((o) => !o)}
+        aria-expanded={open}
+        aria-haspopup="listbox"
         className={[
           'flex w-full items-center justify-between gap-2 rounded-xl bg-surface px-4 py-2.5 text-sm font-medium shadow-soft ring-1 transition',
           active ? 'text-accent-500 ring-accent-400' : 'text-muted ring-line',
         ].join(' ')}
       >
-        <span className="flex items-center gap-2 truncate">
-          {summary}
+        <span className="flex min-w-0 items-center gap-2">
+          <span className="truncate">{summary}</span>
           {active && (
             <span className="rounded-full bg-accent-600 px-1.5 py-0.5 text-[10px] font-bold text-white">
               {selected.length}
@@ -75,11 +89,14 @@ export default function MultiSelect({ label, options, selected, onChange, allLab
               Deseleziona
             </button>
           </div>
-          <ul className="space-y-0.5">
+          {allSelected && (
+            <p className="px-2 pb-1 text-[11px] text-muted">Tocca una voce per vedere solo quella.</p>
+          )}
+          <ul className="space-y-0.5" role="listbox" aria-multiselectable="true">
             {options.map((o) => {
               const on = selected.includes(o.value)
               return (
-                <li key={o.value}>
+                <li key={o.value} role="option" aria-selected={on}>
                   <button
                     onClick={() => toggle(o.value)}
                     className="flex w-full items-center gap-2 rounded-lg px-2 py-1.5 text-left text-sm text-txt hover:bg-bg"

@@ -1,11 +1,20 @@
 // Verb gym data + answer checking.
-// Source of truth: verbi_studiati.json (project root) — every form is
-// pre-computed and validated there, so there is no conjugation logic here.
-// To add verbs, replace that file and rebuild.
+// Source of truth: data/verbi_studiati.json — every form is pre-computed and
+// validated there, so there is no conjugation logic here. The copy bundled in
+// the build is the offline fallback; "Sincronizza" stores a fresher copy from
+// GitHub in localStorage (KEYS.verbs), which takes precedence.
 
-import verbi from '../../verbi_studiati.json' with { type: 'json' }
+import bundled from '../../data/verbi_studiati.json' with { type: 'json' }
 
-export const VERBS = verbi
+export const BUNDLED_VERBS = bundled
+
+export function isValidVerbs(list) {
+  return (
+    Array.isArray(list) &&
+    list.length > 0 &&
+    list.every((v) => v && typeof v.romaji === 'string' && v.forme && typeof v.forme === 'object')
+  )
+}
 
 export const VERB_FORMS = [
   { key: 'presente_formale', label: 'Presente formale', hint: '~masu' },
@@ -65,8 +74,8 @@ function shuffle(arr) {
   return a
 }
 
-export function filterVerbs(group) {
-  return group === 'all' ? VERBS : VERBS.filter((v) => String(v.gruppo) === String(group))
+export function filterVerbs(verbs, group) {
+  return group === 'all' ? verbs : verbs.filter((v) => String(v.gruppo) === String(group))
 }
 
 // Random { verb, formKey }, avoiding an immediate repeat of the previous one.
@@ -85,7 +94,7 @@ export function pickQuestion(pool, formKeys, prev) {
 // 4 options: the correct form, up to 2 other forms of the SAME verb (tests
 // whether you know which form is which) and the same form of other verbs
 // (preferably the same group) — all taken from the JSON, never invented.
-export function buildOptions({ verb, formKey }) {
+export function buildOptions({ verb, formKey }, verbs) {
   const answer = verb.forme[formKey]
   const seen = new Set([normalizeRomaji(answer)])
   const out = [answer]
@@ -100,7 +109,7 @@ export function buildOptions({ verb, formKey }) {
   const sameVerb = shuffle(Object.entries(verb.forme).filter(([k]) => k !== formKey).map(([, v]) => v))
   sameVerb.slice(0, 2).forEach(add)
 
-  const others = shuffle(VERBS.filter((v) => v.romaji !== verb.romaji))
+  const others = shuffle(verbs.filter((v) => v.romaji !== verb.romaji))
   const sameGroup = others.filter((v) => v.gruppo === verb.gruppo)
   for (const v of [...sameGroup, ...others]) add(v.forme?.[formKey])
   for (const v of sameVerb) add(v) // tiny pools: fill from the same verb

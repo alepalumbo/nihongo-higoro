@@ -43,9 +43,13 @@ export default function Flashcard({ card, flipped, mode, furigana, onFlip }) {
           {/* 1. Kana / Kanji */}
           <JapaneseText card={card} mode={furigana} className="text-3xl font-bold leading-tight sm:text-4xl" />
           <Divider />
-          {/* 2. Romaji */}
-          <div className="text-base font-medium tracking-wide text-white/70">{card.romaji}</div>
-          <Divider />
+          {/* 2. Romaji (already shown above in Romaji mode) */}
+          {furigana !== 'romaji' && (
+            <>
+              <div className="text-base font-medium tracking-wide text-white/70">{card.romaji}</div>
+              <Divider />
+            </>
+          )}
           {/* 3. Italiano */}
           <div className="text-2xl font-bold text-accent-100 sm:text-3xl">{card.italiano || '—'}</div>
         </div>

@@ -13,13 +13,13 @@ export default function JapaneseText({ card, mode, className = '' }) {
   const { kana, romaji, hiragana } = card
 
   if (card.topic === 'kanji') {
-    if (mode === 'romaji') return <span className={className}>{romaji}</span>
+    const k = parseKanjiCard(card)
+    if (mode === 'romaji') return <span className={className}>{k.romaji || romaji}</span>
     if (mode === 'kana') {
-      const k = parseKanjiCard(card)
       const readings = [...k.kun, ...k.on, ...k.other].join('・')
-      return <span className={`font-jp ${className}`}>{readings || kana}</span>
+      return <span className={`font-jp ${className}`}>{readings || k.kanji}</span>
     }
-    return <span className={`font-jp ${className}`}>{kana}</span>
+    return <span className={`font-jp ${className}`}>{k.kanji}</span>
   }
 
   if (mode === 'romaji') {

@@ -6,6 +6,7 @@ export const KEYS = {
   stats: 'mayu_stats',
   darkmode: 'mayu_darkmode',
   verbPrefs: 'mayu_verbi_prefs',
+  verbs: 'mayu_verbi', // verbi_studiati.json from the last GitHub sync
 }
 
 export function load(key, fallback) {

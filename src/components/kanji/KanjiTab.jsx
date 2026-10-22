@@ -10,7 +10,22 @@ import Empty from '../ui/Empty.jsx'
 
 const CAT_BY_ID = Object.fromEntries(KANJI_CATEGORIES.map((c) => [c.id, c]))
 
-export default function KanjiTab({ deck, furigana, onStudy }) {
+// What the grid card shows big, following the app-wide 3-state mode.
+function cardFace(k, mode) {
+  if (mode === 'romaji') return k.romaji || k.kanji
+  if (mode === 'kana') return (k.kun.length ? k.kun : k.other.length ? k.other : k.on).join('・') || k.kanji
+  return k.kanji
+}
+
+// Font size in container-width units (see .fit-text): a lone kanji is huge,
+// long readings shrink (and may wrap to two lines) but stay legible.
+function fitSize(text) {
+  const units = [...String(text)].reduce((n, ch) => n + (ch.charCodeAt(0) < 0x2e80 ? 0.58 : 1), 0)
+  const perLine = units > 7 ? units / 1.8 : units
+  return Math.max(10, Math.min(56, 82 / Math.max(perLine, 1))).toFixed(1)
+}
+
+export default function KanjiTab({ deck, furigana, onFurigana, onStudy }) {
   const items = useMemo(() => kanjiItemsFromDeck(deck), [deck])
   const [view, setView] = useState('grid') // 'grid' | 'quiz' | 'phrases'
   const [category, setCategory] = useState('all')
@@ -69,19 +84,51 @@ export default function KanjiTab({ deck, furigana, onStudy }) {
       )}
 
       {view === 'grid' && (
-        <div className="grid grid-cols-3 gap-2 sm:grid-cols-5">
-          {filtered.map((k) => (
-            <button
-              key={k.kanji}
-              onClick={() => setDetail(k)}
-              aria-label={`${k.kanji}: ${k.meaning}`}
-              className="tap flex flex-col items-center justify-center rounded-2xl bg-surface px-2 py-4 shadow-soft ring-1 ring-line transition hover:ring-accent-400 active:scale-95"
-            >
-              <span className="font-jp text-4xl font-bold leading-none text-txt">{k.kanji}</span>
-              <span className="mt-2 truncate font-jp text-xs text-muted">{k.primary || k.romaji}</span>
-            </button>
-          ))}
-        </div>
+        <>
+          <div className="flex items-center justify-between gap-3">
+            <span className="text-xs text-muted">Mostra in grande:</span>
+            <Segmented
+              label="Cosa mostrare sulle card"
+              value={furigana}
+              onChange={onFurigana}
+              options={[
+                { id: 'furigana', label: '漢字' },
+                { id: 'kana', label: 'ひらがな' },
+                { id: 'romaji', label: 'Romaji' },
+              ]}
+            />
+          </div>
+          <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 lg:grid-cols-5">
+            {filtered.map((k) => {
+              const big = cardFace(k, furigana)
+              return (
+                <button
+                  key={k.kanji}
+                  onClick={() => setDetail(k)}
+                  aria-label={`${k.kanji}: ${k.meaning}`}
+                  className="kanji-cell tap flex aspect-square flex-col items-center justify-center overflow-hidden rounded-2xl bg-surface p-2 shadow-soft ring-1 ring-line transition hover:ring-accent-400 active:scale-95"
+                >
+                  <span
+                    className={['fit-text max-w-full text-center font-bold text-txt', furigana === 'romaji' ? '' : 'font-jp'].join(' ')}
+                    style={{ '--fit': fitSize(big) }}
+                  >
+                    {/* JP readings break only after ・, never inside a reading */}
+                    {furigana === 'romaji' ? big : big.split('・').map((part, i, all) => (
+                      <span key={i} className="whitespace-nowrap">
+                        {part}
+                        {i < all.length - 1 && '・'}
+                        {i < all.length - 1 && <wbr />}
+                      </span>
+                    ))}
+                  </span>
+                  <span className="mt-1.5 line-clamp-2 max-w-full text-center text-[11px] leading-tight text-muted">
+                    {k.meaning}
+                  </span>
+                </button>
+              )
+            })}
+          </div>
+        </>
       )}
 
       {view === 'quiz' && <MeaningQuiz items={filtered} onStudy={onStudy} onOpen={setDetail} />}

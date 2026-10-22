@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { KEYS } from '../../lib/storage.js'
 import { useLocalStorage } from '../../hooks/useLocalStorage.js'
 import {
-  VERBS, VERB_FORMS, FORM_BY_KEY, GROUP_LABEL,
+  VERB_FORMS, FORM_BY_KEY, GROUP_LABEL,
   filterVerbs, pickQuestion, buildOptions, isCorrectAnswer,
 } from '../../lib/verbs.js'
 import JapaneseText from '../JapaneseText.jsx'
@@ -23,17 +23,18 @@ const GROUP_STYLE = {
   3: 'bg-amber-500',
 }
 
-export default function VerbsTab({ furigana, onStudy }) {
+// `verbs` = synced verbi_studiati.json, or the copy bundled in the build.
+export default function VerbsTab({ verbs, furigana, onStudy }) {
   const [stored, setPrefs] = useLocalStorage(KEYS.verbPrefs, DEFAULT_PREFS)
   const prefs = { ...DEFAULT_PREFS, ...stored }
   const update = (patch) => setPrefs((p) => ({ ...DEFAULT_PREFS, ...p, ...patch }))
 
-  const pool = useMemo(() => filterVerbs(prefs.group), [prefs.group])
+  const pool = useMemo(() => filterVerbs(verbs, prefs.group), [verbs, prefs.group])
   const formsKey = prefs.forms.join(',')
 
   // First question is ready on mount (no empty-state flash).
   const [q, setQ] = useState(() => pickQuestion(pool, prefs.forms, null))
-  const [options, setOptions] = useState(() => (q ? buildOptions(q) : []))
+  const [options, setOptions] = useState(() => (q ? buildOptions(q, verbs) : []))
   const [picked, setPicked] = useState(null) // MC choice or submitted text
   const [input, setInput] = useState('')
   const [showHint, setShowHint] = useState(false)
@@ -44,7 +45,7 @@ export default function VerbsTab({ furigana, onStudy }) {
   const next = (prev) => {
     const nq = pickQuestion(pool, prefs.forms, prev)
     setQ(nq)
-    setOptions(nq ? buildOptions(nq) : [])
+    setOptions(nq ? buildOptions(nq, verbs) : [])
     setPicked(null)
     setInput('')
     setShowHint(false)
@@ -59,7 +60,7 @@ export default function VerbsTab({ furigana, onStudy }) {
     }
     next(null)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [prefs.group, formsKey])
+  }, [pool, formsKey])
 
   useEffect(() => {
     if (prefs.mode === 'write' && picked == null) inputRef.current?.focus()
@@ -82,10 +83,10 @@ export default function VerbsTab({ furigana, onStudy }) {
     update({ forms: prefs.forms.includes(key) ? prefs.forms.filter((k) => k !== key) : [...prefs.forms, key] })
 
   const groupCounts = useMemo(() => {
-    const c = { all: VERBS.length }
-    VERBS.forEach((v) => (c[v.gruppo] = (c[v.gruppo] || 0) + 1))
+    const c = { all: verbs.length }
+    verbs.forEach((v) => (c[v.gruppo] = (c[v.gruppo] || 0) + 1))
     return c
-  }, [])
+  }, [verbs])
 
   return (
     <div className="tab-enter space-y-4">
