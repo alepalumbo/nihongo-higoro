@@ -1031,143 +1031,236 @@ sostantivo;cheko;チェコ;repubblica ceca;チェコ
 sostantivo;kotoshi;今年;quest'anno;ことし
 verbo;sagasu;探す;cercare;さがす
 verbo;hashiru;走る;correre;はしる
-frase;natsu to fuyu dochira ga suki desu ka;夏と冬どちらが好きですか;estate o inverno quale preferisci?;なつとふゆどちらがすきですか
-frase;nazenara jiyuu jikan ga takusan aru kara;なぜなら自由時間がたくさんあるから;perché ho tanto tempo libero;なぜならじゆうじかんがたくさんあるから
-frase;anata ga kirai na tabemono wa nan desu ka;あなたが嫌いな食べ物は何ですか;quale cibo non ti piace?;あなたがきらいなたべものはなんですか
-frase;hoka no gengo mo benkyou shimasu ka;他の言語も勉強しますか;studi anche altre lingue?;ほかのげんごもべんきょうしますか
-frase;pan to tamago wo tabemasu;パンと卵を食べます;mangio pane e uova;パンとたまごをたべます
-frase;pan ya tamago wo tabemasu;パンや卵を食べます;mangio pane uova e altro;パンやたまごをたべます
-frase;doyoubi ka nichiyoubi ni ikimasu;土曜日か日曜日に行きます;vado sabato o domenica;どようびかにちようびにいきます
-frase;watashi wa hawai de oyogitai;わたしはハワイでおよぎたい;voglio nuotare alle hawaii;わたしはハワイでおよぎたい
-frase;gyaku ni rekishi no jugyou wa okiniiri deshita;逆に歴史の授業はお気に入りでした;al contrario le lezioni di storia erano le preferite;ぎゃくにれきしのじゅぎょうはおきにいりでした
-frase;kyuushoku wa minna de junbi shimasu;給食はみんなで準備します;il pranzo scolastico lo preparano tutti insieme;きゅうしょくはみんなでじゅんびします
-frase;gakkou zentai wo souji shimasu;学校全体を掃除します;puliscono tutta la scuola;がっこうぜんたいをそうじします
-frase;ie made aruite kaerimashita;家まで歩いて帰りました;sono tornato a casa a piedi;いえまであるいてかえりました
-frase;sono ato tomodachi to asobimashita;その後友達と遊びました;dopo ho giocato con gli amici;そのあとともだちとあそびました
-frase;kore wa watashi ga hassai no toki no ichinichi desu;これは私が八歳の時の一日です;questo è un giorno della mia vita quando avevo 8 anni;これはわたしがはっさいのときのいちにちです
-frase;pavia wa shizuka de kirei na machi desu;パヴィアは静かできれいな町です;pavia è una città tranquilla e bella;パヴィアはしずかできれいなまちです
-sostantivo;jiyuu jikan;自由時間;tempo libero;じゆうじかん
-espressione;sakki;さっき;poco fa / prima;さっき
-sostantivo;hoka;他;altro / altri;ほか
-espressione;gyaku ni;逆に;al contrario;ぎゃくに
-sostantivo;okiniiri;お気に入り;preferito / favorito;おきにいり
-sostantivo;zentai;全体;tutto / intero;ぜんたい
-espressione;sono ato;その後;dopo / dopodiché;そのあと
-verbo;oyogu;泳ぐ;nuotare;およぐ
-sostantivo;hawai;ハワイ;hawaii;ハワイ
-sostantivo;kyoumi;興味;interesse;きょうみ
-aggettivo;shizuka;静か;tranquillo / silenzioso;しずか
-verbo;omotte;思って;pensando (forma -te);おもって
-verbo;waratte;笑って;ridendo (forma -te);わらって
-verbo;yonde;呼んで;chiamando (forma -te);よんで
-verbo;yonde;読んで;leggendo (forma -te);よんで
-verbo;utte;売って;vendendo (forma -te);うって
-verbo;suwatte;座って;sedendosi (forma -te);すわって
-verbo;uru;売る;vendere;うる
-verbo;urimasu;売ります;vendo (educato);うります
-verbo;utta;売った;ho venduto (plain past);うった
-verbo;uranai;売らない;non vendo (informale);うらない
-frase;nani wo shite imasu ka;何をしていますか;cosa stai facendo?;なにをしていますか
-frase;ima pasuta wo tabete imasu;今パスタを食べています;adesso sto mangiando la pasta;いまパスタをたべています
-frase;doko wo aruite imasu ka;どこを歩いていますか;dove stai camminando?;どこをあるいていますか
-frase;iie aruite imasen;いいえ歩いていません;no non sto camminando;いいえあるいていません
-frase;eki no mae wo hashitte imasu;駅の前を走っています;sto correndo davanti alla stazione;えきのまえをはしっています
-frase;watashi wa itariajin desu;私はイタリア人です;sono italiano/a;わたしはイタリアじんです
-frase;ima mirano ni sunde imasu;今ミラノに住んでいます;adesso vivo a milano;いまミラノにすんでいます
-frase;asagohan wo tabete koohii wo nomimasu;朝ごはんを食べてコーヒーを飲みます;faccio colazione e bevo un caffè;あさごはんをたべてコーヒーをのみます
-frase;nihongo wa muzukashii desu ga omoshiroi desu;日本語は難しいですが面白いです;il giapponese è difficile ma interessante;にほんごはむずかしいですがおもしろいです
-frase;watashi wa itaria ryouri ga daisuki desu;私はイタリア料理が大好きです;adoro la cucina italiana;わたしはイタリアりょうりがだいすきです
-frase;gogo goji ni gakkou ga owarimasu;午後5時に学校が終わります;la scuola finisce alle 5 del pomeriggio;ごごごじにがっこうがおわります
-frase;ongaku wo kiitari eiga wo mitari shimasu;音楽を聞いたり映画を見たりします;ascolto musica guardo film e altro;おんがくをきいたりえいがをみたりします
-frase;tenki ga ii toki wa kouen e ikimasu;天気がいい時は公園へ行きます;quando il tempo è bello vado al parco;てんきがいいときはこうえんへいきます
-frase;ame no hi wa ie ni imasu;雨の日は家にいます;nei giorni di pioggia sto a casa;あめのひはいえにいます
-frase;itsuka nihon e ikitai desu;いつか日本へ行きたいです;un giorno voglio andare in giappone;いつかにほんへいきたいです
-frase;tokyo ya osaka wo mitai desu;東京や大阪を見たいです;voglio vedere tokyo e osaka e altro;とうきょうやおおさかをみたいです
-frase;nihongo wo motto jouzu ni hanashitai desu;日本語をもっと上手に話したいです;voglio parlare il giapponese più fluentemente;にほんごをもっとじょうずにはなしたいです
-sostantivo;daisuki;大好き;adorare / amare tantissimo;だいすき
-sostantivo;itariajin;イタリア人;italiano (persona);イタリアじん
-aggettivo;shinsetsu;親切;gentile;しんせつ
-espressione;jouzu ni;上手に;bene / abilmente (avverbio);じょうずに
-sostantivo;saru;猿;scimmia;さる
-sostantivo;kouen;公園;parco;こうえん
-sostantivo;bangohan;晩ご飯;cena;ばんごはん
-sostantivo;ame no hi;雨の日;giorno di pioggia;あめのひ
-kanji;山;yama / san;montagna;やま・さん — 富士山(ふじさん)・山にのぼる
-kanji;海;umi / kai;mare;うみ・かい — 日本海(にほんかい)
-kanji;木;ki / moku / boku;albero / legno;き・もく・ぼく — 木曜日(もくようび)
-kanji;花;hana / ka;fiore;はな・か — 花火(はなび)・花びん(かびん)
-kanji;火;hi / ka;fuoco;ひ・か — 火曜日(かようび)
-kanji;月;tsuki / getsu / gatsu;luna / mese;つき・げつ・がつ — 月曜日(げつようび)
-kanji;水;mizu / sui;acqua;みず・すい — 水曜日(すいようび)
-kanji;日;hi / ka / nichi / jitsu;sole / giorno;ひ・か・にち・じつ — 日曜日(にちようび)・日本(にほん)
-kanji;土;tsuchi / do;terra / suolo;つち・ど — 土曜日(どようび)
-kanji;人;hito / jin / nin;persona;ひと・じん・にん — イタリア人・日本人
-kanji;父;chichi / fu;padre (mio);ちち・ふ — お父さん(おとうさん)
-kanji;彼;kare / kano / hi;lui;かれ・かの・ひ — 彼ら(かれら)
-kanji;本;hon / pon;libro / origine;ほん・ぽん — 日本(にほん)
-kanji;国;kuni / koku;paese;くに・こく — 中国(ちゅうごく)・国語(こくご)
-kanji;島;shima / tou;isola;しま・とう — シチリア島(シチリアとう)
-kanji;明;a / mei / myou;luminoso / domani;あ・めい・みょう — 明日(あした)・明るい(あかるい)
-kanji;学;mana / gaku;studio / imparare;まな・がく — 学校(がっこう)・数学(すうがく)
-kanji;今;ima / kon;adesso;いま・こん — 今度(こんど)
-kanji;時;toki / ji;tempo / ora;とき・じ — 時間(じかん)
-kanji;食;ta / shoku;mangiare / cibo;た・しょく — 食べる・食事(しょくじ)
-kanji;見;mi / ken;vedere;み・けん — 見る・見学(けんがく)
-kanji;行;i / kou / gyou;andare;い・こう・ぎょう — 行く・行列(ぎょうれつ)
-kanji;来;ku / ko / rai;venire;く・こ・らい — 来る・来年(らいねん)・来ない
-kanji;起;o / ki;alzarsi;お・き — 起きる・起床(きしょう)
-kanji;聞;ki / bun / mon;ascoltare / chiedere;き・ぶん・もん — 聞く・新聞(しんぶん)
-kanji;目;me / moku;occhio;め・もく — 目が痛い
-kanji;頭;atama / tou;testa;あたま・とう — 頭が痛い
-kanji;口;kuchi / kou;bocca;くち・こう
-kanji;鼻;hana / bi;naso;はな・び — 鼻水(はなみず)
-kanji;耳;mimi / ji;orecchio;みみ・じ — 耳が痛い
-kanji;首;kubi / shu;collo;くび・しゅ
-kanji;手;te / shu;mano;て・しゅ — 手話(しゅわ)
-kanji;足;ashi / soku;piede / gamba;あし・そく
-frase;yama ni noborimasu;山にのぼります;salgo in montagna;やまにのぼります
-frase;umi de oyogimasu;海でおよぎます;nuoto nel mare;うみでおよぎます
-frase;hana ni mizu wo yarimasu;花に水をやります;annaffio i fiori;はなにみずをやります
-frase;chichi wa nihonjin desu;父は日本人です;mio padre è giapponese;ちちはにほんじんです
-frase;ashita wa gakkou desu;明日は学校です;domani c'è scuola;あしたはがっこうです
-verbo;tatsu;立つ;alzarsi / stare in piedi;たつ
-verbo;tachimasu;立ちます;mi alzo (educato);たちます
-verbo;tatta;立った;mi sono alzato (informale);たった
-verbo;tatanai;立たない;non mi alzo (informale);たたない
-verbo;kowasu;壊す;rompere;こわす
-verbo;kowashimasu;壊します;rompo (educato);こわします
-verbo;kowashita;壊した;ho rotto (informale);こわした
-verbo;kowasanai;壊さない;non rompo (informale);こわさない
-verbo;deru;出る;uscire / partire;でる
-verbo;demasu;出ます;esco (educato);でます
-verbo;deta;出た;sono uscito (informale);でた
-verbo;denai;出ない;non esco (informale);でない
-verbo;dete;出て;uscendo (forma -te);でて
-verbo;denakute;出なくて;senza uscire (forma -te neg.);でなくて
-verbo;wakaru;分かる;capire;わかる
-verbo;wakarimasu;分かります;capisco (educato);わかります
-verbo;wakatta;分かった;ho capito (informale);わかった
-verbo;wakaranai;分からない;non capisco (informale);わからない
-verbo;wakatte;分かって;capendo (forma -te);わかって
-verbo;noboru;上る;salire / scalare;のぼる
-verbo;noborimasu;上ります;salgo (educato);のぼります
-verbo;nobotta;上った;sono salito (informale);のぼった
-verbo;noboranai;上らない;non salgo (informale);のぼらない
-verbo;au;会う;incontrare;あう
-verbo;aimasu;会います;incontro (educato);あいます
-verbo;atta;会った;ho incontrato (informale);あった
-verbo;awanai;会わない;non incontro (informale);あわない
-verbo;atte;会って;incontrando (forma -te);あって
-verbo;haratta;払った;ho pagato (informale);はらった
-verbo;harawanai;払わない;non pago (informale);はらわない
-verbo;aratta;洗った;ho lavato (informale);あらった
-verbo;arawanai;洗わない;non lavo (informale);あらわない
-verbo;arukanakute;歩かなくて;senza camminare (forma -te neg.);あるかなくて
-verbo;yomanakute;読まなくて;senza leggere (forma -te neg.);よまなくて
-verbo;nomanakute;飲まなくて;senza bere (forma -te neg.);のまなくて
-verbo;tabenakute;食べなくて;senza mangiare (forma -te neg.);たべなくて
-verbo;nenakute;寝なくて;senza dormire (forma -te neg.);ねなくて
-verbo;okinakute;起きなくて;senza svegliarsi (forma -te neg.);おきなくて
-verbo;shinakute;しなくて;senza fare (forma -te neg.);しなくて
-verbo;konakute;来なくて;senza venire (forma -te neg.) ⚠️;こなくて
-sostantivo;oame;大雨;pioggia forte / temporale;おおあめ
+frase;natsu to fuyu dochira ga suki desu ka;夏と冬どちらが好きですか;estate o inverno quale preferisci?;なつとふゆどちらがすきですか;L16
+frase;nazenara jiyuu jikan ga takusan aru kara;なぜなら自由時間がたくさんあるから;perché ho tanto tempo libero;なぜならじゆうじかんがたくさんあるから;L16
+frase;anata ga kirai na tabemono wa nan desu ka;あなたが嫌いな食べ物は何ですか;quale cibo non ti piace?;あなたがきらいなたべものはなんですか;L16
+frase;hoka no gengo mo benkyou shimasu ka;他の言語も勉強しますか;studi anche altre lingue?;ほかのげんごもべんきょうしますか;L16
+frase;pan to tamago wo tabemasu;パンと卵を食べます;mangio pane e uova;パンとたまごをたべます;L16
+frase;pan ya tamago wo tabemasu;パンや卵を食べます;mangio pane uova e altro;パンやたまごをたべます;L16
+frase;doyoubi ka nichiyoubi ni ikimasu;土曜日か日曜日に行きます;vado sabato o domenica;どようびかにちようびにいきます;L16
+frase;watashi wa hawai de oyogitai;わたしはハワイでおよぎたい;voglio nuotare alle hawaii;わたしはハワイでおよぎたい;L16
+frase;gyaku ni rekishi no jugyou wa okiniiri deshita;逆に歴史の授業はお気に入りでした;al contrario le lezioni di storia erano le preferite;ぎゃくにれきしのじゅぎょうはおきにいりでした;L16
+frase;kyuushoku wa minna de junbi shimasu;給食はみんなで準備します;il pranzo scolastico lo preparano tutti insieme;きゅうしょくはみんなでじゅんびします;L16
+frase;gakkou zentai wo souji shimasu;学校全体を掃除します;puliscono tutta la scuola;がっこうぜんたいをそうじします;L16
+frase;ie made aruite kaerimashita;家まで歩いて帰りました;sono tornato a casa a piedi;いえまであるいてかえりました;L16
+frase;sono ato tomodachi to asobimashita;その後友達と遊びました;dopo ho giocato con gli amici;そのあとともだちとあそびました;L16
+frase;kore wa watashi ga hassai no toki no ichinichi desu;これは私が八歳の時の一日です;questo è un giorno della mia vita quando avevo 8 anni;これはわたしがはっさいのときのいちにちです;L16
+frase;pavia wa shizuka de kirei na machi desu;パヴィアは静かできれいな町です;pavia è una città tranquilla e bella;パヴィアはしずかできれいなまちです;L16
+sostantivo;jiyuu jikan;自由時間;tempo libero;じゆうじかん;L16
+espressione;sakki;さっき;poco fa / prima;さっき;L16
+sostantivo;hoka;他;altro / altri;ほか;L16
+espressione;gyaku ni;逆に;al contrario;ぎゃくに;L16
+sostantivo;okiniiri;お気に入り;preferito / favorito;おきにいり;L16
+sostantivo;zentai;全体;tutto / intero;ぜんたい;L16
+espressione;sono ato;その後;dopo / dopodiché;そのあと;L16
+verbo;oyogu;泳ぐ;nuotare;およぐ;L16
+sostantivo;hawai;ハワイ;hawaii;ハワイ;L16
+sostantivo;kyoumi;興味;interesse;きょうみ;L16
+aggettivo;shizuka;静か;tranquillo / silenzioso;しずか;L16
+verbo;omotte;思って;pensando (forma -te);おもって;L17
+verbo;waratte;笑って;ridendo (forma -te);わらって;L17
+verbo;yonde;呼んで;chiamando (forma -te);よんで;L17
+verbo;yonde;読んで;leggendo (forma -te);よんで;L17
+verbo;utte;売って;vendendo (forma -te);うって;L17
+verbo;suwatte;座って;sedendosi (forma -te);すわって;L17
+verbo;uru;売る;vendere;うる;L17
+verbo;urimasu;売ります;vendo (educato);うります;L17
+verbo;utta;売った;ho venduto (plain past);うった;L17
+verbo;uranai;売らない;non vendo (informale);うらない;L17
+frase;nani wo shite imasu ka;何をしていますか;cosa stai facendo?;なにをしていますか;L17
+frase;ima pasuta wo tabete imasu;今パスタを食べています;adesso sto mangiando la pasta;いまパスタをたべています;L17
+frase;doko wo aruite imasu ka;どこを歩いていますか;dove stai camminando?;どこをあるいていますか;L17
+frase;iie aruite imasen;いいえ歩いていません;no non sto camminando;いいえあるいていません;L17
+frase;eki no mae wo hashitte imasu;駅の前を走っています;sto correndo davanti alla stazione;えきのまえをはしっています;L17
+frase;watashi wa itariajin desu;私はイタリア人です;sono italiano/a;わたしはイタリアじんです;L17
+frase;ima mirano ni sunde imasu;今ミラノに住んでいます;adesso vivo a milano;いまミラノにすんでいます;L17
+frase;asagohan wo tabete koohii wo nomimasu;朝ごはんを食べてコーヒーを飲みます;faccio colazione e bevo un caffè;あさごはんをたべてコーヒーをのみます;L17
+frase;nihongo wa muzukashii desu ga omoshiroi desu;日本語は難しいですが面白いです;il giapponese è difficile ma interessante;にほんごはむずかしいですがおもしろいです;L17
+frase;watashi wa itaria ryouri ga daisuki desu;私はイタリア料理が大好きです;adoro la cucina italiana;わたしはイタリアりょうりがだいすきです;L17
+frase;gogo goji ni gakkou ga owarimasu;午後5時に学校が終わります;la scuola finisce alle 5 del pomeriggio;ごごごじにがっこうがおわります;L17
+frase;ongaku wo kiitari eiga wo mitari shimasu;音楽を聞いたり映画を見たりします;ascolto musica guardo film e altro;おんがくをきいたりえいがをみたりします;L17
+frase;tenki ga ii toki wa kouen e ikimasu;天気がいい時は公園へ行きます;quando il tempo è bello vado al parco;てんきがいいときはこうえんへいきます;L17
+frase;ame no hi wa ie ni imasu;雨の日は家にいます;nei giorni di pioggia sto a casa;あめのひはいえにいます;L17
+frase;itsuka nihon e ikitai desu;いつか日本へ行きたいです;un giorno voglio andare in giappone;いつかにほんへいきたいです;L17
+frase;tokyo ya osaka wo mitai desu;東京や大阪を見たいです;voglio vedere tokyo e osaka e altro;とうきょうやおおさかをみたいです;L17
+frase;nihongo wo motto jouzu ni hanashitai desu;日本語をもっと上手に話したいです;voglio parlare il giapponese più fluentemente;にほんごをもっとじょうずにはなしたいです;L17
+sostantivo;daisuki;大好き;adorare / amare tantissimo;だいすき;L17
+sostantivo;itariajin;イタリア人;italiano (persona);イタリアじん;L17
+aggettivo;shinsetsu;親切;gentile;しんせつ;L17
+espressione;jouzu ni;上手に;bene / abilmente (avverbio);じょうずに;L17
+sostantivo;saru;猿;scimmia;さる;L17
+sostantivo;kouen;公園;parco;こうえん;L17
+sostantivo;bangohan;晩ご飯;cena;ばんごはん;L17
+sostantivo;ame no hi;雨の日;giorno di pioggia;あめのひ;L17
+kanji;yama / san;山;montagna;kun: やま | on: さん — 富士山(ふじさん)・山にのぼる;L18
+kanji;umi / kai;海;mare;kun: うみ | on: かい — 日本海(にほんかい)・海でおよぐ;L18
+kanji;ki / moku / boku;木;albero / legno;kun: き | on: もく・ぼく — 木曜日(もくようび)・木をそだてる;L18
+kanji;hana / ka;花;fiore;kun: はな | on: か — 花火(はなび)・花びん(かびん);L18
+kanji;hi / ka;火;fuoco;kun: ひ | on: か — 火曜日(かようび)・花火(はなび);L18
+kanji;tsuki / getsu / gatsu;月;luna / mese;kun: つき | on: げつ・がつ — 月曜日(げつようび)・月を見る;L18
+kanji;mizu / sui;水;acqua;kun: みず | on: すい — 水曜日(すいようび)・水を飲む;L18
+kanji;hi / ka / nichi / jitsu;日;sole / giorno;kun: ひ・か | on: にち・じつ — 日曜日(にちようび)・日本(にほん)・日の出(ひので);L18
+kanji;tsuchi / do;土;terra / suolo;kun: つち | on: ど — 土曜日(どようび)・土をさわる;L18
+kanji;hito / jin / nin;人;persona;kun: ひと | on: じん・にん — 日本人(にほんじん)・イタリア人(イタリアじん);L18
+kanji;chichi / fu;父;padre (mio);kun: ちち | on: ふ — お父さん(おとうさん);L18
+kanji;kare / kano / hi;彼;lui;kun: かれ・かの | on: ひ — 彼ら(かれら);L18
+kanji;hon / pon / moto;本;libro / origine;kun: もと | on: ほん・ぽん — 日本(にほん)・本を読む;L18
+kanji;kuni / koku;国;paese;kun: くに | on: こく — 中国(ちゅうごく)・国語(こくご);L18
+kanji;shima / tou;島;isola;kun: しま | on: とう — シチリア島(シチリアとう);L18
+kanji;aka(rui) / mei / myou;明;luminoso / domani;kun: あか.るい・あき.らか | on: めい・みょう — 明日(あした)・明るい(あかるい);L18
+kanji;mana(bu) / gaku;学;studio / imparare;kun: まな.ぶ | on: がく — 学校(がっこう)・数学(すうがく);L18
+kanji;ima / kon;今;adesso;kun: いま | on: こん — 今度(こんど);L18
+kanji;toki / ji;時;tempo / ora;kun: とき | on: じ — 時間(じかん)・七時(しちじ);L18
+kanji;ta(beru) / shoku;食;mangiare / cibo;kun: た.べる | on: しょく — 食事(しょくじ);L18
+kanji;mi(ru) / ken;見;vedere;kun: み.る | on: けん — 見学(けんがく);L18
+kanji;i(ku) / kou / gyou;行;andare;kun: い.く | on: こう・ぎょう — 行列(ぎょうれつ);L18
+kanji;ku(ru) / ko(nai) / rai;来;venire;kun: く.る・こ.ない | on: らい — 来年(らいねん);L18
+kanji;o(kiru) / ki;起;alzarsi / svegliarsi;kun: お.きる | on: き — 起床(きしょう);L18
+kanji;ki(ku) / bun / mon;聞;ascoltare / chiedere;kun: き.く | on: ぶん・もん — 新聞(しんぶん);L18
+kanji;me / moku;目;occhio;kun: め | on: もく — 目が痛い(めがいたい);L18
+kanji;atama / tou;頭;testa;kun: あたま | on: とう — 頭が痛い(あたまがいたい);L18
+kanji;kuchi / kou;口;bocca;kun: くち | on: こう;L18
+kanji;hana / bi;鼻;naso;kun: はな | on: び — 鼻水(はなみず);L18
+kanji;mimi / ji;耳;orecchio;kun: みみ | on: じ — 耳が痛い(みみがいたい);L18
+kanji;kubi / shu;首;collo;kun: くび | on: しゅ;L18
+kanji;te / shu;手;mano;kun: て | on: しゅ — 手話(しゅわ);L18
+kanji;ashi / soku;足;piede / gamba;kun: あし | on: そく;L18
+kanji;hito(tsu) / ichi;一;uno;kun: ひと.つ | on: いち — 一人(ひとり)・一時(いちじ);L18
+kanji;futa(tsu) / ni;二;due;kun: ふた.つ | on: に — 二人(ふたり)・二階(にかい);L18
+kanji;mit(tsu) / san;三;tre;kun: みっ.つ | on: さん — 三時(さんじ);L18
+kanji;yo / yon / yot(tsu) / shi;四;quattro;kun: よ・よん・よっ.つ | on: し — 四人(よにん)・四時(よじ);L18
+kanji;itsu(tsu) / go;五;cinque;kun: いつ.つ | on: ご — 五時(ごじ);L18
+kanji;mut(tsu) / roku;六;sei;kun: むっ.つ | on: ろく — 六時(ろくじ);L18
+kanji;nana / shichi;七;sette;kun: なな・なな.つ | on: しち — 七時(しちじ);L18
+kanji;yat(tsu) / hachi;八;otto;kun: やっ.つ | on: はち — 八時(はちじ);L18
+kanji;kokono(tsu) / kyuu / ku;九;nove;kun: ここの.つ | on: きゅう・く — 九時(くじ);L18
+kanji;too / juu;十;dieci;kun: とお | on: じゅう — 十時(じゅうじ);L18
+kanji;yasu(mu) / kyuu;休;riposare / assentarsi;kun: やす.む | on: きゅう — 休みの日(やすみのひ)・日曜日は休みです;L18
+kanji;yasa(shii) / yuu;優;gentile;kun: やさ.しい | on: ゆう — 優しい(やさしい);L18
+kanji;kane / kin;金;oro / denaro;kun: かね | on: きん — 金曜日(きんようび);L18
+frase;yama ni noborimasu;山にのぼります;salgo in montagna;やまにのぼります;L18
+frase;umi de oyogimasu;海でおよぎます;nuoto nel mare;うみでおよぎます;L18
+frase;hana ni mizu wo yarimasu;花に水をやります;annaffio i fiori;はなにみずをやります;L18
+frase;chichi wa nihonjin desu;父は日本人です;mio padre è giapponese;ちちはにほんじんです;L18
+frase;ashita wa gakkou desu;明日は学校です;domani c'è scuola;あしたはがっこうです;L18
+verbo;tatsu;立つ;alzarsi / stare in piedi;たつ;L19
+verbo;tachimasu;立ちます;mi alzo (educato);たちます;L19
+verbo;tatta;立った;mi sono alzato (informale);たった;L19
+verbo;tatanai;立たない;non mi alzo (informale);たたない;L19
+verbo;kowasu;壊す;rompere;こわす;L19
+verbo;kowashimasu;壊します;rompo (educato);こわします;L19
+verbo;kowashita;壊した;ho rotto (informale);こわした;L19
+verbo;kowasanai;壊さない;non rompo (informale);こわさない;L19
+verbo;deru;出る;uscire / partire;でる;L19
+verbo;demasu;出ます;esco (educato);でます;L19
+verbo;deta;出た;sono uscito (informale);でた;L19
+verbo;denai;出ない;non esco (informale);でない;L19
+verbo;dete;出て;uscendo (forma -te);でて;L19
+verbo;denakute;出なくて;senza uscire (forma -te neg.);でなくて;L19
+verbo;wakaru;分かる;capire;わかる;L19
+verbo;wakarimasu;分かります;capisco (educato);わかります;L19
+verbo;wakatta;分かった;ho capito (informale);わかった;L19
+verbo;wakaranai;分からない;non capisco (informale);わからない;L19
+verbo;wakatte;分かって;capendo (forma -te);わかって;L19
+verbo;noboru;上る;salire / scalare;のぼる;L19
+verbo;noborimasu;上ります;salgo (educato);のぼります;L19
+verbo;nobotta;上った;sono salito (informale);のぼった;L19
+verbo;noboranai;上らない;non salgo (informale);のぼらない;L19
+verbo;au;会う;incontrare;あう;L19
+verbo;aimasu;会います;incontro (educato);あいます;L19
+verbo;atta;会った;ho incontrato (informale);あった;L19
+verbo;awanai;会わない;non incontro (informale);あわない;L19
+verbo;atte;会って;incontrando (forma -te);あって;L19
+verbo;haratta;払った;ho pagato (informale);はらった;L19
+verbo;harawanai;払わない;non pago (informale);はらわない;L19
+verbo;aratta;洗った;ho lavato (informale);あらった;L19
+verbo;arawanai;洗わない;non lavo (informale);あらわない;L19
+verbo;arukanakute;歩かなくて;senza camminare (forma -te neg.);あるかなくて;L19
+verbo;yomanakute;読まなくて;senza leggere (forma -te neg.);よまなくて;L19
+verbo;nomanakute;飲まなくて;senza bere (forma -te neg.);のまなくて;L19
+verbo;tabenakute;食べなくて;senza mangiare (forma -te neg.);たべなくて;L19
+verbo;nenakute;寝なくて;senza dormire (forma -te neg.);ねなくて;L19
+verbo;okinakute;起きなくて;senza svegliarsi (forma -te neg.);おきなくて;L19
+verbo;shinakute;しなくて;senza fare (forma -te neg.);しなくて;L19
+verbo;konakute;来なくて;senza venire (forma -te neg.) ⚠️;こなくて;L19
+sostantivo;oame;大雨;pioggia forte / temporale;おおあめ;L19
+kanji;asa / chou;朝;mattina;kun: あさ | on: ちょう — 毎朝(まいあさ)・朝ごはん(あさごはん);L20
+kanji;hiru / chuu;昼;mezzogiorno;kun: ひる | on: ちゅう — 昼ごはん(ひるごはん);L20
+kanji;go;午;mezzogiorno;on: ご — 午後(ごご)・午前(ごぜん);L20
+kanji;ato / nochi / ushi(ro) / go / kou;後;dopo / dietro;kun: あと・のち・うし.ろ | on: ご・こう — 午後(ごご)・その後(そのあと);L20
+kanji;mai;毎;ogni;on: まい — 毎日(まいにち)・毎朝(まいあさ);L20
+kanji;shuu;週;settimana;on: しゅう — 毎週(まいしゅう)・週末(しゅうまつ);L20
+kanji;saku;昨;ieri / giorno scorso;on: さく — 昨日(きのう);L20
+kanji;natsu / ka;夏;estate;kun: なつ | on: か — この夏(このなつ);L20
+kanji;fuyu / tou;冬;inverno;kun: ふゆ | on: とう — 冬(ふゆ);L20
+kanji;ame / ama / ten;天;cielo;kun: あめ・あま | on: てん — 天気(てんき);L20
+kanji;ki / ke;気;spirito / aria;on: き・け — 天気(てんき);L20
+kanji;ame / u;雨;pioggia;kun: あめ | on: う — 雨の日(あめのひ)・大雨(おおあめ);L20
+kanji;yuki / setsu;雪;neve;kun: ゆき | on: せつ — 雪を見る(ゆきをみる);L20
+kanji;samu(i) / kan;寒;freddo;kun: さむ.い | on: かん — 寒い(さむい);L20
+kanji;atata(kai) / on;温;tiepido / caldo;kun: あたた.かい | on: おん — 温かい(あたたかい);L20
+kanji;haha / bo;母;madre (mia);kun: はは | on: ぼ — お母さん(おかあさん);L20
+kanji;ani / kei / kyou;兄;fratello maggiore;kun: あに | on: けい・きょう — 兄(あに);L20
+kanji;ie / uchi / ka;家;casa / famiglia;kun: いえ・うち | on: か — 家族(かぞく);L20
+kanji;zoku;族;famiglia / tribù;on: ぞく — 家族(かぞく);L20
+kanji;tomo / yuu;友;amico;kun: とも | on: ゆう — 友達(ともだち);L20
+kanji;tachi / tatsu;達;plurale (persone);kun: たち | on: たつ — 友達(ともだち);L20
+kanji;tsuka(eru) / shi;仕;servire;kun: つか.える | on: し — 仕事(しごと);L20
+kanji;koto / ji;事;cosa / fatto;kun: こと | on: じ — 仕事(しごと)・食事(しょくじ);L20
+kanji;a(u) / kai;会;incontrare;kun: あ.う | on: かい — 会社(かいしゃ);L20
+kanji;yashiro / sha;社;società / santuario;kun: やしろ | on: しゃ — 会社(かいしゃ);L20
+kanji;ben;勉;sforzarsi;on: べん — 勉強(べんきょう);L20
+kanji;tsuyo(i) / kyou / gou;強;forte;kun: つよ.い | on: きょう・ごう — 勉強(べんきょう);L20
+kanji;ryou;料;materiale / tariffa;on: りょう — 料理(りょうり);L20
+kanji;ri;理;ragione / logica;on: り — 料理(りょうり)・理解(りかい);L20
+kanji;kae(ru) / ki;帰;tornare;kun: かえ.る | on: き — 帰ります(かえります);L20
+kanji;ne(ru) / shin;寝;dormire;kun: ね.る | on: しん — 寝ます(ねます);L20
+kanji;ara(u) / sen;洗;lavare;kun: あら.う | on: せん — 洗います(あらいます);L20
+kanji;su(ki) / ko(numu) / kou;好;piacere / voler bene;kun: す.き・この.む | on: こう — 好き(すき);L20
+kanji;tano(shii) / gaku / raku;楽;divertente / musica;kun: たの.しい | on: がく・らく — 楽しみ(たのしみ);L20
+kanji;u(mareru) / i(kiru) / sei / shou;生;nascere / vita;kun: う.まれる・い.きる | on: せい・しょう — 生まれる(うまれる);L20
+kanji;kao / gan;顔;viso;kun: かお | on: がん — 顔を洗う(かおをあらう);L20
+kanji;machi / chou;町;città / paese;kun: まち | on: ちょう — 町へ行く(まちへいく);L20
+kanji;sakana / uo / gyo;魚;pesce;kun: さかな・うお | on: ぎょ — 魚を食べる(さかなをたべる);L20
+kanji;toku;特;speciale;on: とく — 特に(とくに);L20
+kanji;ue / jou;上;sopra;kun: うえ・あ.げる | on: じょう・しょう — 上手(じょうず);L20
+frase;watashi wa kono natsu kazoku to umi de sakana wo tabemashita;私はこの夏、家族と海で魚を食べました;quest'estate ho mangiato pesce al mare con la famiglia;わたしはこのなつ、かぞくとうみでさかなをたべました;L20
+frase;totemo oishikatta desu;とてもおいしかったです;era molto buono;とてもおいしかったです;L20
+frase;mata nihon ni ikitai desu;また日本に行きたいです;voglio andare di nuovo in giappone;またにほんにいきたいです;L20
+frase;itaria de wa ryouri ga totemo oishii desu;イタリアでは料理がとてもおいしいです;in italia il cibo è molto buono;イタリアではりょうりがとてもおいしいです;L20
+frase;itariajin wa ryouri ga totemo jouzu desu;イタリア人は料理がとても上手です;gli italiani sono molto bravi a cucinare;イタリアじんはりょうりがとてもじょうずです;L20
+frase;itaria de umaremashita;イタリアで生まれました;sono nato in italia;イタリアでうまれました;L20
+frase;itaria ni umaretakatta desu;イタリアに生まれたかったです;avrei voluto nascere in italia;イタリアにうまれたかったです;L20
+frase;mainichi sukoshi zutsu benkyou suru koto ga taisetsu desu;毎日少しずつ勉強することが大切です;è importante studiare un po' ogni giorno;まいにちすこしずつべんきょうすることがたいせつです;L20
+frase;yuki wo miru koto mo suki desu;雪を見ることも好きです;mi piace anche guardare la neve;ゆきをみることもすきです;L20
+frase;demo fuyu wa suki desu;でも、冬は好きです;però mi piace l'inverno;でも、ふゆはすきです;L20
+frase;asa kara ame ga futte imasu;朝から雨が降っています;piove da stamattina;あさからあめがふっています;L20
+frase;kazoku minna de gohan wo tabemasu;家族みんなでごはんを食べます;mangiamo tutti insieme in famiglia;かぞくみんなでごはんをたべます;L20
+frase;watashi no kazoku wa yonin desu;私の家族は4人です;la mia famiglia è di quattro persone;わたしのかぞくはよにんです;L20
+frase;watashi wa ame no hi ga amari suki dewa arimasen;私は雨の日があまり好きではありません;non mi piacciono molto i giorni di pioggia;わたしはあめのひがあまりすきではありません;L20
+frase;kyou wa kinyoubi desu;今日は金曜日です;oggi è venerdì;きょうはきんようびです;L20
+frase;ashita wa doyoubi desu;明日は土曜日です;domani è sabato;あしたはどようびです;L20
+frase;tomodachi to machi e ikimasu;友達と町へ行きます;vado in città con gli amici;ともだちとまちへいきます;L20
+frase;oishii hirugohan wo tabetai desu;おいしい昼ごはんを食べたいです;voglio mangiare un buon pranzo;おいしいひるごはんをたべたいです;L20
+frase;gogo wa kafe de koohii wo nomimasu;午後はカフェでコーヒーを飲みます;il pomeriggio bevo un caffè al bar;ごごはカフェでコーヒーをのみます;L20
+frase;totemo tanoshimi desu;とても楽しみです;non vedo l'ora;とてもたのしみです;L20
+frase;chichi wa kaisha de shigoto wo shite imasu;父は会社で仕事をしています;mio padre lavora in azienda;ちちはかいしゃでしごとをしています;L20
+frase;gogo rokuji ni ie ni kaerimasu;午後6時に家に帰ります;torno a casa alle 6 del pomeriggio;ごごろくじにいえにかえります;L20
+frase;watashi wa maiasa shichiji ni okimasu;私は毎朝7時に起きます;ogni mattina mi sveglio alle sette;わたしはまいあさしちじにおきます;L20
+frase;kao wo aratte asagohan wo tabemasu;顔を洗って、朝ごはんを食べます;mi lavo il viso e faccio colazione;かおをあらって、あさごはんをたべます;L20
+frase;yoru wa terebi wo mite juuichiji ni nemasu;夜はテレビを見て、11時に寝ます;la sera guardo la tv e vado a dormire alle undici;よるはテレビをみて、じゅういちじにねます;L20
+frase;kinou wa raamen wo tabemashita;昨日はラーメンを食べました;ieri ho mangiato il ramen;きのうはラーメンをたべました;L20
+espressione;suru koto;〜すること;il fare… (verbo + koto trasforma il verbo in nome);〜すること;L20
+espressione;dewa arimasen;〜ではありません;non è… (negativo formale di desu);〜ではありません;L20
+sostantivo;ani;兄;mio fratello maggiore;あに;L20
+sostantivo;machi;町;città / paese;まち;L20
+sostantivo;tanoshimi;楽しみ;attesa piacevole / non vedo l'ora;たのしみ;L20
+aggettivo;atatakai;温かい;tiepido / caldo (bevande e cibo);あたたかい;L20
+aggettivo;taisetsu;大切;importante;たいせつ;L20
+aggettivo;heta;下手;scarso / poco abile;へた;L20
+aggettivo;jouzu;上手;bravo / abile;じょうず;L20
+verbo;arau;洗う;lavare;あらう;L20
+sostantivo;yonin;四人;quattro persone (si legge yonin, non yoninn);よにん;L20
+sostantivo;maiasa;毎朝;ogni mattina;まいあさ;L20
+sostantivo;maishuu;毎週;ogni settimana;まいしゅう;L20
+sostantivo;mainichi;毎日;ogni giorno;まいにち;L20
