@@ -3184,6 +3184,35 @@ Indica una **scelta tra opzioni**:
 
 ---
 
+## ➕ Kanji della lezione 18 aggiunti in seguito
+
+Mayu li aveva scritti in chat (numeri, 休, 優) ma non erano stati inseriti negli appunti. 金 completa i giorni della settimana.
+
+### 🔢 Numeri
+| Kanji | Kun'yomi | On'yomi | Significato | Parole chiave |
+|---|---|---|---|---|
+| 一 | ひと(つ) | いち | uno | 一人 (ひとり) |
+| 二 | ふた(つ) | に | due | 二人 (ふたり) / 二階 (にかい) |
+| 三 | みっ(つ) | さん | tre | 三時 (さんじ) |
+| 四 | よ / よん / よっ(つ) | し | quattro | 四人 (よにん) / 四時 (よじ) |
+| 五 | いつ(つ) | ご | cinque | 五時 (ごじ) |
+| 六 | むっ(つ) | ろく | sei | 六時 (ろくじ) |
+| 七 | なな / なな(つ) | しち | sette | 七時 (しちじ) |
+| 八 | やっ(つ) | はち | otto | 八時 (はちじ) |
+| 九 | ここの(つ) | きゅう / く | nove | 九時 (くじ) |
+| 十 | とお | じゅう | dieci | 十時 (じゅうじ) |
+
+### 🧩 Altri
+| Kanji | Kun'yomi | On'yomi | Significato | Parole chiave |
+|---|---|---|---|---|
+| 休 | やす(む) | きゅう | riposare / assentarsi | 休みの日 (やすみのひ) |
+| 優 | やさ(しい) | ゆう | gentile | 優しい (やさしい) |
+| 金 | かね | きん | oro / denaro | 金曜日 (きんようび) |
+
+> ⚠️ In 四 e 七 le letture **よん** e **なな** sono kun'yomi (letture giapponesi), non on'yomi: l'on'yomi è **し** / **しち**.
+
+---
+
 ---
 
 ---
@@ -3360,4 +3389,174 @@ tabenai → tabenakute
 
 ---
 
-*Ultima lezione: Lezione 19 — 21 ottobre 2026*
+---
+
+---
+
+# 📗 Lezione 20 — 6 novembre 2026
+
+**Argomenti:** frasi su estate e Italia, 5 testi di lettura con kanji, nominalizzazione con こと, ではありません, letture speciali dei kanji
+
+---
+
+## ✍️ Le tue frasi (corrette)
+
+| Giapponese | Romaji | Italiano |
+|---|---|---|
+| 私はこの夏、家族と海で魚を食べました | Watashi wa kono natsu, kazoku to umi de sakana wo tabemashita | Quest'estate ho mangiato pesce al mare con la famiglia |
+| とてもおいしかったです | Totemo oishikatta desu | Era molto buono |
+| また日本に行きたいです | Mata Nihon ni ikitai desu | Voglio andare di nuovo in Giappone |
+| イタリアでは料理がとてもおいしいです | Itaria de wa ryouri ga totemo oishii desu | In Italia il cibo è molto buono |
+| イタリア人は料理がとても上手です | Itariajin wa ryouri ga totemo jouzu desu | Gli italiani sono molto bravi a cucinare |
+| イタリアに生まれたかったです | Itaria ni umaretakatta desu | Avrei voluto nascere in Italia |
+
+**Correzioni:**
+- Era stato scritto 日本に**帰り**たい. 帰る è "tornare a casa", quindi per un viaggio da turista si dice **また行きたい**.
+- 生まれたかった significa "avrei voluto nascere" e implica che non si è nati lì. Per dire "sono nato in Italia" si usa **イタリアで生まれました**.
+
+---
+
+## 🆕 Grammatica
+
+### ~こと: trasformare un verbo in nome
+**Regola:** forma dizionario + こと. È lo stesso こと di ~たことがある.
+
+| Giapponese | Romaji | Italiano |
+|---|---|---|
+| 勉強すること | benkyou suru koto | lo studiare |
+| 毎日少しずつ勉強することが大切です | Mainichi sukoshi zutsu benkyou suru koto ga taisetsu desu | È importante studiare un po' ogni giorno |
+| 雪を見ることも好きです | Yuki wo miru koto mo suki desu | Mi piace anche guardare la neve |
+
+### ~ではありません: negativo formale di です
+
+| Livello | Giapponese | Romaji |
+|---|---|---|
+| Informale | 好きじゃない | suki janai |
+| Educato | 好きじゃありません | suki ja arimasen |
+| Più formale | 好きではありません | suki dewa arimasen |
+
+### Altre strutture dai testi
+
+| Giapponese | Romaji | Italiano |
+|---|---|---|
+| でも、冬は好きです | Demo, fuyu wa suki desu | Però mi piace l'inverno |
+| 朝から雨が降っています | Asa kara ame ga futte imasu | Piove da stamattina |
+| 家族みんなでごはんを食べます | Kazoku minna de gohan wo tabemasu | Mangiamo tutti insieme in famiglia |
+| 私の家族は4人です | Watashi no kazoku wa yonin desu | La mia famiglia è di 4 persone |
+
+⚠️ **4人 si legge よにん**, non よんにん. Come visto con i contatori: ひとり, ふたり, よにん.
+
+---
+
+## 🈶 Kanji della lezione
+
+Il documento di lettura stesso dice che non serve memorizzarli tutti subito: l'obiettivo è abituarsi a leggerli in contesto.
+
+### ⏰ Tempo e stagioni
+| Kanji | Kun'yomi | On'yomi | Significato | Parola nel testo |
+|---|---|---|---|---|
+| 朝 | あさ | ちょう | mattina | 毎朝 (まいあさ) |
+| 昼 | ひる | ちゅう | mezzogiorno | 昼ごはん (ひるごはん) |
+| 午 | — | ご | mezzogiorno | 午後 (ごご) |
+| 後 | あと / のち / うし(ろ) | ご / こう | dopo, dietro | 午後 (ごご) |
+| 毎 | — | まい | ogni | 毎日 (まいにち) |
+| 週 | — | しゅう | settimana | 毎週 (まいしゅう) |
+| 昨 | — | さく | ieri, scorso | 昨日 (きのう) |
+| 夏 | なつ | か | estate | この夏 (このなつ) |
+| 冬 | ふゆ | とう | inverno | 冬 (ふゆ) |
+
+### 🌧️ Tempo atmosferico
+| Kanji | Kun'yomi | On'yomi | Significato | Parola nel testo |
+|---|---|---|---|---|
+| 天 | あめ / あま | てん | cielo | 天気 (てんき) |
+| 気 | — | き / け | spirito, aria | 天気 (てんき) |
+| 雨 | あめ | う | pioggia | 雨の日 (あめのひ) |
+| 雪 | ゆき | せつ | neve | 雪 (ゆき) |
+| 寒 | さむ(い) | かん | freddo | 寒い (さむい) |
+| 温 | あたた(かい) | おん | tiepido, caldo | 温かい (あたたかい) |
+
+### 👨‍👩‍👦 Famiglia e amici
+| Kanji | Kun'yomi | On'yomi | Significato | Parola nel testo |
+|---|---|---|---|---|
+| 母 | はは | ぼ | madre (la propria) | 母 (はは) |
+| 兄 | あに | けい / きょう | fratello maggiore | 兄 (あに) |
+| 家 | いえ / うち | か | casa, famiglia | 家族 (かぞく) |
+| 族 | — | ぞく | famiglia, tribù | 家族 (かぞく) |
+| 友 | とも | ゆう | amico | 友達 (ともだち) |
+| 達 | たち | たつ | plurale per persone | 友達 (ともだち) |
+
+### 💼 Lavoro e studio
+| Kanji | Kun'yomi | On'yomi | Significato | Parola nel testo |
+|---|---|---|---|---|
+| 仕 | つか(える) | し | servire | 仕事 (しごと) |
+| 事 | こと | じ | cosa, fatto | 仕事 (しごと) |
+| 会 | あ(う) | かい | incontrare | 会社 (かいしゃ) |
+| 社 | やしろ | しゃ | società, santuario | 会社 (かいしゃ) |
+| 勉 | — | べん | sforzarsi | 勉強 (べんきょう) |
+| 強 | つよ(い) | きょう / ごう | forte | 勉強 (べんきょう) |
+| 料 | — | りょう | materiale | 料理 (りょうり) |
+| 理 | — | り | ragione, logica | 料理 (りょうり) |
+
+### 🏃 Azioni e sentimenti
+| Kanji | Kun'yomi | On'yomi | Significato | Parola nel testo |
+|---|---|---|---|---|
+| 帰 | かえ(る) | き | tornare | 帰ります (かえります) |
+| 寝 | ね(る) | しん | dormire | 寝ます (ねます) |
+| 洗 | あら(う) | せん | lavare | 洗います (あらいます) |
+| 好 | す(き) / この(む) | こう | piacere | 好き (すき) |
+| 楽 | たの(しい) | がく / らく | divertente, musica | 楽しみ (たのしみ) |
+| 生 | う(まれる) / い(きる) | せい / しょう | nascere, vita | 生まれる (うまれる) |
+
+### 🧩 Altri
+| Kanji | Kun'yomi | On'yomi | Significato | Parola nel testo |
+|---|---|---|---|---|
+| 顔 | かお | がん | viso | 顔 (かお) |
+| 町 | まち | ちょう | città, paese | 町 (まち) |
+| 魚 | さかな / うお | ぎょ | pesce | 魚 (さかな) |
+| 特 | — | とく | speciale | 特に (とくに) |
+| 上 | うえ / あ(げる) | じょう | sopra | 上手 (じょうず) |
+
+### ⚠️ Letture speciali
+Queste parole non si ricavano dalle singole letture dei kanji e vanno memorizzate come parole intere.
+
+| Giapponese | Lettura | Italiano |
+|---|---|---|
+| 今日 | きょう | oggi |
+| 昨日 | きのう | ieri |
+| 明日 | あした | domani |
+| 友達 | ともだち | amico/amici |
+| 上手 | じょうず | bravo |
+
+---
+
+## 📌 Vocaboli nuovi
+
+| Romaji | Giapponese | Italiano |
+|---|---|---|
+| Kazoku | 家族 | Famiglia |
+| Haha | 母 | Mia madre |
+| Ani | 兄 | Mio fratello maggiore |
+| Kaisha | 会社 | Azienda |
+| Machi | 町 | Città / paese |
+| Hirugohan | 昼ごはん | Pranzo |
+| Tanoshimi | 楽しみ | Attesa piacevole |
+| Yuki | 雪 | Neve |
+| Atatakai | 温かい | Tiepido / caldo |
+| Tokuni | 特に | Soprattutto |
+| Taisetsu | 大切 | Importante |
+| Heta | 下手 | Scarso / poco abile |
+| Modoru | 戻る | Tornare (indietro) |
+
+---
+
+## 🔍 Piccole imprecisioni nel documento di lettura
+
+- Nel brano ③ la lista riporta 人 (ひと), ma in **4人** si legge **にん** (よにん).
+- Nel brano ② la lista riporta 楽しい, mentre il testo usa **楽しみ**.
+- La traduzione del testo introduttivo è al femminile ("svegliata").
+
+Questa lezione non ha verbi nuovi: 生まれる, 洗う, 寝る e 帰る erano già nel JSON dei verbi.
+
+---
+
+*Ultima lezione: Lezione 20 — 6 novembre 2026*
