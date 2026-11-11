@@ -1264,3 +1264,162 @@ sostantivo;yonin;四人;quattro persone (si legge yonin, non yoninn);よにん;L
 sostantivo;maiasa;毎朝;ogni mattina;まいあさ;L20
 sostantivo;maishuu;毎週;ogni settimana;まいしゅう;L20
 sostantivo;mainichi;毎日;ogni giorno;まいにち;L20
+kanji;watashi / shi;私;io / privato;kun: わたし・わたくし | on: し — 私(わたし)・私たち(わたしたち);L21
+kanji;imouto / mai;妹;sorella minore;kun: いもうと | on: まい — 妹(いもうと);L21
+kanji;ji / shi / mizuka(ra);自;sé stesso;kun: みずか.ら | on: じ・し — 自分(じぶん);L21
+kanji;bun / fun / bu / wa(karu);分;parte / minuto / capire;kun: わ.かる・わ.ける | on: ぶん・ふん・ぶ — 自分(じぶん)・分かる(わかる);L21
+kanji;na / mei / myou;名;nome;kun: な | on: めい・みょう — 有名(ゆうめい);L21
+kanji;a(ru) / yuu / u;有;avere / esistere;kun: あ.る | on: ゆう・う — 有名(ゆうめい);L21
+kanji;oo(kii) / dai / tai;大;grande;kun: おお.きい・おお | on: だい・たい — 大学生(だいがくせい)・大好き(だいすき);L21
+kanji;hatara(ku) / dou;働;lavorare;kun: はたら.く | on: どう — 働きます(はたらきます);L21
+kanji;kata(ru) / go;語;lingua / parola;kun: かた.る | on: ご — 日本語(にほんご);L21
+kanji;i(u) / koto / gen / gon;言;dire;kun: い.う・こと | on: げん・ごん — 言葉(ことば);L21
+kanji;ha / you;葉;foglia / parola;kun: は | on: よう — 言葉(ことば);L21
+kanji;kan;漢;Cina / kanji;on: かん — 漢字(かんじ);L21
+kanji;ji / aza;字;carattere / lettera;kun: あざ | on: じ — 漢字(かんじ);L21
+kanji;nara(u) / shuu;習;imparare / esercitarsi;kun: なら.う | on: しゅう — 学習(がくしゅう);L21
+kanji;oboe(ru) / kaku;覚;ricordare / memorizzare;kun: おぼ.える・さ.ます | on: かく — 覚えます(おぼえます);L21
+kanji;ka(ku) / sho;書;scrivere;kun: か.く | on: しょ — 書きます(かきます);L21
+kanji;yo(mu) / doku;読;leggere;kun: よ.む | on: どく・とく — 読みます(よみます);L21
+kanji;hana(su) / wa;話;parlare / discorso;kun: はな.す・はなし | on: わ — 話します(はなします)・手話(しゅわ);L21
+kanji;muzuka(shii) / nan;難;difficile;kun: むずか.しい・かた.い | on: なん — 難しい(むずかしい);L21
+kanji;atara(shii) / shin;新;nuovo;kun: あたら.しい・あら.た | on: しん — 新しい(あたらしい)・新聞(しんぶん);L21
+kanji;mottomo / sai;最;il più / estremo;kun: もっと.も | on: さい — 最後(さいご);L21
+kanji;tato(eru) / rei;例;esempio;kun: たと.える | on: れい — 例文(れいぶん);L21
+kanji;nori / hou;法;legge / metodo;kun: のり | on: ほう・はっ・ほっ — 文法(ぶんぽう);L21
+kanji;meshi / han;飯;riso cotto / pasto;kun: めし | on: はん — ご飯(ごはん);L21
+kanji;ushi / gyuu;牛;mucca;kun: うし | on: ぎゅう — 牛乳(ぎゅうにゅう);L21
+kanji;chichi / nyuu;乳;latte / seno;kun: ちち | on: にゅう — 牛乳(ぎゅうにゅう);L21
+kanji;tamago / ran;卵;uovo;kun: たまご | on: らん — 卵(たまご);L21
+kanji;no / ya;野;campo / pianura;kun: の | on: や — 野菜(やさい);L21
+kanji;na / sai;菜;verdura;kun: な | on: さい — 野菜(やさい);L21
+kanji;ha(tasu) / ka;果;frutto / risultato;kun: は.たす・は.て | on: か — 果物(くだもの);L21
+kanji;mono / butsu / motsu;物;cosa / oggetto;kun: もの | on: ぶつ・もつ — 果物(くだもの)・買い物(かいもの)・食べ物(たべもの);L21
+kanji;ka(u) / bai;買;comprare;kun: か.う | on: ばい — 買います(かいます)・買い物(かいもの);L21
+kanji;ban;晩;sera;on: ばん — 晩ごはん(ばんごはん);L21
+kanji;tsuku(ru) / saku;作;fare / creare;kun: つく.る | on: さく・さ — 作ります(つくります);L21
+kanji;kotobuki / ju;寿;longevità / auguri;kun: ことぶき | on: じゅ — 寿司(すし);L21
+kanji;tsukasa / shi;司;amministrare / ufficio;kun: つかさ | on: し — 寿司(すし);L21
+kanji;kara(i) / shin;辛;piccante / duro;kun: から.い・つら.い | on: しん — 辛い(からい);L21
+kanji;no(mu) / in;飲;bere;kun: の.む | on: いん — 飲み物(のみもの)・飲みます(のみます);L21
+kanji;cha / sa;茶;tè;on: ちゃ・さ — 紅茶(こうちゃ)・お茶(おちゃ);L21
+kanji;kurenai / kou;紅;rosso vivo;kun: べに・くれない | on: こう・く — 紅茶(こうちゃ);L21
+kanji;hara(u) / futsu;払;pagare;kun: はら.う | on: ふつ — 払います(はらいます);L21
+kanji;a(taru) / tou;当;colpire / corrispondere;kun: あ.たる | on: とう — 本当(ほんとう);L21
+kanji;o / sho / cho;緒;filo / inizio;kun: お | on: しょ・ちょ — 一緒(いっしょ);L21
+kanji;soso(gu) / chuu;注;versare / annotare;kun: そそ.ぐ | on: ちゅう — 注文(ちゅうもん);L21
+kanji;fumi / bun / mon;文;frase / testo;kun: ふみ | on: ぶん・もん — 注文(ちゅうもん)・例文(れいぶん)・文法(ぶんぽう);L21
+kanji;bu;部;sezione / parte;on: ぶ — 部屋(へや);L21
+kanji;ya / oku;屋;negozio / tetto;kun: や | on: おく — 部屋(へや);L21
+kanji;tsukue / ki;机;scrivania;kun: つくえ | on: き — 机(つくえ);L21
+kanji;mado / sou;窓;finestra;kun: まど | on: そう — 窓(まど);L21
+kanji;u(eru) / shoku;植;piantare;kun: う.える | on: しょく — 植物(しょくぶつ);L21
+kanji;a(keru) / kai;開;aprire;kun: あ.ける・あ.く・ひら.く | on: かい — 開けます(あけます);L21
+kanji;ha(ku) / sou;掃;scopare;kun: は.く | on: そう — 掃除(そうじ);L21
+kanji;nozo(ku) / jo / ji;除;rimuovere;kun: のぞ.く | on: じょ・じ — 掃除(そうじ);L21
+kanji;chii(sai) / shou;小;piccolo;kun: ちい.さい・こ・お | on: しょう — 小さい(ちいさい);L21
+kanji;chika(i) / kin;近;vicino;kun: ちか.い | on: きん — 近く(ちかく);L21
+kanji;omomuki / shu;趣;gusto / interesse;kun: おもむき | on: しゅ — 趣味(しゅみ);L21
+kanji;aji / mi;味;sapore / gusto;kun: あじ | on: み — 趣味(しゅみ);L21
+kanji;oto / ne / on;音;suono;kun: おと・ね | on: おん・いん — 音楽(おんがく);L21
+kanji;utsu(ru) / ei;映;riflettere / proiettare;kun: うつ.る・うつ.す | on: えい — 映画(えいが);L21
+kanji;ga / kaku;画;immagine / disegno;on: が・かく — 映画(えいが)・計画(けいかく);L21
+kanji;hima / ka;暇;tempo libero;kun: ひま | on: か — 暇なとき(ひまなとき);L21
+kanji;eki;駅;stazione;on: えき — 駅(えき);L21
+kanji;ma(tsu) / tai;待;aspettare;kun: ま.つ | on: たい — 待ち合わせ(まちあわせ);L21
+kanji;a(u) / gou / gatsu;合;unire / combaciare;kun: あ.う | on: ごう・がっ・かっ — 待ち合わせ(まちあわせ);L21
+kanji;tabi / ryo;旅;viaggio;kun: たび | on: りょ — 旅行(りょこう);L21
+kanji;den;電;elettricità;on: でん — 電車(でんしゃ);L21
+kanji;kuruma / sha;車;auto / veicolo;kun: くるま | on: しゃ — 電車(でんしゃ);L21
+kanji;kyou / kei;京;capitale;on: きょう・けい — 京都(きょうと);L21
+kanji;miyako / to / tsu;都;capitale / metropoli;kun: みやこ | on: と・つ — 京都(きょうと);L21
+kanji;tera / ji;寺;tempio;kun: てら | on: じ — お寺(おてら);L21
+kanji;furu(i) / ko;古;vecchio;kun: ふる.い | on: こ — 古い(ふるい);L21
+kanji;to(maru) / haku;泊;pernottare;kun: と.まる | on: はく — 泊まります(とまります)・2泊(にはく);L21
+kanji;haka(ru) / kei;計;misurare / piano;kun: はか.る | on: けい — 計画(けいかく);L21
+kanji;kou / ooyake;公;pubblico;kun: おおやけ | on: こう — 公園(こうえん);L21
+kanji;sono / en;園;giardino / parco;kun: その | on: えん — 公園(こうえん);L21
+kanji;chi(ru) / san;散;disperdere / cadere;kun: ち.る・ち.らす | on: さん — 散歩(さんぽ);L21
+kanji;aru(ku) / ho / bu;歩;camminare;kun: ある.く・あゆ.む | on: ほ・ぶ・ふ — 歩きます(あるきます)・散歩(さんぽ);L21
+kanji;sora / kuu;空;cielo / vuoto;kun: そら・あ.く・から | on: くう — 空(そら);L21
+kanji;kumo / un;雲;nuvola;kun: くも | on: うん — 雲(くも);L21
+kanji;fu(ru) / kou;降;cadere (pioggia) / scendere;kun: ふ.る・お.りる | on: こう — 降ります(ふります);L21
+kanji;ha(reru) / sei;晴;sereno;kun: は.れる | on: せい — 晴れます(はれます);L21
+kanji;haru / shun;春;primavera;kun: はる | on: しゅん — 春(はる);L21
+kanji;atata(kai) / dan;暖;caldo (clima);kun: あたた.かい | on: だん — 暖かい(あたたかい);L21
+kanji;sa(ku) / shou;咲;sbocciare;kun: さ.く | on: しょう — 咲きます(さきます);L21
+kanji;ki;季;stagione;on: き — 季節(きせつ);L21
+kanji;fushi / setsu;節;nodo / periodo;kun: ふし | on: せつ・せち — 季節(きせつ);L21
+kanji;sue / matsu;末;fine;kun: すえ | on: まつ — 週末(しゅうまつ);L21
+kanji;aida / ma / kan / ken;間;intervallo / tra;kun: あいだ・ま | on: かん・けん — 時間(じかん)・あっという間(あっというま);L21
+kanji;su(giru) / ka;過;passare / eccedere;kun: す.ぎる・す.ごす | on: か — 過ぎる(すぎる);L21
+kanji;ban (numero);番;numero / turno;on: ばん — 一番(いちばん);L21
+kanji;suko(shi) / shou;少;poco;kun: すこ.し・すく.ない | on: しょう — 少し(すこし);L21
+sostantivo;daigakusei;大学生;studente universitario;だいがくせい;L21
+sostantivo;minna;みんな;tutti;みんな;L21
+sostantivo;gyuunyuu;牛乳;latte;ぎゅうにゅう;L21
+sostantivo;tamago;卵;uovo;たまご;L21
+sostantivo;kudamono;果物;frutta;くだもの;L21
+sostantivo;ringo;りんご;mela;りんご;L21
+espressione;mittsu;三つ;tre oggetti (contatore generico ~tsu);みっつ;L21
+sostantivo;osushi;お寿司;sushi;おすし;L21
+sostantivo;nihon ryouri;日本料理;cucina giapponese;にほんりょうり;L21
+sostantivo;hontou;本当;vero / davvero;ほんとう;L21
+sostantivo;machiawase;待ち合わせ;appuntamento / darsi appuntamento;まちあわせ;L21
+sostantivo;chuumon;注文;ordinazione;ちゅうもん;L21
+sostantivo;koucha;紅茶;tè nero;こうちゃ;L21
+sostantivo;mado;窓;finestra;まど;L21
+sostantivo;shokubutsu;植物;pianta;しょくぶつ;L21
+sostantivo;sora;空;cielo;そら;L21
+sostantivo;kumo;雲;nuvola;くも;L21
+verbo;hareru;晴れる;schiarirsi / tornare sereno;はれる;L21
+verbo;saku;咲く;sbocciare;さく;L21
+verbo;tomaru;泊まる;pernottare;とまる;L21
+verbo;chuumon suru;注文する;ordinare;ちゅうもんする;L21
+sostantivo;raigetsu;来月;il mese prossimo;らいげつ;L21
+sostantivo;otera;お寺;tempio;おてら;L21
+aggettivo;furui;古い;vecchio / antico;ふるい;L21
+espressione;nihaku;二泊;due notti (contatore ~haku);にはく;L21
+aggettivo;atarashii;新しい;nuovo;あたらしい;L21
+sostantivo;shokuji;食事;pasto;しょくじ;L21
+sostantivo;kotoba;言葉;parola / lingua;ことば;L21
+sostantivo;kanji;漢字;kanji;かんじ;L21
+sostantivo;hoteru;ホテル;hotel;ホテル;L21
+sostantivo;poppusu;ポップス;musica pop;ポップス;L21
+sostantivo;dorama;ドラマ;drama (serie TV);ドラマ;L21
+sostantivo;dezaato;デザート;dessert;デザート;L21
+sostantivo;piza;ピザ;pizza;ピザ;L21
+sostantivo;kapuchiino;カプチーノ;cappuccino;カプチーノ;L21
+sostantivo;beddo;ベッド;letto;ベッド;L21
+sostantivo;pasokon;パソコン;computer;パソコン;L21
+sostantivo;resutoran;レストラン;ristorante;レストラン;L21
+sostantivo;menyuu;メニュー;menù;メニュー;L21
+espressione;ni suru;〜にする;scegliere / decidere per (水にします);〜にする;L21
+espressione;ni naru;〜になる;diventare (上手になりたい);〜になる;L21
+espressione;no ato de;〜の後で;dopo (nome + の後で / verbo passato + 後で);〜のあとで;L21
+espressione;toki;〜とき;quando (時間があるとき / 暇なとき);〜とき;L21
+espressione;no ue ni;〜の上に;sopra a;〜のうえに;L21
+espressione;no chikaku ni;〜の近くに;vicino a;〜のちかくに;L21
+espressione;koto ga suki;〜ことが好き;piacere fare (verbo + こと + が好き);〜ことがすき;L21
+espressione;no ga suki;〜のが好き;piacere fare (verbo + の + が好き, più parlato);〜のがすき;L21
+frase;watashi no shumi wa ongaku wo kiku koto desu;私の趣味は音楽を聞くことです;il mio hobby è ascoltare la musica;わたしのしゅみはおんがくをきくことです;L21
+frase;atarashii koto wo benkyou suru no mo suki desu;新しいことを勉強するのも好きです;mi piace anche imparare cose nuove;あたらしいことをべんきょうするのもすきです;L21
+frase;kanji wo kaku no wa sukoshi muzukashii desu;漢字を書くのは少し難しいです;scrivere i kanji è un po' difficile;かんじをかくのはすこしむずかしいです;L21
+frase;nihongo wo hanasu no wa tanoshii desu;日本語を話すのは楽しいです;parlare giapponese è divertente;にほんごをはなすのはたのしいです;L21
+frase;jikan ga aru toki nihon no dorama wo mimasu;時間があるとき、日本のドラマを見ます;quando ho tempo guardo i drama giapponesi;じかんがあるとき、にほんのドラマをみます;L21
+frase;motto nihongo ga jouzu ni naritai desu;もっと日本語が上手になりたいです;vorrei migliorare il mio giapponese;もっとにほんごがじょうずになりたいです;L21
+frase;itsuka nihonjin to nihongo de hanashitai desu;いつか日本人と日本語で話したいです;un giorno vorrei parlare in giapponese con un giapponese;いつかにほんじんとにほんごではなしたいです;L21
+frase;nomimono wa mizu ni shimasu;飲み物は水にします;come bevanda scelgo l'acqua;のみものはみずにします;L21
+frase;shokuji no ato de dezaato wo tabemasu;食事の後で、デザートを食べます;dopo il pasto mangio un dessert;しょくじのあとで、デザートをたべます;L21
+frase;mata kono resutoran ni kitai desu;またこのレストランに来たいです;vorrei tornare in questo ristorante;またこのレストランにきたいです;L21
+frase;saigo ni okane wo haraimasu;最後にお金を払います;alla fine pago il conto;さいごにおかねをはらいます;L21
+frase;hoteru ni nihaku shimasu;ホテルに2泊します;rimarrò in hotel per due notti;ホテルににはくします;L21
+frase;raigetsu tomodachi to ryokou ni ikimasu;来月、友達と旅行に行きます;il mese prossimo vado in viaggio con un amico;らいげつ、ともだちとりょこうにいきます;L21
+frase;densha de kyouto e ikimasu;電車で京都へ行きます;vado a Kyoto in treno;でんしゃできょうとへいきます;L21
+frase;kyouto ni wa yuumei na otera ga takusan arimasu;京都には有名なお寺がたくさんあります;a Kyoto ci sono molti templi famosi;きょうとにはゆうめいなおてらがたくさんあります;L21
+frase;tsukue no ue ni pasokon ga arimasu;机の上にパソコンがあります;sulla scrivania c'è un computer;つくえのうえにパソコンがあります;L21
+frase;mado no chikaku ni chiisai shokubutsu ga arimasu;窓の近くに小さい植物があります;vicino alla finestra c'è una piccola pianta;まどのちかくにちいさいしょくぶつがあります;L21
+frase;asa wa ame ga futte imashita;朝は雨が降っていました;stamattina pioveva;あさはあめがふっていました;L21
+frase;haru wa atatakakute hana ga takusan sakimasu;春は暖かくて、花がたくさん咲きます;in primavera fa caldo e sbocciano molti fiori;はるはあたたかくて、はながたくさんさきます;L21
+frase;kouen wo sanpo suru no ga suki desu;公園を散歩するのが好きです;mi piace passeggiare nel parco;こうえんをさんぽするのがすきです;L21
+frase;totemo tanoshimi ni shite imasu;とても楽しみにしています;non vedo l'ora;とてもたのしみにしています;L21
