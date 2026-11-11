@@ -1896,5 +1896,93 @@
       "takatta": "houmon shitakatta",
       "takunakatta": "houmon shitakunakatta"
     }
+  },
+  {
+    "romaji": "saku",
+    "kana": "咲く",
+    "hiragana": "さく",
+    "italiano": "sbocciare",
+    "gruppo": 1,
+    "forme": {
+      "presente_formale": "sakimasu",
+      "negativo_formale": "sakimasen",
+      "passato_formale": "sakimashita",
+      "passato_neg_formale": "sakimasen deshita",
+      "plain_past": "saita",
+      "neg_informale": "sakanai",
+      "neg_informale_passato": "sakanakatta",
+      "forma_te": "saite",
+      "forma_te_neg": "sakanakute",
+      "tai": "sakitai",
+      "takunai": "sakitakunai",
+      "takatta": "sakitakatta",
+      "takunakatta": "sakitakunakatta"
+    }
+  },
+  {
+    "romaji": "hareru",
+    "kana": "晴れる",
+    "hiragana": "はれる",
+    "italiano": "schiarirsi / tornare sereno",
+    "gruppo": 2,
+    "forme": {
+      "presente_formale": "haremasu",
+      "negativo_formale": "haremasen",
+      "passato_formale": "haremashita",
+      "passato_neg_formale": "haremasen deshita",
+      "plain_past": "hareta",
+      "neg_informale": "harenai",
+      "neg_informale_passato": "harenakatta",
+      "forma_te": "harete",
+      "forma_te_neg": "harenakute",
+      "tai": "haretai",
+      "takunai": "haretakunai",
+      "takatta": "haretakatta",
+      "takunakatta": "haretakunakatta"
+    }
+  },
+  {
+    "romaji": "tomaru",
+    "kana": "泊まる",
+    "hiragana": "とまる",
+    "italiano": "pernottare",
+    "gruppo": 1,
+    "forme": {
+      "presente_formale": "tomarimasu",
+      "negativo_formale": "tomarimasen",
+      "passato_formale": "tomarimashita",
+      "passato_neg_formale": "tomarimasen deshita",
+      "plain_past": "tomatta",
+      "neg_informale": "tomaranai",
+      "neg_informale_passato": "tomaranakatta",
+      "forma_te": "tomatte",
+      "forma_te_neg": "tomaranakute",
+      "tai": "tomaritai",
+      "takunai": "tomaritakunai",
+      "takatta": "tomaritakatta",
+      "takunakatta": "tomaritakunakatta"
+    }
+  },
+  {
+    "romaji": "chuumon suru",
+    "kana": "注文する",
+    "hiragana": "ちゅうもんする",
+    "italiano": "ordinare",
+    "gruppo": 3,
+    "forme": {
+      "presente_formale": "chuumon shimasu",
+      "negativo_formale": "chuumon shimasen",
+      "passato_formale": "chuumon shimashita",
+      "passato_neg_formale": "chuumon shimasen deshita",
+      "plain_past": "chuumon shita",
+      "neg_informale": "chuumon shinai",
+      "neg_informale_passato": "chuumon shinakatta",
+      "forma_te": "chuumon shite",
+      "forma_te_neg": "chuumon shinakute",
+      "tai": "chuumon shitai",
+      "takunai": "chuumon shitakunai",
+      "takatta": "chuumon shitakatta",
+      "takunakatta": "chuumon shitakunakatta"
+    }
   }
 ]
