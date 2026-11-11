@@ -3559,4 +3559,343 @@ Questa lezione non ha verbi nuovi: 生まれる, 洗う, 寝る e 帰る erano g
 
 ---
 
-*Ultima lezione: Lezione 20 — 6 novembre 2026*
+---
+
+---
+
+# 📗 Lezione 21 — 11 novembre 2026
+
+**Argomenti:** 10 testi di lettura (famiglia, spesa, cibo, caffè, stanza, meteo, viaggio, hobby, ristorante, studio del giapponese), riepilogo grammaticale, 91 kanji nuovi in contesto
+
+I testi servono soprattutto per abituarsi a leggere: come dice il materiale stesso, non serve memorizzare subito tutti i kanji.
+
+---
+
+## 📖 I testi
+
+### ① 私の家族 — La mia famiglia
+
+| Giapponese | Italiano |
+|---|---|
+| 私の家族は4人です。 | La mia famiglia è composta da quattro persone. |
+| 父と母と妹と私です。 | Mio padre, mia madre, mia sorella minore e io. |
+| 父は会社で働いています。 | Mio padre lavora in un'azienda. |
+| 母は料理が好きです。 | A mia madre piace cucinare. |
+| 妹は大学生です。 | Mia sorella minore è una studentessa universitaria. |
+| 週末は家族みんなでご飯を食べます。 | Nel fine settimana mangiamo tutti insieme. |
+| 私は家族が大好きです。 | Voglio molto bene alla mia famiglia. |
+
+### ② スーパーで買い物 — Fare la spesa al supermercato
+
+| Giapponese | Italiano |
+|---|---|
+| 今日はスーパーへ行きます。 | Oggi vado al supermercato. |
+| 牛乳と卵を買います。 | Compro latte e uova. |
+| それから、野菜と果物も買います。 | Dopo, compro anche verdura e frutta. |
+| りんごを3つ買いました。 | Ho comprato tre mele. |
+| パンも買いたいです。 | Vorrei comprare anche del pane. |
+| 今日はたくさん買い物をしました。 | Oggi ho fatto molta spesa. |
+| 家に帰って、晩ごはんを作ります。 | Torno a casa e preparo la cena. |
+
+### ③ 好きな食べ物 — Il mio cibo preferito
+
+| Giapponese | Italiano |
+|---|---|
+| 私は日本料理が好きです。 | Mi piace la cucina giapponese. |
+| 特にお寿司が大好きです。 | In particolare, adoro il sushi. |
+| 魚とご飯を一緒に食べます。 | Mangio insieme pesce e riso. |
+| ラーメンもよく食べます。 | Mangio spesso anche il ramen. |
+| でも、辛い食べ物はあまり好きではありません。 | Però non mi piacciono molto i cibi piccanti. |
+| いつか日本へ行って、本当の日本料理を食べたいです。 | Un giorno vorrei andare in Giappone e mangiare la vera cucina giapponese. |
+
+### ④ カフェで友達と会う — Incontrare un amico al bar
+
+| Giapponese | Italiano |
+|---|---|
+| 今日は友達とカフェで会います。 | Oggi incontro un amico / un'amica al bar. |
+| 午後3時に駅で待ち合わせをします。 | Ci incontriamo alla stazione alle tre del pomeriggio. |
+| 一緒にカフェへ行きます。 | Andiamo insieme in un bar. |
+| 私はカプチーノを注文します。 | Ordino un cappuccino. |
+| 友達は紅茶を飲みます。 | Il mio amico / La mia amica beve un tè. |
+| 私たちは仕事や旅行について話します。 | Parliamo del lavoro e dei viaggi. |
+| 時間はあっという間に過ぎました。 | Il tempo è passato molto velocemente. |
+| また会いたいです。 | Vorrei incontrarlo/a di nuovo. |
+
+### ⑤ 私の部屋 — La mia stanza
+
+| Giapponese | Italiano |
+|---|---|
+| 私の部屋は小さいですが、とてもきれいです。 | La mia stanza è piccola, ma molto pulita. |
+| 部屋にはベッドと机があります。 | Nella stanza ci sono un letto e una scrivania. |
+| 机の上にパソコンがあります。 | Sulla scrivania c'è un computer. |
+| 窓の近くに小さい植物があります。 | Vicino alla finestra c'è una piccola pianta. |
+| 毎朝、部屋の窓を開けます。 | Ogni mattina apro la finestra della stanza. |
+| 週末に掃除をします。 | Nel fine settimana faccio le pulizie. |
+| 自分の部屋がとても好きです。 | Mi piace molto la mia stanza. |
+
+### ⑥ 天気と季節 — Il tempo e le stagioni
+
+| Giapponese | Italiano |
+|---|---|
+| 今日は少し寒いです。 | Oggi fa un po' freddo. |
+| 空に雲がたくさんあります。 | Ci sono tante nuvole nel cielo. |
+| 朝は雨が降っていました。 | La mattina pioveva. |
+| 午後は晴れました。 | Nel pomeriggio è uscito il sole. |
+| 私は春が一番好きです。 | La primavera è la mia stagione preferita. |
+| 春は暖かくて、花がたくさん咲きます。 | In primavera fa caldo e sbocciano tanti fiori. |
+| 公園を散歩するのが好きです。 | Mi piace passeggiare nel parco. |
+
+### ⑦ 旅行の計画 — I programmi per un viaggio
+
+| Giapponese | Italiano |
+|---|---|
+| 来月、友達と旅行に行きます。 | Il mese prossimo andrò in viaggio con un amico / un'amica. |
+| 電車で京都へ行きます。 | Andrò a Kyoto in treno. |
+| 京都には有名なお寺がたくさんあります。 | A Kyoto ci sono molti templi famosi. |
+| 古い町を歩きたいです。 | Vorrei passeggiare per la città vecchia. |
+| おいしい料理も食べたいです。 | Vorrei anche mangiare piatti deliziosi. |
+| ホテルに2泊します。 | Rimarrò in hotel per due notti. |
+| とても楽しみにしています。 | Non vedo l'ora! |
+
+### ⑧ 私の趣味 — I miei hobby
+
+| Giapponese | Italiano |
+|---|---|
+| 私の趣味は音楽を聞くことです。 | Il mio hobby è ascoltare la musica. |
+| 毎日、好きな音楽を聞きます。 | Ogni giorno ascolto la musica che mi piace. |
+| 特にポップスが好きです。 | Mi piace soprattutto il pop. |
+| 休みの日は映画も見ます。 | Nei giorni liberi guardo anche film. |
+| 時々、本を読みます。 | A volte leggo libri. |
+| 新しいことを勉強するのも好きです。 | Mi piace anche imparare cose nuove. |
+| 趣味の時間はとても楽しいです。 | Il tempo dedicato ai miei hobby è molto piacevole. |
+
+### ⑨ レストランで注文する — Ordinare al ristorante
+
+| Giapponese | Italiano |
+|---|---|
+| 今日はレストランで晩ごはんを食べます。 | Oggi ceno al ristorante. |
+| メニューを見て、パスタを注文します。 | Guardo il menù e ordino la pasta. |
+| 飲み物は水にします。 | Come bevanda scelgo l'acqua. |
+| 友達はピザを注文しました。 | Il mio amico / La mia amica ha ordinato una pizza. |
+| 料理はとてもおいしいです。 | Il cibo è molto buono. |
+| 食事の後で、デザートを食べます。 | Dopo il pasto mangio un dessert. |
+| 最後にお金を払います。 | Alla fine pago il conto. |
+| またこのレストランに来たいです。 | Vorrei tornare di nuovo in questo ristorante. |
+
+### ⑩ 日本語の勉強 — Lo studio della lingua giapponese
+
+| Giapponese | Italiano |
+|---|---|
+| 私は日本語を勉強しています。 | Studio giapponese. |
+| 毎日、新しい言葉を覚えます。 | Ogni giorno imparo nuove parole. |
+| 漢字を書くのは少し難しいです。 | Scrivere i kanji è un po' difficile. |
+| でも、日本語を話すのは楽しいです。 | Però parlare giapponese è divertente. |
+| 時間があるとき、日本のドラマを見ます。 | Quando ho tempo, guardo i drama giapponesi. |
+| もっと日本語が上手になりたいです。 | Vorrei migliorare il mio giapponese. |
+| いつか日本人と日本語で話したいです。 | Un giorno vorrei parlare in giapponese con una persona giapponese. |
+
+---
+
+## 🆕 Grammatica
+
+### Riepilogo (文法まとめ)
+
+| Struttura | Italiano | Esempio |
+|---|---|---|
+| ～ています | stare facendo | 勉強しています |
+| ～たいです | volere | 食べたいです |
+| ～ことが好きです | piacere fare | 読むことが好きです |
+| ～の上に | sopra | 机の上にあります |
+| ～の近く | vicino a | 駅の近く |
+| ～た後で | dopo aver fatto | 食べた後で |
+| ～とき | quando | 暇なとき |
+| ～になります | diventare | 上手になります |
+| ～から | da / perché | 9時から |
+| ～も | anche | 映画も見ます |
+
+### Strutture che compaiono nei testi
+
+| Struttura | Esempio | Italiano |
+|---|---|---|
+| ～にする (scegliere) | 飲み物は水にします | Come bevanda scelgo l'acqua |
+| 名詞 + の後で | 食事の後で、デザートを食べます | Dopo il pasto mangio un dessert |
+| verbo passato + 後で | 食べた後で | Dopo aver mangiato |
+| verbo / aggettivo + とき | 時間があるとき、ドラマを見ます | Quando ho tempo guardo i drama |
+| aggettivo -na + なとき | 暇なとき | Quando sono libero |
+| ～ことです (definizione) | 趣味は音楽を聞くことです | Il mio hobby è ascoltare la musica |
+| verbo + の + は / が | 漢字を書くのは難しいです | Scrivere i kanji è difficile |
+| ～になりたい | 日本語が上手になりたいです | Vorrei diventare bravo in giapponese |
+| ～ていました (passato progressivo) | 朝は雨が降っていました | Stamattina pioveva |
+| ～にしています | 楽しみにしています | Non vedo l'ora |
+| ～で (lingua / mezzo) | 日本語で話す / 電車で行く | Parlare in giapponese / andare in treno |
+| ～に来る | このレストランに来たい | Voglio tornare qui |
+
+### Contatori nuovi
+
+| Contatore | Lettura | Uso |
+|---|---|---|
+| 3つ | みっつ | Oggetti generici (ひとつ, ふたつ, みっつ, よっつ, いつつ…) |
+| 2泊 | にはく | Notti in albergo (いっぱく, にはく, さんぱく, よんはく…) |
+
+---
+
+## 🈶 Kanji della lezione (91 nuovi)
+
+### 👨‍👩‍👧 Persone e famiglia
+
+| Kanji | Kun'yomi | On'yomi | Significato | Parole nel testo |
+|---|---|---|---|---|
+| 私 | わたし、わたくし | し | io / privato | 私 (わたし) / 私たち (わたしたち) |
+| 妹 | いもうと | まい | sorella minore | 妹 (いもうと) |
+| 自 | みずか(ら) | じ、し | sé stesso | 自分 (じぶん) |
+| 分 | わ(かる)、わ(ける) | ぶん、ふん、ぶ | parte / minuto / capire | 自分 (じぶん) / 分かる (わかる) |
+| 名 | な | めい、みょう | nome | 有名 (ゆうめい) |
+| 有 | あ(る) | ゆう、う | avere / esistere | 有名 (ゆうめい) |
+| 大 | おお(きい)、おお | だい、たい | grande | 大学生 (だいがくせい) / 大好き (だいすき) |
+
+### 💼 Lavoro, studio e lingua
+
+| Kanji | Kun'yomi | On'yomi | Significato | Parole nel testo |
+|---|---|---|---|---|
+| 働 | はたら(く) | どう | lavorare | 働きます (はたらきます) |
+| 語 | かた(る) | ご | lingua / parola | 日本語 (にほんご) |
+| 言 | い(う)、こと | げん、ごん | dire | 言葉 (ことば) |
+| 葉 | は | よう | foglia / parola | 言葉 (ことば) |
+| 漢 | — | かん | Cina / kanji | 漢字 (かんじ) |
+| 字 | あざ | じ | carattere / lettera | 漢字 (かんじ) |
+| 習 | なら(う) | しゅう | imparare / esercitarsi | 学習 (がくしゅう) |
+| 覚 | おぼ(える)、さ(ます) | かく | ricordare / memorizzare | 覚えます (おぼえます) |
+| 書 | か(く) | しょ | scrivere | 書きます (かきます) |
+| 読 | よ(む) | どく、とく | leggere | 読みます (よみます) |
+| 話 | はな(す)、はなし | わ | parlare / discorso | 話します (はなします) / 手話 (しゅわ) |
+| 難 | むずか(しい)、かた(い) | なん | difficile | 難しい (むずかしい) |
+| 新 | あたら(しい)、あら(た) | しん | nuovo | 新しい (あたらしい) / 新聞 (しんぶん) |
+| 最 | もっと(も) | さい | il più / estremo | 最後 (さいご) |
+| 例 | たと(える) | れい | esempio | 例文 (れいぶん) |
+| 法 | のり | ほう、はっ、ほっ | legge / metodo | 文法 (ぶんぽう) |
+
+### 🍽️ Cibo, bevande e spesa
+
+| Kanji | Kun'yomi | On'yomi | Significato | Parole nel testo |
+|---|---|---|---|---|
+| 飯 | めし | はん | riso cotto / pasto | ご飯 (ごはん) |
+| 牛 | うし | ぎゅう | mucca | 牛乳 (ぎゅうにゅう) |
+| 乳 | ちち | にゅう | latte / seno | 牛乳 (ぎゅうにゅう) |
+| 卵 | たまご | らん | uovo | 卵 (たまご) |
+| 野 | の | や | campo / pianura | 野菜 (やさい) |
+| 菜 | な | さい | verdura | 野菜 (やさい) |
+| 果 | は(たす)、は(て) | か | frutto / risultato | 果物 (くだもの) |
+| 物 | もの | ぶつ、もつ | cosa / oggetto | 果物 (くだもの) / 買い物 (かいもの) / 食べ物 (たべもの) |
+| 買 | か(う) | ばい | comprare | 買います (かいます) / 買い物 (かいもの) |
+| 晩 | — | ばん | sera | 晩ごはん (ばんごはん) |
+| 作 | つく(る) | さく、さ | fare / creare | 作ります (つくります) |
+| 寿 | ことぶき | じゅ | longevità / auguri | 寿司 (すし) |
+| 司 | つかさ | し | amministrare / ufficio | 寿司 (すし) |
+| 辛 | から(い)、つら(い) | しん | piccante / duro | 辛い (からい) |
+| 飲 | の(む) | いん | bere | 飲み物 (のみもの) / 飲みます (のみます) |
+| 茶 | — | ちゃ、さ | tè | 紅茶 (こうちゃ) / お茶 (おちゃ) |
+| 紅 | べに、くれない | こう、く | rosso vivo | 紅茶 (こうちゃ) |
+| 払 | はら(う) | ふつ | pagare | 払います (はらいます) |
+| 当 | あ(たる) | とう | colpire / corrispondere | 本当 (ほんとう) |
+| 緒 | お | しょ、ちょ | filo / inizio | 一緒 (いっしょ) |
+| 注 | そそ(ぐ) | ちゅう | versare / annotare | 注文 (ちゅうもん) |
+| 文 | ふみ | ぶん、もん | frase / testo | 注文 (ちゅうもん) / 例文 (れいぶん) / 文法 (ぶんぽう) |
+
+### 🏠 Casa e vita quotidiana
+
+| Kanji | Kun'yomi | On'yomi | Significato | Parole nel testo |
+|---|---|---|---|---|
+| 部 | — | ぶ | sezione / parte | 部屋 (へや) |
+| 屋 | や | おく | negozio / tetto | 部屋 (へや) |
+| 机 | つくえ | き | scrivania | 机 (つくえ) |
+| 窓 | まど | そう | finestra | 窓 (まど) |
+| 植 | う(える) | しょく | piantare | 植物 (しょくぶつ) |
+| 開 | あ(ける)、あ(く)、ひら(く) | かい | aprire | 開けます (あけます) |
+| 掃 | は(く) | そう | scopare | 掃除 (そうじ) |
+| 除 | のぞ(く) | じょ、じ | rimuovere | 掃除 (そうじ) |
+| 小 | ちい(さい)、こ、お | しょう | piccolo | 小さい (ちいさい) |
+| 近 | ちか(い) | きん | vicino | 近く (ちかく) |
+| 趣 | おもむき | しゅ | gusto / interesse | 趣味 (しゅみ) |
+| 味 | あじ | み | sapore / gusto | 趣味 (しゅみ) |
+| 音 | おと、ね | おん、いん | suono | 音楽 (おんがく) |
+| 映 | うつ(る)、うつ(す) | えい | riflettere / proiettare | 映画 (えいが) |
+| 画 | — | が、かく | immagine / disegno | 映画 (えいが) / 計画 (けいかく) |
+| 暇 | ひま | か | tempo libero | 暇なとき (ひまなとき) |
+
+### 🚃 Luoghi e viaggio
+
+| Kanji | Kun'yomi | On'yomi | Significato | Parole nel testo |
+|---|---|---|---|---|
+| 駅 | — | えき | stazione | 駅 (えき) |
+| 待 | ま(つ) | たい | aspettare | 待ち合わせ (まちあわせ) |
+| 合 | あ(う) | ごう、がっ、かっ | unire / combaciare | 待ち合わせ (まちあわせ) |
+| 旅 | たび | りょ | viaggio | 旅行 (りょこう) |
+| 電 | — | でん | elettricità | 電車 (でんしゃ) |
+| 車 | くるま | しゃ | auto / veicolo | 電車 (でんしゃ) |
+| 京 | — | きょう、けい | capitale | 京都 (きょうと) |
+| 都 | みやこ | と、つ | capitale / metropoli | 京都 (きょうと) |
+| 寺 | てら | じ | tempio | お寺 (おてら) |
+| 古 | ふる(い) | こ | vecchio | 古い (ふるい) |
+| 泊 | と(まる) | はく | pernottare | 泊まります (とまります) / 2泊 (にはく) |
+| 計 | はか(る) | けい | misurare / piano | 計画 (けいかく) |
+| 公 | おおやけ | こう | pubblico | 公園 (こうえん) |
+| 園 | その | えん | giardino / parco | 公園 (こうえん) |
+| 散 | ち(る)、ち(らす) | さん | disperdere / cadere | 散歩 (さんぽ) |
+| 歩 | ある(く)、あゆ(む) | ほ、ぶ、ふ | camminare | 歩きます (あるきます) / 散歩 (さんぽ) |
+
+### 🌦️ Tempo e stagioni
+
+| Kanji | Kun'yomi | On'yomi | Significato | Parole nel testo |
+|---|---|---|---|---|
+| 空 | そら、あ(く)、から | くう | cielo / vuoto | 空 (そら) |
+| 雲 | くも | うん | nuvola | 雲 (くも) |
+| 降 | ふ(る)、お(りる) | こう | cadere (pioggia) / scendere | 降ります (ふります) |
+| 晴 | は(れる) | せい | sereno | 晴れます (はれます) |
+| 春 | はる | しゅん | primavera | 春 (はる) |
+| 暖 | あたた(かい) | だん | caldo (clima) | 暖かい (あたたかい) |
+| 咲 | さ(く) | しょう | sbocciare | 咲きます (さきます) |
+| 季 | — | き | stagione | 季節 (きせつ) |
+| 節 | ふし | せつ、せち | nodo / periodo | 季節 (きせつ) |
+| 末 | すえ | まつ | fine | 週末 (しゅうまつ) |
+| 間 | あいだ、ま | かん、けん | intervallo / tra | 時間 (じかん) / あっという間 (あっというま) |
+| 過 | す(ぎる)、す(ごす) | か | passare / eccedere | 過ぎる (すぎる) |
+| 番 | — | ばん | numero / turno | 一番 (いちばん) |
+| 少 | すこ(し)、すく(ない) | しょう | poco | 少し (すこし) |
+
+### ⚠️ Letture speciali
+
+Parole da memorizzare intere, perché le letture non si ricavano dai singoli kanji.
+
+| Giapponese | Lettura | Italiano |
+|---|---|---|
+| 部屋 | へや | stanza |
+| 寿司 | すし | sushi |
+| 一緒 | いっしょ | insieme |
+| 大好き | だいすき | adorare |
+| 時々 | ときどき | a volte |
+| 一番 | いちばん | il più |
+
+---
+
+## 📌 Verbi nuovi
+
+| Romaji | Giapponese | Italiano | Gruppo |
+|---|---|---|---|
+| Saku | 咲く | Sbocciare | 1 |
+| Hareru | 晴れる | Schiarirsi / tornare sereno | 2 |
+| Tomaru | 泊まる | Pernottare | 1 |
+| Chuumon suru | 注文する | Ordinare | 3 |
+
+Aggiunti anche al JSON della palestra dei verbi.
+
+---
+
+## 🔍 Note sul materiale
+
+- Nei testi ② e ⑨ i tempi si mescolano: prima presente/futuro (行きます, 買います), poi passato (買いました, 注文しました), poi di nuovo presente. In giapponese il presente educato vale anche per il futuro, ma in un racconto scritto conviene tenere un solo tempo.
+- Nel testo ④ la prima frase dice カフェで会います ("ci vediamo al bar"), ma poi ci si trova alla stazione e si va insieme al bar: il luogo dell'incontro non coincide.
+- 暖かい (clima, aria) e 温かい (cose da toccare o consumare) si leggono entrambi あたたかい.
+
+---
+
+*Ultima lezione: Lezione 21 — 11 novembre 2026*
